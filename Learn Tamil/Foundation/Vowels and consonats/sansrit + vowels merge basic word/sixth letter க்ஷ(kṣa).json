@@ -1,0 +1,67 @@
+ [{
+    "screen_type": "Learn and Practice with Image",
+    "screen_type_id": 19,
+    "title": "Learn Uyir Mei Letters - க்ஷ(kṣa)",
+    "instruction": "Listen, View and Repeat",
+    "exercise": [
+      { "image_description": "க்ஷ",
+       "image_url_light": "URL_க்ஷ_light",
+        "image_url_dark": "URL_க்ஷ_dark"
+     },
+      { "image_description": "க்ஷா",
+       "image_url_light": "URL_க்ஷா_light",
+        "image_url_dark": "URL_க்ஷா_dark"
+     },
+      { "image_description": "க்ஷி",
+       "image_url_light": "URL_க்ஷி_light",
+        "image_url_dark": "URL_க்ஷி_dark"
+     },
+      { "image_description": "க்ஷீ", 
+      "image_url_light": "URL_க்ஷீ_light",
+       "image_url_dark": "URL_க்ஷீ_dark" 
+    },
+      { "image_description": "க்ஷு", 
+      "image_url_light": "URL_க்ஷு_light",
+       "image_url_dark": "URL_க்ஷு_dark"
+     },
+      { "image_description": "க்ஷூ", 
+      "image_url_light": "URL_க்ஷூ_light", 
+      "image_url_dark": "URL_க்ஷூ_dark" 
+    },
+      { "image_description": "க்ஷெ", 
+      "image_url_light": "URL_க்ஷெ_light",
+      "image_url_dark": "URL_க்ஷெ_dark"
+     },
+      { "image_description": "க்ஷே",
+       "image_url_light": "URL_க்ஷே_light",
+        "image_url_dark": "URL_க்ஷே_dark" 
+    },
+      { "image_description": "க்ஷை", 
+      "image_url_light": "URL_க்ஷை_light", 
+      "image_url_dark": "URL_க்ஷை_dark" 
+    },
+      { "image_description": "க்ஷொ", 
+      "image_url_light": "URL_க்ஷொ_light", 
+      "image_url_dark": "URL_க்ஷொ_dark" 
+    },
+      { "image_description": "க்ஷோ",
+       "image_url_light": "URL_க்ஷோ_light", 
+       "image_url_dark": "URL_க்ஷோ_dark" 
+    },
+      { "image_description": "க்ஷௌ", 
+      "image_url_light": "URL_க்ஷௌ_light", 
+      "image_url_dark": "URL_க்ஷௌ_dark" 
+    }
+    ],
+    "intro_screen_title": "Vowels (உயிர் எழுத்துக்கள்) with Sanskrit letters (கிரந்த எழுத்துக்கள்) க்ஷ(kṣa)",
+    "intro_screen": [
+      {
+        "sub_title": "Uyir Mei Forms of க்ஷ(kṣa)",
+        "banner_img": [
+          { "image_light": "URL_banner_க்ஷ_light", 
+          "image_dark": "URL_banner_க்ஷ_dark" }
+        ],
+        "description": "The Sanskrit letters (கிரந்த எழுத்துக்கள்) க்ஷ(kṣa) merges with the twelve Tamil vowels to form its Uyir Mei variations: க்ஷ (kṣa), க்ஷா (kṣaa), க்ஷி (kṣi), க்ஷீ (kṣii), க்ஷு (kṣu), க்ஷூ (kṣuu), க்ஷெ (kṣe), க்ஷே (kṣee), க்ஷை (kṣai), க்ஷொ (kṣo), க்ஷோ (kṣoo), and க்ஷௌ (kṣau)."
+      }
+    ]
+  }]

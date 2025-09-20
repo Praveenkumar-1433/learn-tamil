@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Tamil Words with ஶூ (shoo)",
+    "instruction": "Find the meaning of the Tamil words containing ஶூ (shoo)",
+    "exercise": [
+      { "correct_answer": "ஶூலம்", "pronunciation": "shoolam", "meaning": { "base_language": "trident, spear" } },
+      { "correct_answer": "ஶூலினி", "pronunciation": "shoolini", "meaning": { "base_language": "goddess with trident" } },
+      { "correct_answer": "ஶூலபாணி", "pronunciation": "shoolapaani", "meaning": { "base_language": "Lord Shiva (holder of trident)" } },
+      { "correct_answer": "ஶூலதரன்", "pronunciation": "shooladharan", "meaning": { "base_language": "one who carries trident" } },
+      { "correct_answer": "ஶூலேஷ்வரி", "pronunciation": "shooleshwari", "meaning": { "base_language": "goddess with trident" } },
+
+      { "correct_answer": "ஶூன்யம்", "pronunciation": "shooniyam", "meaning": { "base_language": "zero, emptiness" } },
+      { "correct_answer": "ஶூன்யதா", "pronunciation": "shooniyadaa", "meaning": { "base_language": "emptiness, void" } },
+      { "correct_answer": "ஶூன்யத்வம்", "pronunciation": "shooniyatvam", "meaning": { "base_language": "state of emptiness" } },
+      { "correct_answer": "ஶூன்யபோதம்", "pronunciation": "shooniyabodham", "meaning": { "base_language": "realization of emptiness" } },
+      { "correct_answer": "ஶூன்யவாதம்", "pronunciation": "shooniyavaatham", "meaning": { "base_language": "doctrine of emptiness" } },
+
+      { "correct_answer": "ஶூனகம்", "pronunciation": "shoonagam", "meaning": { "base_language": "a kind of dog (Sanskrit)" } },
+      { "correct_answer": "ஶூனகர்", "pronunciation": "shoonagar", "meaning": { "base_language": "sage Shunaka" } },
+      { "correct_answer": "ஶூனியபூஜை", "pronunciation": "shooniyapoojai", "meaning": { "base_language": "ritual of emptiness" } },
+      { "correct_answer": "ஶூனியதேசம்", "pronunciation": "shooniyadesam", "meaning": { "base_language": "deserted land" } },
+      { "correct_answer": "ஶூனியமந்திரம்", "pronunciation": "shooniyamanthiram", "meaning": { "base_language": "occult mantra of emptiness" } },
+
+      { "correct_answer": "ஶூட்ரன்", "pronunciation": "shoodran", "meaning": { "base_language": "Shudra (fourth varna)" } },
+      { "correct_answer": "ஶூட்ராணி", "pronunciation": "shoodraani", "meaning": { "base_language": "female of Shudra caste" } },
+      { "correct_answer": "ஶூட்ரதர்மம்", "pronunciation": "shoodradharmam", "meaning": { "base_language": "duty of Shudra" } },
+      { "correct_answer": "ஶூட்ரகாரியம்", "pronunciation": "shoodrakaariyam", "meaning": { "base_language": "Shudra’s work" } },
+      { "correct_answer": "ஶூட்ரகுலம்", "pronunciation": "shoodrakulam", "meaning": { "base_language": "Shudra community" } },
+
+      { "correct_answer": "ஶூட்ரஜாதி", "pronunciation": "shoodrajaathi", "meaning": { "base_language": "Shudra caste" } },
+      { "correct_answer": "ஶூட்ரபுராணம்", "pronunciation": "shoodrapuranam", "meaning": { "base_language": "legend of Shudras" } },
+      { "correct_answer": "ஶூட்ரராஜா", "pronunciation": "shoodraraajaa", "meaning": { "base_language": "king from Shudra caste" } },
+      { "correct_answer": "ஶூட்ரமஹான்", "pronunciation": "shoodramahaan", "meaning": { "base_language": "great Shudra" } },
+      { "correct_answer": "ஶூட்ரவம்சம்", "pronunciation": "shoodravamsham", "meaning": { "base_language": "Shudra lineage" } },
+
+      { "correct_answer": "ஶூட்ரமந்திரம்", "pronunciation": "shoodramanthiram", "meaning": { "base_language": "chant for Shudras" } },
+      { "correct_answer": "ஶூட்ரபதம்", "pronunciation": "shoodrapadham", "meaning": { "base_language": "Shudra position" } },
+      { "correct_answer": "ஶூட்ரத்வம்", "pronunciation": "shoodrathvam", "meaning": { "base_language": "state of being Shudra" } },
+      { "correct_answer": "ஶூட்ரயுகம்", "pronunciation": "shoodrayugam", "meaning": { "base_language": "era of Shudras" } },
+      { "correct_answer": "ஶூட்ரதேசம்", "pronunciation": "shoodradesam", "meaning": { "base_language": "land of Shudras" } },
+
+      { "correct_answer": "ஶூரன்", "pronunciation": "shooran", "meaning": { "base_language": "brave hero" } },
+      { "correct_answer": "ஶூரர்", "pronunciation": "shoorar", "meaning": { "base_language": "heroes" } },
+      { "correct_answer": "ஶூரபத்மன்", "pronunciation": "shoorapathman", "meaning": { "base_language": "demon king Soorapadman" } },
+      { "correct_answer": "ஶூரவீரம்", "pronunciation": "shooraveeram", "meaning": { "base_language": "bravery" } },
+      { "correct_answer": "ஶூரபாணி", "pronunciation": "shoorapaani", "meaning": { "base_language": "one who holds bravery" } },
+
+      { "correct_answer": "ஶூரசேனன்", "pronunciation": "shoorasenan", "meaning": { "base_language": "king of Surasena" } },
+      { "correct_answer": "ஶூரவம்சம்", "pronunciation": "shooravamsham", "meaning": { "base_language": "lineage of heroes" } },
+      { "correct_answer": "ஶூரகிருதி", "pronunciation": "shoorakrithi", "meaning": { "base_language": "heroic deed" } },
+      { "correct_answer": "ஶூரசங்கிராமம்", "pronunciation": "shoorasangraamam", "meaning": { "base_language": "battle of heroes" } },
+      { "correct_answer": "ஶூரத்வம்", "pronunciation": "shoorathvam", "meaning": { "base_language": "heroism" } },
+
+      { "correct_answer": "ஶூழ்ஷ்மம்", "pronunciation": "shoolshmam", "meaning": { "base_language": "subtle element" } },
+      { "correct_answer": "ஶூழ்ஷ்மத்வம்", "pronunciation": "shoolshmathvam", "meaning": { "base_language": "subtlety" } },
+      { "correct_answer": "ஶூழ்ஷ்மபோதம்", "pronunciation": "shoolshmabodham", "meaning": { "base_language": "knowledge of subtle element" } },
+      { "correct_answer": "ஶூழ்ஷ்மசக்தி", "pronunciation": "shoolshmasakthi", "meaning": { "base_language": "subtle power" } },
+      { "correct_answer": "ஶூழ்ஷ்மதேகம்", "pronunciation": "shoolshmadhegam", "meaning": { "base_language": "subtle body" } },
+
+      { "correct_answer": "ஶூலாகாரம்", "pronunciation": "shoolaakaaram", "meaning": { "base_language": "shape of a trident" } },
+      { "correct_answer": "ஶூலாயுதம்", "pronunciation": "shoolaayudham", "meaning": { "base_language": "weapon - trident" } },
+      { "correct_answer": "ஶூலவேதி", "pronunciation": "shoolavedhi", "meaning": { "base_language": "altar for trident worship" } },
+      { "correct_answer": "ஶூலமூர்த்தி", "pronunciation": "shoolamoorthi", "meaning": { "base_language": "Shiva with trident form" } },
+      { "correct_answer": "ஶூலபூஜை", "pronunciation": "shoolapoojai", "meaning": { "base_language": "trident worship" } }
+    ]
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "title": "Tamil Pure Consonant ண் (ṇ)",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "correct_answer": "கண்",
+        "pronunciation": "kan",
+        "meaning": { "base_language": "eye" }
+      },
+      {
+        "correct_answer": "மண்",
+        "pronunciation": "man",
+        "meaning": { "base_language": "soil" }
+      },
+      {
+        "correct_answer": "வண்டு",
+        "pronunciation": "vandu",
+        "meaning": { "base_language": "beetle" }
+      },
+      {
+        "correct_answer": "கண்டு",
+        "pronunciation": "kandu",
+        "meaning": { "base_language": "found" }
+      },
+      {
+        "correct_answer": "தண்ணீர்",
+        "pronunciation": "tannir",
+        "meaning": { "base_language": "water" }
+      },
+      {
+        "correct_answer": "எண்",
+        "pronunciation": "en",
+        "meaning": { "base_language": "number" }
+      },
+      {
+        "correct_answer": "விண்",
+        "pronunciation": "vin",
+        "meaning": { "base_language": "sky" }
+      },
+      {
+        "correct_answer": "பண்",
+        "pronunciation": "pan",
+        "meaning": { "base_language": "money" }
+      },
+      {
+        "correct_answer": "குண்டு",
+        "pronunciation": "kundu",
+        "meaning": { "base_language": "bullet" }
+      },
+      {
+        "correct_answer": "தண்டு",
+        "pronunciation": "tandu",
+        "meaning": { "base_language": "stem" }
+      },
+      {
+        "correct_answer": "கண்ணீர்",
+        "pronunciation": "kannir",
+        "meaning": { "base_language": "tear" }
+      },
+      {
+        "correct_answer": "பண்டம்",
+        "pronunciation": "pandam",
+        "meaning": { "base_language": "goods" }
+      },
+      {
+        "correct_answer": "வண்ணம்",
+        "pronunciation": "vannam",
+        "meaning": { "base_language": "color" }
+      },
+      {
+        "correct_answer": "கண்ணாடி",
+        "pronunciation": "kannadi",
+        "meaning": { "base_language": "mirror" }
+      },
+      {
+        "correct_answer": "முண்டம்",
+        "pronunciation": "mundam",
+        "meaning": { "base_language": "bald head" }
+      },
+      {
+        "correct_answer": "தண்டல்",
+        "pronunciation": "tandal",
+        "meaning": { "base_language": "punishment" }
+      },
+      {
+        "correct_answer": "வண்டி",
+        "pronunciation": "vandi",
+        "meaning": { "base_language": "cart" }
+      },
+      {
+        "correct_answer": "அண்டம்",
+        "pronunciation": "andam",
+        "meaning": { "base_language": "universe" }
+      },
+      {
+        "correct_answer": "பண்டிதன்",
+        "pronunciation": "panditan",
+        "meaning": { "base_language": "scholar" }
+      },
+      {
+        "correct_answer": "கண்டம்",
+        "pronunciation": "kandam",
+        "meaning": { "base_language": "continent" }
+      },
+      {
+        "correct_answer": "இண்டு",
+        "pronunciation": "indu",
+        "meaning": { "base_language": "moon" }
+      },
+      {
+        "correct_answer": "உண்டு",
+        "pronunciation": "undu",
+        "meaning": { "base_language": "exists" }
+      },
+      {
+        "correct_answer": "கண்கள்",
+        "pronunciation": "kankal",
+        "meaning": { "base_language": "eyes" }
+      },
+      {
+        "correct_answer": "மண்கலம்",
+        "pronunciation": "mankalam",
+        "meaning": { "base_language": "earthen pot" }
+      },
+      {
+        "correct_answer": "தண்மை",
+        "pronunciation": "tanmai",
+        "meaning": { "base_language": "coolness" }
+      },
+      {
+        "correct_answer": "வண்மை",
+        "pronunciation": "vanmai",
+        "meaning": { "base_language": "generosity" }
+      },
+      {
+        "correct_answer": "எண்ணம்",
+        "pronunciation": "ennam",
+        "meaning": { "base_language": "thought" }
+      },
+      {
+        "correct_answer": "விண்மீன்",
+        "pronunciation": "vinmīn",
+        "meaning": { "base_language": "star" }
+      },
+      {
+        "correct_answer": "பண்பு",
+        "pronunciation": "panpu",
+        "meaning": { "base_language": "quality" }
+      },
+      {
+        "correct_answer": "குண்ணம்",
+        "pronunciation": "kunnam",
+        "meaning": { "base_language": "defect" }
+      },
+      {
+        "correct_answer": "தண்ணல்",
+        "pronunciation": "tannal",
+        "meaning": { "base_language": "lord" }
+      },
+      {
+        "correct_answer": "கண்மணி",
+        "pronunciation": "kanmani",
+        "meaning": { "base_language": "beloved" }
+      },
+      {
+        "correct_answer": "மண்டலம்",
+        "pronunciation": "mandalam",
+        "meaning": { "base_language": "circle" }
+      },
+      {
+        "correct_answer": "வண்ணான்",
+        "pronunciation": "vannan",
+        "meaning": { "base_language": "washerman" }
+      },
+      {
+        "correct_answer": "கண்ணுக்கு",
+        "pronunciation": "kannukku",
+        "meaning": { "base_language": "to the eye" }
+      },
+      {
+        "correct_answer": "பண்ணை",
+        "pronunciation": "pannai",
+        "meaning": { "base_language": "farm" }
+      },
+      {
+        "correct_answer": "இண்டல்",
+        "pronunciation": "indal",
+        "meaning": { "base_language": "fuel" }
+      },
+      {
+        "correct_answer": "உண்மை",
+        "pronunciation": "unmai",
+        "meaning": { "base_language": "truth" }
+      },
+      {
+        "correct_answer": "வண்டல்",
+        "pronunciation": "vandal",
+        "meaning": { "base_language": "sediment" }
+      },
+      {
+        "correct_answer": "அண்ணல்",
+        "pronunciation": "annal",
+        "meaning": { "base_language": "elder brother" }
+      },
+      {
+        "correct_answer": "கண்ணம்",
+        "pronunciation": "kannam",
+        "meaning": { "base_language": "cheek" }
+      },
+      {
+        "correct_answer": "மண்ணாள்",
+        "pronunciation": "mannal",
+        "meaning": { "base_language": "earthly being" }
+      },
+      {
+        "correct_answer": "விண்ணான்",
+        "pronunciation": "vinnan",
+        "meaning": { "base_language": "celestial" }
+      },
+      {
+        "correct_answer": "பண்ணி",
+        "pronunciation": "panni",
+        "meaning": { "base_language": "pig" }
+      },
+      {
+        "correct_answer": "தண்ணல்",
+        "pronunciation": "tannal",
+        "meaning": { "base_language": "cool one" }
+      },
+      {
+        "correct_answer": "கண்டல்",
+        "pronunciation": "kandal",
+        "meaning": { "base_language": "mangrove" }
+      },
+      {
+        "correct_answer": "எண்ணெய்",
+        "pronunciation": "enney",
+        "meaning": { "base_language": "oil" }
+      },
+      {
+        "correct_answer": "முண்டக",
+        "pronunciation": "mundaka",
+        "meaning": { "base_language": "shaved head" }
+      },
+      {
+        "correct_answer": "வண்டார்",
+        "pronunciation": "vandar",
+        "meaning": { "base_language": "merchant" }
+      },
+      {
+        "correct_answer": "கண்டார்",
+        "pronunciation": "kandrr",
+        "meaning": { "base_language": "those who saw" }
+      }
+    ]
+  }
+]

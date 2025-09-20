@@ -1,0 +1,258 @@
+[
+  {
+    "title": "Tamil Vowel Letter எ (e)",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "correct_answer": "எண்",
+        "pronunciation": "en",
+        "meaning": { "base_language": "number" }
+      },
+      {
+        "correct_answer": "எலி",
+        "pronunciation": "eli",
+        "meaning": { "base_language": "rat" }
+      },
+      {
+        "correct_answer": "எருமை",
+        "pronunciation": "erumai",
+        "meaning": { "base_language": "buffalo" }
+      },
+      {
+        "correct_answer": "எலி பாம்பு",
+        "pronunciation": "eli paambu",
+        "meaning": { "base_language": "rat snake" }
+      },
+      {
+        "correct_answer": "எரியூட்டம்",
+        "pronunciation": "eriyootam",
+        "meaning": { "base_language": "fuel" }
+      },
+      {
+        "correct_answer": "எழுத்து",
+        "pronunciation": "ezhuthu",
+        "meaning": { "base_language": "letter" }
+      },
+      {
+        "correct_answer": "எச்சரிக்கை",
+        "pronunciation": "echcharikkai",
+        "meaning": { "base_language": "warning" }
+      },
+      {
+        "correct_answer": "எதிரி",
+        "pronunciation": "edhiri",
+        "meaning": { "base_language": "enemy" }
+      },
+      {
+        "correct_answer": "எளிது",
+        "pronunciation": "elidhu",
+        "meaning": { "base_language": "easy" }
+      },
+      {
+        "correct_answer": "எறும்பு",
+        "pronunciation": "erumbu",
+        "meaning": { "base_language": "ant" }
+      },
+      {
+        "correct_answer": "எரிவாயு",
+        "pronunciation": "erivaayu",
+        "meaning": { "base_language": "gas" }
+      },
+      {
+        "correct_answer": "எண்ணெய்",
+        "pronunciation": "ennai",
+        "meaning": { "base_language": "oil" }
+      },
+      {
+        "correct_answer": "எதிர்பார்ப்பு",
+        "pronunciation": "edhirpaarppu",
+        "meaning": { "base_language": "expectation" }
+      },
+      {
+        "correct_answer": "எச்சம்",
+        "pronunciation": "echcham",
+        "meaning": { "base_language": "remains" }
+      },
+      {
+        "correct_answer": "எதிர்காலம்",
+        "pronunciation": "edhirkaalam",
+        "meaning": { "base_language": "future" }
+      },
+      {
+        "correct_answer": "எடை",
+        "pronunciation": "edai",
+        "meaning": { "base_language": "weight" }
+      },
+      {
+        "correct_answer": "எதிரொலி",
+        "pronunciation": "edhiroli",
+        "meaning": { "base_language": "echo" }
+      },
+      {
+        "correct_answer": "எரிப்பு",
+        "pronunciation": "erippu",
+        "meaning": { "base_language": "burn" }
+      },
+      {
+        "correct_answer": "எட்டாவது",
+        "pronunciation": "ettaavadhu",
+        "meaning": { "base_language": "eighth" }
+      },
+      {
+        "correct_answer": "எண்ணம்",
+        "pronunciation": "ennam",
+        "meaning": { "base_language": "thought" }
+      },
+      {
+        "correct_answer": "எனது",
+        "pronunciation": "enadhu",
+        "meaning": { "base_language": "mine" }
+      },
+      {
+        "correct_answer": "என்பது",
+        "pronunciation": "enbadhu",
+        "meaning": { "base_language": "that is" }
+      },
+      {
+        "correct_answer": "எல்லை",
+        "pronunciation": "ellai",
+        "meaning": { "base_language": "border" }
+      },
+      {
+        "correct_answer": "எழுந்து",
+        "pronunciation": "ezhundhu",
+        "meaning": { "base_language": "wake up" }
+      },
+      {
+        "correct_answer": "எளிமை",
+        "pronunciation": "elimai",
+        "meaning": { "base_language": "simplicity" }
+      },
+      {
+        "correct_answer": "எதுவும்",
+        "pronunciation": "edhuvum",
+        "meaning": { "base_language": "anything" }
+      },
+      {
+        "correct_answer": "எரிமலை",
+        "pronunciation": "erimalai",
+        "meaning": { "base_language": "volcano" }
+      },
+      {
+        "correct_answer": "எண்ணிக்கை",
+        "pronunciation": "ennikkai",
+        "meaning": { "base_language": "count" }
+      },
+      {
+        "correct_answer": "எஞ்சின்",
+        "pronunciation": "engine",
+        "meaning": { "base_language": "engine" }
+      },
+      {
+        "correct_answer": "எப்போதும்",
+        "pronunciation": "eppodhum",
+        "meaning": { "base_language": "always" }
+      },
+      {
+        "correct_answer": "என்றும்",
+        "pronunciation": "endrum",
+        "meaning": { "base_language": "forever" }
+      },
+      {
+        "correct_answer": "எப்படி",
+        "pronunciation": "eppadi",
+        "meaning": { "base_language": "how" }
+      },
+      {
+        "correct_answer": "எப்போது",
+        "pronunciation": "eppodhu",
+        "meaning": { "base_language": "when" }
+      },
+      {
+        "correct_answer": "எங்கே",
+        "pronunciation": "enge",
+        "meaning": { "base_language": "where" }
+      },
+      {
+        "correct_answer": "என்ன",
+        "pronunciation": "enna",
+        "meaning": { "base_language": "what" }
+      },
+      {
+        "correct_answer": "எவன்",
+        "pronunciation": "evan",
+        "meaning": { "base_language": "who (male)" }
+      },
+      {
+        "correct_answer": "எவர்",
+        "pronunciation": "evar",
+        "meaning": { "base_language": "who (respectful)" }
+      },
+      {
+        "correct_answer": "எது",
+        "pronunciation": "edhu",
+        "meaning": { "base_language": "which" }
+      },
+      {
+        "correct_answer": "எங்கேயும்",
+        "pronunciation": "engeyum",
+        "meaning": { "base_language": "everywhere" }
+      },
+      {
+        "correct_answer": "எப்போது வேண்டுமானாலும்",
+        "pronunciation": "eppodhu vendumanaalum",
+        "meaning": { "base_language": "anytime" }
+      },
+      {
+        "correct_answer": "எரிவாயு அடுப்பு",
+        "pronunciation": "erivaayu aduppu",
+        "meaning": { "base_language": "gas stove" }
+      },
+      {
+        "correct_answer": "எல்லோரும்",
+        "pronunciation": "ellorum",
+        "meaning": { "base_language": "everyone" }
+      },
+      {
+        "correct_answer": "என்றால்",
+        "pronunciation": "endraal",
+        "meaning": { "base_language": "if" }
+      },
+      {
+        "correct_answer": "எழுது",
+        "pronunciation": "ezhudhu",
+        "meaning": { "base_language": "to write" }
+      },
+      {
+        "correct_answer": "எழுத்தாளர்",
+        "pronunciation": "ezhuththalar",
+        "meaning": { "base_language": "writer" }
+      },
+      {
+        "correct_answer": "எறிகுண்டு",
+        "pronunciation": "erigundu",
+        "meaning": { "base_language": "grenade" }
+      },
+      {
+        "correct_answer": "எதிர்மறை",
+        "pronunciation": "edhirmarai",
+        "meaning": { "base_language": "negative" }
+      },
+      {
+        "correct_answer": "எதிர்ப்பு",
+        "pronunciation": "edhirppu",
+        "meaning": { "base_language": "opposition" }
+      },
+      {
+        "correct_answer": "எச்சில்",
+        "pronunciation": "echchil",
+        "meaning": { "base_language": "saliva" }
+      },
+      {
+        "correct_answer": "எஞ்சிய",
+        "pronunciation": "enjiya",
+        "meaning": { "base_language": "remaining" }
+      }
+    ]
+  }
+]

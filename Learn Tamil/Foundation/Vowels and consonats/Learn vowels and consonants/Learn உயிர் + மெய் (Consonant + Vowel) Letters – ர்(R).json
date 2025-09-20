@@ -1,0 +1,81 @@
+[{
+  "screen_type": "Learn and Practice with Image",
+  "screen_type_id": 19,
+  "title": "Learn Uyir Mei Letters  ர்(R)",
+  "instruction": "Listen, View and Repeat",
+  "exercise": [
+    {
+      "image_description": "ர",
+      "image_url_light": "https://example.com/images/ra_light.png",
+      "image_url_dark": "https://example.com/images/ra_dark.png"
+    },
+    {
+      "image_description": "ரா",
+      "image_url_light": "https://example.com/images/raa_light.png",
+      "image_url_dark": "https://example.com/images/raa_dark.png"
+    },
+    {
+      "image_description": "ரி",
+      "image_url_light": "https://example.com/images/ri_light.png",
+      "image_url_dark": "https://example.com/images/ri_dark.png"
+    },
+    {
+      "image_description": "ரீ",
+      "image_url_light": "https://example.com/images/ree_light.png",
+      "image_url_dark": "https://example.com/images/ree_dark.png"
+    },
+    {
+      "image_description": "ரு",
+      "image_url_light": "https://example.com/images/ru_light.png",
+      "image_url_dark": "https://example.com/images/ru_dark.png"
+    },
+    {
+      "image_description": "ரூ",
+      "image_url_light": "https://example.com/images/roo_light.png",
+      "image_url_dark": "https://example.com/images/roo_dark.png"
+    },
+    {
+      "image_description": "ரெ",
+      "image_url_light": "https://example.com/images/re_light.png",
+      "image_url_dark": "https://example.com/images/re_dark.png"
+    },
+    {
+      "image_description": "ரே",
+      "image_url_light": "https://example.com/images/ree2_light.png",
+      "image_url_dark": "https://example.com/images/ree2_dark.png"
+    },
+    {
+      "image_description": "ரை",
+      "image_url_light": "https://example.com/images/rai_light.png",
+      "image_url_dark": "https://example.com/images/rai_dark.png"
+    },
+    {
+      "image_description": "ரொ",
+      "image_url_light": "https://example.com/images/ro_light.png",
+      "image_url_dark": "https://example.com/images/ro_dark.png"
+    },
+    {
+      "image_description": "ரோ",
+      "image_url_light": "https://example.com/images/roo2_light.png",
+      "image_url_dark": "https://example.com/images/roo2_dark.png"
+    },
+    {
+      "image_description": "ரௌ",
+      "image_url_light": "https://example.com/images/rau_light.png",
+      "image_url_dark": "https://example.com/images/rau_dark.png"
+    }
+  ],
+  "intro_screen_title": "Learn Uyir Mei Ezhuthukal",
+  "intro_screen": [
+    {
+      "sub_title": "Uyir Mei (உயிர் மெய் எழுத்துகள்)",
+      "banner_img": [
+        {
+          "image_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/626/images_2_16092025112929.png",
+          "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/626/images_2_16092025112929.png"
+        }
+      ],
+      "description": "The (Vowel + Consonant)உயிர்மெய் எழுத்துக்கள் are compound letters in Tamil formed by combining a consonant (மெய்) with a vowel (உயிர்). For example, the consonant ர்(R) combines with vowels to formர, ரா, ரி, ரீ, ரு, ரூ, ரெ, ரே, ரை, ரொ, ரோ, and ரௌ."
+    }
+  ]
+}]

@@ -1,0 +1,81 @@
+[{
+  "screen_type": "Learn and Practice with Image",
+  "screen_type_id": 19,
+  "title": "Learn Uyir Mei Letters  ப்(P)",
+  "instruction": "Listen, View and Repeat",
+  "exercise": [
+    {
+      "image_description": "ப",
+      "image_url_light": "https://example.com/images/pa_light.png",
+      "image_url_dark": "https://example.com/images/pa_dark.png"
+    },
+    {
+      "image_description": "பா",
+      "image_url_light": "https://example.com/images/paa_light.png",
+      "image_url_dark": "https://example.com/images/paa_dark.png"
+    },
+    {
+      "image_description": "பி",
+      "image_url_light": "https://example.com/images/pi_light.png",
+      "image_url_dark": "https://example.com/images/pi_dark.png"
+    },
+    {
+      "image_description": "பீ",
+      "image_url_light": "https://example.com/images/piee_light.png",
+      "image_url_dark": "https://example.com/images/piee_dark.png"
+    },
+    {
+      "image_description": "பு",
+      "image_url_light": "https://example.com/images/pu_light.png",
+      "image_url_dark": "https://example.com/images/pu_dark.png"
+    },
+    {
+      "image_description": "பூ",
+      "image_url_light": "https://example.com/images/poo_light.png",
+      "image_url_dark": "https://example.com/images/poo_dark.png"
+    },
+    {
+      "image_description": "பெ",
+      "image_url_light": "https://example.com/images/pe_light.png",
+      "image_url_dark": "https://example.com/images/pe_dark.png"
+    },
+    {
+      "image_description": "பே",
+      "image_url_light": "https://example.com/images/pee_light.png",
+      "image_url_dark": "https://example.com/images/pee_dark.png"
+    },
+    {
+      "image_description": "பை",
+      "image_url_light": "https://example.com/images/pai_light.png",
+      "image_url_dark": "https://example.com/images/pai_dark.png"
+    },
+    {
+      "image_description": "பொ",
+      "image_url_light": "https://example.com/images/po_light.png",
+      "image_url_dark": "https://example.com/images/po_dark.png"
+    },
+    {
+      "image_description": "போ",
+      "image_url_light": "https://example.com/images/poo2_light.png",
+      "image_url_dark": "https://example.com/images/poo2_dark.png"
+    },
+    {
+      "image_description": "பௌ",
+      "image_url_light": "https://example.com/images/pau_light.png",
+      "image_url_dark": "https://example.com/images/pau_dark.png"
+    }
+  ],
+  "intro_screen_title": "Learn Uyir Mei Ezhuthukal",
+  "intro_screen": [
+    {
+      "sub_title": "Uyir Mei (உயிர் மெய் எழுத்துகள்)",
+      "banner_img": [
+        {
+          "image_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/626/images_2_16092025112929.png",
+          "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/626/images_2_16092025112929.png"
+        }
+      ],
+      "description": "The (Vowel + Consonant)உயிர்மெய் எழுத்துக்கள் are compound letters in Tamil formed by combining a consonant (மெய்) with a vowel (உயிர்). For example, the consonant ப்(P) combines with vowels to form ப, பா, பி, பீ, பு, பூ, பெ, பே, பை, பொ, போ, and பௌ."
+    }
+  ]
+}]

@@ -1,0 +1,211 @@
+[
+  {
+    "title": "Tamil Vowel Letter ஏ (ee)",
+    "instruction": "Meaning",
+    "exercise": [
+      { "correct_answer": "ஏணி",
+       "pronunciation": "eani", "meaning":
+        { "base_language": "ladder" } },
+
+      { "correct_answer": "ஏரி",
+       "pronunciation": "eri", "meaning": 
+       { "base_language": "lake" } },
+
+      { "correct_answer": "ஏகம்",
+       "pronunciation": "egam",
+        "meaning": { "base_language": "unity" } },
+
+      { "correct_answer": "ஏமாற்றம்",
+       "pronunciation": "emaattram",
+        "meaning": { "base_language": "deception" } },
+
+      { "correct_answer": "ஏழை", 
+      "pronunciation": "ezhai", 
+      "meaning": { "base_language": "poor person" } },
+
+      { "correct_answer": "ஏக்கம்",
+       "pronunciation": "eakkam",
+        "meaning": { "base_language": "longing" } },
+
+      { "correct_answer": "ஏற்றம்",
+       "pronunciation": "etram", 
+       "meaning": { "base_language": "growth" } },
+
+      { "correct_answer": "ஏவுகணை",
+       "pronunciation": "evukanai", 
+       "meaning": { "base_language": "missile" } },
+
+      { "correct_answer": "ஏமான்", 
+      "pronunciation": "emaan", 
+      "meaning": { "base_language": "deceiver" } },
+
+      { "correct_answer": "ஏலம்", 
+      "pronunciation": "elam",
+       "meaning": { "base_language": "auction" } },
+
+
+      { "correct_answer": "ஏறு",
+       "pronunciation": "eru", 
+       "meaning": { "base_language": "bull" } },
+
+      { "correct_answer": "ஏலம் வீடு",
+       "pronunciation": "elam veedu",
+        "meaning": { "base_language": "auction house" } },
+
+      { "correct_answer": "ஏணி மரம்", 
+      "pronunciation": "eani maram",
+       "meaning": { "base_language": "ladder tree" } },
+
+      { "correct_answer": "ஏதுவாக",
+       "pronunciation": "edhuvaaga",
+        "meaning": { "base_language": "suitable" } },
+
+
+      { "correct_answer": "ஏடுகள்",
+       "pronunciation": "eedugal", 
+       "meaning": { "base_language": "manuscripts" } },
+
+      { "correct_answer": "ஏணி படி",
+       "pronunciation": "eani padi", 
+       "meaning": { "base_language": "ladder step" } },
+
+      { "correct_answer": "ஏக்கம் மனம்",
+       "pronunciation": "eakkam manam",
+        "meaning": { "base_language": "yearning heart" } },
+
+      { "correct_answer": "ஏற்ற சக்தி",
+       "pronunciation": "ettra sakthi", 
+       "meaning": { "base_language": "uplifting power" } },
+
+      { "correct_answer": "ஏக்கம் கண்ணீர்", 
+      "pronunciation": "eakkam kanneer",
+       "meaning": { "base_language": "tears of longing" } },
+
+      { "correct_answer": "ஏமாற்றம் செய்", 
+      "pronunciation": "emaattram sey",
+      
+      "meaning": { "base_language": "to cheat" } },
+
+      { "correct_answer": "ஏற்றம் வேலை",
+       "pronunciation": "etram velai", 
+       "meaning": { "base_language": "career growth" } },
+
+      { "correct_answer": "ஏழு நாள்",
+       "pronunciation": "ezhu naal",
+        "meaning": { "base_language": "seven days" } },
+
+      { "correct_answer": "ஏழுமலை",
+       "pronunciation": "ezhumalai",
+        "meaning": { "base_language": "Seven Hills" } },
+
+      { "correct_answer": "ஏக்கம் குரல்",
+       "pronunciation": "eakkam kural", 
+       "meaning": { "base_language": "voice of longing" } },
+
+      { "correct_answer": "ஏரி நீர்",
+       "pronunciation": "eri neer", 
+       "meaning": { "base_language": "lake water" } },
+
+      { "correct_answer": "ஏகபத்தி", 
+      "pronunciation": "egapathi", 
+      "meaning": { "base_language": "monotheism" } },
+
+      { "correct_answer": "ஏகாதசி", 
+      "pronunciation": "egadasi", 
+      "meaning": { "base_language": "fasting day" } },
+
+      { "correct_answer": "ஏகப்பட்ட",
+       "pronunciation": "egappatta",
+        "meaning": { "base_language": "together" } },
+
+      { "correct_answer": "ஏற்றம் உயர்வு",
+       "pronunciation": "etram uyarvu",
+        "meaning": { "base_language": "promotion" } },
+
+      { "correct_answer": "ஏகாந்தம்", 
+      "pronunciation": "egaandham", 
+      "meaning": { "base_language": "solitude" } },
+
+
+      { "correct_answer": "ஏகம் சிந்தனை", 
+      "pronunciation": "egam sindhanai",
+       "meaning": { "base_language": "unified thought" } },
+
+      { "correct_answer": "ஏராளம்",
+       "pronunciation": "eraalam",
+        "meaning": { "base_language": "plenty" } },
+
+      { "correct_answer": "ஏக்கர்",
+       "pronunciation": "ekkar",
+        "meaning": { "base_language": "acre" } },
+
+      { "correct_answer": "ஏளனம்",
+       "pronunciation": "elanam",
+        "meaning": { "base_language": "mockery" } },
+
+      { "correct_answer": "ஏடகம்",
+       "pronunciation": "edagam", 
+       "meaning": { "base_language": "Virgo (zodiac)" } },
+
+      { "correct_answer": "ஏரி கரை",
+       "pronunciation": "eri karai", 
+       "meaning": { "base_language": "lake shore" } },
+
+      { "correct_answer": "ஏகாதிபதி", 
+      "pronunciation": "egaadhipathi",
+       "meaning": { "base_language": "emperor" } },
+
+      { "correct_answer": "ஏழுமுகன்", 
+      "pronunciation": "ezhumugan",
+       "meaning": { "base_language": "Lord Murugan" } },
+
+      { "correct_answer": "ஏற்ற சகோதரன்",
+       "pronunciation": "ettra sagodharan",
+        "meaning": { "base_language": "elder brother" } },
+
+      { "correct_answer": "ஏழாம் நாள்",
+      "pronunciation": "ezhaam naal",
+       "meaning": { "base_language": "seventh day" } },
+
+      { "correct_answer": "ஏசு", 
+      "pronunciation": "yesu", 
+      "meaning": { "base_language": "Jesus" } },
+
+      { "correct_answer": "ஏளனம் செய்",
+       "pronunciation": "elanam sey",
+        "meaning": { "base_language": "to tease" } },
+
+      { "correct_answer": "ஏழுபட்டு",
+       "pronunciation": "ezhupattu",
+        "meaning": { "base_language": "seventy" } },
+
+      { "correct_answer": "ஏமாற்றம் உண்மை",
+       "pronunciation": "emaattram unmai", 
+       "meaning": { "base_language": "falsehood" } },
+
+      { "correct_answer": "ஏழு சக்கரம்",
+       "pronunciation": "ezhu chakkaram", 
+       "meaning": { "base_language": "seven chakras" } },
+
+      { "correct_answer": "ஏட்டுக்கடை",
+       "pronunciation": "ettukkadai",
+        "meaning": { "base_language": "stationery shop" } },
+
+      { "correct_answer": "ஏவுகலை",
+       "pronunciation": "evugalai",
+       "meaning": { "base_language": "artillery" } },
+
+      { "correct_answer": "ஏழாவது",
+       "pronunciation": "ezhaavadhu",
+        "meaning": { "base_language": "seventh" } },
+
+      { "correct_answer": "ஏடகம் நட்சத்திரம்",
+       "pronunciation": "edagam natchathiram",
+        "meaning": { "base_language": "zodiac star Virgo" } },
+
+      { "correct_answer": "ஏக்கம் கவி",
+       "pronunciation": "eakkam kavi",
+        "meaning": { "base_language": "poem of longing" } }
+    ]
+  }
+]

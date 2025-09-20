@@ -1,0 +1,28 @@
+[
+    {
+        "screen_type": "Learn and Practice with Image",
+        "screen_type_id": 17,
+        "title": "Learn Ayudha Ezhuthu",
+        "instruction": "Listen, View and Repeat",
+        "exercise": [
+            {
+                "image_description": "ஃ",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/773/image_30_17092025013135.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/773/image_31_17092025013132.png"
+            }
+        ],
+        "intro_screen_title": "Learn Ayudha Ezhuthu (ஃ)",
+        "intro_screen": [
+            {
+                "sub_title": "Special Tamil Letter",
+                "banner_img": [
+                    {
+                        "image_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/773/image_40_18092025095703.png",
+                        "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/773/image_41_18092025095701.png"
+                    }
+                ],
+                "description": "The Ayudha Ezhuthu (ஃ) is a unique and special letter in the Tamil script. It is neither a vowel (Uyir Ezhuthu) nor a consonant (Mei Ezhuthu), but is classified separately. Traditionally, it represented a short breath-like sound in classical Tamil texts. In modern Tamil, it is mainly used with foreign sounds such as ஃப (fa), ஃஜ (ja), and ஃஸ (sa). Although rarely used on its own, it holds an important place in the Tamil alphabet system as the only character in its category."
+            }
+        ]
+    }
+]

@@ -1,0 +1,81 @@
+[{
+  "title": "Tamil Words Starting with ஶ (sha)",
+  "instruction": "Find the meaning of the Tamil words starting with ஶ",
+  "exercise": [
+    { "correct_answer": "ஶக்தி",
+     "pronunciation": "shakthi",
+      "meaning": { "base_language": "power, energy" }
+     },
+    { "correct_answer": "ஶரணம்", 
+    "pronunciation": "sharanam", 
+    "meaning": { "base_language": "refuge, surrender" } 
+},
+    { "correct_answer": "ஶரத்", 
+    "pronunciation": "sharath",
+     "meaning": { "base_language": "autumn season; name" } 
+    },
+    { "correct_answer": "ஶரணம் தன்",
+     "pronunciation": "sharanam than",
+      "meaning": { "base_language": "one who surrenders" } 
+    },
+    { "correct_answer": "ஶரண்யா",
+    "pronunciation": "sharanya", 
+    "meaning": { "base_language": "protector; female name" } 
+},
+    { "correct_answer": "ஶரீரம்",
+     "pronunciation": "shareeram",
+      "meaning": { "base_language": "body" }
+     },
+    { "correct_answer": "ஶப்தம்", 
+    "pronunciation": "shabtham",
+     "meaning": { "base_language": "sound" }
+     },
+     { "correct_answer": "ஶமிகா",
+     "pronunciation": "shamika",
+      "meaning": { "base_language": "female name" } 
+    },
+       { "correct_answer": "ஶவந்தி",
+        "pronunciation": "shavanthi", 
+        "meaning": { "base_language": "female name" }
+    },
+    { "correct_answer": "ஶண்முகன்",
+     "pronunciation": "shan-mugan", 
+     "meaning": { "base_language": "Lord Murugan" }
+     },
+    { "correct_answer": "ஶஷ்டி",
+     "pronunciation": "shashti",
+      "meaning": { "base_language": "sixth day; goddess" }
+     },
+       { "correct_answer": "கணேஶன்",
+        "pronunciation": "ganeshan", 
+        "meaning": { "base_language": "Lord Ganesha" } 
+    },
+      {
+      "correct_answer": "ஶங்கு",
+      "pronunciation": "śaṅku",
+      "meaning": {
+        "base_language": "Cone, stake"
+      }
+    },
+      {
+      "correct_answer": "ஶல்லி",
+      "pronunciation": "śalli",
+      "meaning": {
+        "base_language": "Rice, grain"
+      }
+    },
+    {
+      "correct_answer": "ஶங்கம்",
+      "pronunciation": "śaṅkam",
+      "meaning": {
+        "base_language": "Conch, association"
+      }
+    },
+     {
+      "correct_answer": "ஶம்பு",
+      "pronunciation": "śampu",
+      "meaning": {
+        "base_language": "Lord Shiva, auspicious"
+      }
+    }
+  ]}]

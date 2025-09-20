@@ -1,0 +1,227 @@
+[{
+  "title": "Tamil Pure Consonant ன் (n)",
+  "instruction": "Meaning",
+  "exercise": [
+  
+    {
+      "correct_answer": "மன்னன்",
+      "pronunciation": "mannan",
+      "meaning": { "base_language": "king" }
+    },
+    {
+      "correct_answer": "பன்னீர்",
+      "pronunciation": "pannīr",
+      "meaning": { "base_language": "rose water" }
+    },
+    {
+      "correct_answer": "கன்னி",
+      "pronunciation": "kanni",
+      "meaning": { "base_language": "virgin/maiden" }
+    },
+    {
+      "correct_answer": "வன்மை",
+      "pronunciation": "vanmai",
+      "meaning": { "base_language": "strength/force" }
+    },
+    {
+      "correct_answer": "தன்னம்",
+      "pronunciation": "thannam",
+      "meaning": { "base_language": "wealth/property" }
+    },
+    {
+      "correct_answer": "நன்மை",
+      "pronunciation": "nanmai",
+      "meaning": { "base_language": "goodness/benefit" }
+    },
+    {
+      "correct_answer": "மன்னிப்பு",
+      "pronunciation": "mannippu",
+      "meaning": { "base_language": "forgiveness" }
+    },
+    {
+      "correct_answer": "பன்முகம்",
+      "pronunciation": "panmukam",
+      "meaning": { "base_language": "many faces" }
+    },
+    {
+      "correct_answer": "கன்னம்",
+      "pronunciation": "kannam",
+      "meaning": { "base_language": "cheek" }
+    },
+    {
+      "correct_answer": "வன்னம்",
+      "pronunciation": "vannam",
+      "meaning": { "base_language": "color/beauty" }
+    },
+    {
+      "correct_answer": "தன்மை",
+      "pronunciation": "thanmai",
+      "meaning": { "base_language": "nature/quality" }
+    },
+    {
+      "correct_answer": "நன்கு",
+      "pronunciation": "nanku",
+      "meaning": { "base_language": "well/properly" }
+    },
+    {
+      "correct_answer": "மன்றம்",
+      "pronunciation": "manram",
+      "meaning": { "base_language": "assembly/court" }
+    },
+    {
+      "correct_answer": "பன்னூல்",
+      "pronunciation": "pannūl",
+      "meaning": { "base_language": "many threads" }
+    },
+    {
+      "correct_answer": "கன்னடம்",
+      "pronunciation": "kannaḍam",
+      "meaning": { "base_language": "Kannada language" }
+    },
+    {
+      "correct_answer": "வன்செயல்",
+      "pronunciation": "vanseyal",
+      "meaning": { "base_language": "violent act" }
+    },
+    {
+      "correct_answer": "தன்னிச்சை",
+      "pronunciation": "thanniccai",
+      "meaning": { "base_language": "self-will/arbitrary" }
+    },
+    {
+      "correct_answer": "நன்னடை",
+      "pronunciation": "nannaḍai",
+      "meaning": { "base_language": "good behavior" }
+    },
+    {
+      "correct_answer": "மன்னார்",
+      "pronunciation": "mannār",
+      "meaning": { "base_language": "kings/rulers" }
+    },
+    {
+      "correct_answer": "பன்னிரண்டு",
+      "pronunciation": "panniraṇḍu",
+      "meaning": { "base_language": "twelve" }
+    },
+    {
+      "correct_answer": "கன்னத்தில்",
+      "pronunciation": "kannaththil",
+      "meaning": { "base_language": "on the cheek" }
+    },
+    {
+      "correct_answer": "வன்முறை",
+      "pronunciation": "vanmurai",
+      "meaning": { "base_language": "violence" }
+    },
+    {
+      "correct_answer": "தன்னடக்கம்",
+      "pronunciation": "thannaḍakkam",
+      "meaning": { "base_language": "self-control" }
+    },
+    {
+      "correct_answer": "நன்னீர்",
+      "pronunciation": "nannīr",
+      "meaning": { "base_language": "good water" }
+    },
+    {
+      "correct_answer": "மன்னித்தல்",
+      "pronunciation": "manniththal",
+      "meaning": { "base_language": "forgiving" }
+    },
+    {
+      "correct_answer": "பன்னாட்டு",
+      "pronunciation": "pannāṭṭu",
+      "meaning": { "base_language": "international" }
+    },
+    {
+      "correct_answer": "கன்னிமை",
+      "pronunciation": "kannimai",
+      "meaning": { "base_language": "virginity" }
+    },
+    {
+      "correct_answer": "வன்கொடுமை",
+      "pronunciation": "vankoḍumai",
+      "meaning": { "base_language": "cruelty" }
+    },
+    {
+      "correct_answer": "தன்னார்வம்",
+      "pronunciation": "thannārvam",
+      "meaning": { "base_language": "volunteerism" }
+    },
+    {
+      "correct_answer": "நன்னெஞ்சம்",
+      "pronunciation": "nanneñcam",
+      "meaning": { "base_language": "good heart" }
+    },
+    {
+      "correct_answer": "மன்னுயிர்",
+      "pronunciation": "mannuyir",
+      "meaning": { "base_language": "all lives" }
+    },
+    {
+      "correct_answer": "பன்னிப்பூ",
+      "pronunciation": "pannippū",
+      "meaning": { "base_language": "pig flower" }
+    },
+    {
+      "correct_answer": "கன்னிகை",
+      "pronunciation": "kannikai",
+      "meaning": { "base_language": "young girl" }
+    },
+    {
+      "correct_answer": "வன்மம்",
+      "pronunciation": "vanmam",
+      "meaning": { "base_language": "hatred/enmity" }
+    },
+    {
+      "correct_answer": "தன்னம்பிக்கை",
+      "pronunciation": "thannambikkai",
+      "meaning": { "base_language": "self-confidence" }
+    },
+    {
+      "correct_answer": "நன்னடத்தை",
+      "pronunciation": "nannaḍaththai",
+      "meaning": { "base_language": "good conduct" }
+    },
+    {
+      "correct_answer": "மன்னித்து",
+      "pronunciation": "manniththu",
+      "meaning": { "base_language": "having forgiven" }
+    },
+    {
+      "correct_answer": "பன்னள்",
+      "pronunciation": "pannaḷ",
+      "meaning": { "base_language": "many days" }
+    },
+    {
+      "correct_answer": "கன்னடி",
+      "pronunciation": "kannaḍi",
+      "meaning": { "base_language": "mirror" }
+    },
+    {
+      "correct_answer": "வன்னிமரம்",
+      "pronunciation": "vannimaram",
+      "meaning": { "base_language": "banyan tree" }
+    },
+    {
+      "correct_answer": "தன்னுடைய",
+      "pronunciation": "thannuḍaiya",
+      "meaning": { "base_language": "one's own" }
+    },
+    {
+      "correct_answer": "நன்னெறி",
+      "pronunciation": "nanneri",
+      "meaning": { "base_language": "good path/ethics" }
+    },
+    {
+      "correct_answer": "மன்னவன்",
+      "pronunciation": "mannavan",
+      "meaning": { "base_language": "king/ruler" }
+    },
+    {
+      "correct_answer": "பன்னகம்",
+      "pronunciation": "pannakam",
+      "meaning": { "base_language": "serpent" }
+    }
+  ]
+}]

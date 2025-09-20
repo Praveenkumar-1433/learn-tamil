@@ -1,0 +1,52 @@
+[{
+  "screen_type": "Learn and Practice with Image",
+  "screen_type_id": 17,
+  "title": "Learn Grantha Letters",
+  "instruction": "Listen,View and Repeat",
+  "exercise": [
+    {
+      "image_description": "ஜ்",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/ja_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/ja_dark.png"
+    },
+    {
+      "image_description": "ஶ்",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/sha_palatal_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/sha_palatal_dark.png"
+    },
+    {
+      "image_description": "ஷ்",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/sha_retroflex_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/sha_retroflex_dark.png"
+    },
+    {
+      "image_description": "ஸ்",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/sa_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/sa_dark.png"
+    },
+    {
+      "image_description": "ஹ்",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/ha_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/ha_dark.png"
+    },
+    {
+      "image_description": "க்ஷ்",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/ksha_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/ksha_dark.png"
+    }
+  ],
+  "intro_screen_title": "Learn Grantha Letters and their Sounds",
+  "intro_screen": [
+    {
+      "sub_title": "Grantha Letters (கிரந்த எழுத்துக்கள்)",
+      "banner_img": [
+        {
+          "image_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/banner_light.png",
+          "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/banner_dark.png"
+        }
+      ],
+      "description": "Grantha letters (கிரந்த எழுத்துக்கள்) are special characters in Tamil used to write Sanskrit-origin words. These include ஜ் (j), ஶ்(sh ), ஷ் (sh), ஸ் (s), ஹ் (h), and க்ஷ் (kṣ). They are not native Tamil letters but are essential for accurate representation of Sanskrit sounds in Tamil script."
+    }
+  ]
+}
+]

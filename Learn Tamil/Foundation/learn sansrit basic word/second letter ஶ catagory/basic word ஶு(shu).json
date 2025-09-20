@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Tamil Words with ஶு (shu)",
+    "instruction": "Find the meaning of the Tamil words containing ஶு (shu)",
+    "exercise": [
+      { "correct_answer": "ஶுதம்", "pronunciation": "shutham", "meaning": { "base_language": "purity" } },
+      { "correct_answer": "ஶுத்தி", "pronunciation": "shutthi", "meaning": { "base_language": "cleansing, purification" } },
+      { "correct_answer": "ஶுபம்", "pronunciation": "shubham", "meaning": { "base_language": "auspiciousness" } },
+      { "correct_answer": "ஶுப்ரீம்", "pronunciation": "shubreem", "meaning": { "base_language": "supreme, excellent" } },
+      { "correct_answer": "ஶுப்ரம்", "pronunciation": "shubhram", "meaning": { "base_language": "pure, white" } },
+      { "correct_answer": "ஶுபாஷிதம்", "pronunciation": "shubhaashitham", "meaning": { "base_language": "good saying, proverb" } },
+      { "correct_answer": "ஶுபாரம்பம்", "pronunciation": "shubhaarambham", "meaning": { "base_language": "auspicious beginning" } },
+      { "correct_answer": "ஶுபசிந்தனை", "pronunciation": "shubhachinthanai", "meaning": { "base_language": "good thoughts" } },
+      { "correct_answer": "ஶுபகாரியம்", "pronunciation": "shubhakaaryam", "meaning": { "base_language": "auspicious act" } },
+      { "correct_answer": "ஶுபகிரகம்", "pronunciation": "shubhagraham", "meaning": { "base_language": "auspicious planet" } },
+      { "correct_answer": "ஶுப்ரீதி", "pronunciation": "shupreeti", "meaning": { "base_language": "goodwill, affection" } },
+      { "correct_answer": "ஶுபதிதி", "pronunciation": "shubhatithi", "meaning": { "base_language": "auspicious day" } },
+      { "correct_answer": "ஶுபக்ஷணம்", "pronunciation": "shubhakshanam", "meaning": { "base_language": "auspicious moment" } },
+      { "correct_answer": "ஶுபயாத்திரை", "pronunciation": "shubhayathirai", "meaning": { "base_language": "good journey" } },
+      { "correct_answer": "ஶுபமுகூர்த்தம்", "pronunciation": "shubhamuhurtham", "meaning": { "base_language": "auspicious time" } },
+      { "correct_answer": "ஶுபவார்த்தை", "pronunciation": "shubhavaarthai", "meaning": { "base_language": "good news" } },
+      { "correct_answer": "ஶுபபேருரை", "pronunciation": "shubhaprerurai", "meaning": { "base_language": "auspicious speech" } },
+      { "correct_answer": "ஶுபகிருபை", "pronunciation": "shubhakripai", "meaning": { "base_language": "divine blessing" } },
+      { "correct_answer": "ஶுபவிருது", "pronunciation": "shubhavirudhu", "meaning": { "base_language": "auspicious award" } },
+      { "correct_answer": "ஶுபமங்களம்", "pronunciation": "shubhamangalam", "meaning": { "base_language": "prosperous event" } },
+
+      { "correct_answer": "ஶுசி", "pronunciation": "shuchi", "meaning": { "base_language": "clean, pure" } },
+      { "correct_answer": "ஶுசிகிருதம்", "pronunciation": "shuchikritam", "meaning": { "base_language": "purified act" } },
+      { "correct_answer": "ஶுசிரம்", "pronunciation": "shuchiram", "meaning": { "base_language": "sacred place" } },
+
+      { "correct_answer": "ஶுரா", "pronunciation": "shuraa", "meaning": { "base_language": "brave warrior" } },
+      { "correct_answer": "ஶுரவி", "pronunciation": "shuravi", "meaning": { "base_language": "heroic nature" } },
+      { "correct_answer": "ஶுருதம்", "pronunciation": "shrutam", "meaning": { "base_language": "that which is heard" } },
+      { "correct_answer": "ஶுருதி", "pronunciation": "shruti", "meaning": { "base_language": "sacred scripture, Vedas" } },
+      { "correct_answer": "ஶுருகி", "pronunciation": "shurugi", "meaning": { "base_language": "a kind of tool" } },
+
+      { "correct_answer": "ஶுலம்", "pronunciation": "shulam", "meaning": { "base_language": "trident, weapon" } },
+      { "correct_answer": "ஶூலம்", "pronunciation": "shoolam", "meaning": { "base_language": "pain, spear" } },
+      { "correct_answer": "ஶுலினி", "pronunciation": "shulini", "meaning": { "base_language": "goddess with trident" } },
+
+      { "correct_answer": "ஶுக்லம்", "pronunciation": "shuklam", "meaning": { "base_language": "white, brightness" } },
+      { "correct_answer": "ஶுக்லபக்ஷம்", "pronunciation": "shuklapaksham", "meaning": { "base_language": "bright fortnight" } },
+      { "correct_answer": "ஶுக்லாஷ்டமி", "pronunciation": "shuklaashtami", "meaning": { "base_language": "8th day of bright fortnight" } },
+      { "correct_answer": "ஶுக்லதிதி", "pronunciation": "shuklatithi", "meaning": { "base_language": "bright lunar day" } },
+
+      { "correct_answer": "ஶுஷ்கம்", "pronunciation": "shushkam", "meaning": { "base_language": "dryness" } },
+      { "correct_answer": "ஶுஷிரம்", "pronunciation": "shushiram", "meaning": { "base_language": "hollow" } },
+      { "correct_answer": "ஶுஶ்ரூஷை", "pronunciation": "shushrooshai", "meaning": { "base_language": "service, attendance" } },
+      { "correct_answer": "ஶுஶ்ருஷா", "pronunciation": "shushrusha", "meaning": { "base_language": "devoted care" } },
+      { "correct_answer": "ஶுஷுப்தி", "pronunciation": "shushupthi", "meaning": { "base_language": "deep sleep" } },
+      { "correct_answer": "ஶுஷ்கபண்டம்", "pronunciation": "shushkapandam", "meaning": { "base_language": "dry goods" } },
+      { "correct_answer": "ஶுஷ்கவனம்", "pronunciation": "shushkavanam", "meaning": { "base_language": "dry forest" } },
+      { "correct_answer": "ஶுஷ்கதரு", "pronunciation": "shushkadharu", "meaning": { "base_language": "dry tree" } },
+      { "correct_answer": "ஶுஷ்கஜலம்", "pronunciation": "shushkajalam", "meaning": { "base_language": "dry water (metaphor)" } },
+      { "correct_answer": "ஶுஷ்கவாதம்", "pronunciation": "shushkavaatham", "meaning": { "base_language": "dry wind" } },
+      { "correct_answer": "ஶுஷ்கலோகம்", "pronunciation": "shushkalokam", "meaning": { "base_language": "dry world (metaphor for lifelessness)" } },
+      { "correct_answer": "ஶுஷ்கசிந்தனை", "pronunciation": "shushkachinthanai", "meaning": { "base_language": "dry thought, meaningless idea" } },
+      { "correct_answer": "ஶுஷ்ககிரகம்", "pronunciation": "shushkagraham", "meaning": { "base_language": "dry planet" } },
+      { "correct_answer": "ஶுஷ்கவிவேகம்", "pronunciation": "shushkavivekam", "meaning": { "base_language": "dry logic, superficial reasoning" } }
+    ]
+  }
+]

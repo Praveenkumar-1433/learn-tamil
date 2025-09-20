@@ -1,0 +1,81 @@
+[{
+  "screen_type": "Learn and Practice with Image",
+  "screen_type_id": 19,
+  "title": "Learn Uyir Mei Letters ழ்(Zh)",
+  "instruction": "Listen, View and Repeat",
+  "exercise": [
+    {
+      "image_description": "ழ",
+      "image_url_light": "https://example.com/images/zha_light.png",
+      "image_url_dark": "https://example.com/images/zha_dark.png"
+    },
+    {
+      "image_description": "ழா",
+      "image_url_light": "https://example.com/images/zhaa_light.png",
+      "image_url_dark": "https://example.com/images/zhaa_dark.png"
+    },
+    {
+      "image_description": "ழி",
+      "image_url_light": "https://example.com/images/zhi_light.png",
+      "image_url_dark": "https://example.com/images/zhi_dark.png"
+    },
+    {
+      "image_description": "ழீ",
+      "image_url_light": "https://example.com/images/zhee_light.png",
+      "image_url_dark": "https://example.com/images/zhee_dark.png"
+    },
+    {
+      "image_description": "ழு",
+      "image_url_light": "https://example.com/images/zhu_light.png",
+      "image_url_dark": "https://example.com/images/zhu_dark.png"
+    },
+    {
+      "image_description": "ழூ",
+      "image_url_light": "https://example.com/images/zhoo_light.png",
+      "image_url_dark": "https://example.com/images/zhoo_dark.png"
+    },
+    {
+      "image_description": "ழெ",
+      "image_url_light": "https://example.com/images/zhe_light.png",
+      "image_url_dark": "https://example.com/images/zhe_dark.png"
+    },
+    {
+      "image_description": "ழே",
+      "image_url_light": "https://example.com/images/zhee2_light.png",
+      "image_url_dark": "https://example.com/images/zhee2_dark.png"
+    },
+    {
+      "image_description": "ழை",
+      "image_url_light": "https://example.com/images/zhai_light.png",
+      "image_url_dark": "https://example.com/images/zhai_dark.png"
+    },
+    {
+      "image_description": "ழொ",
+      "image_url_light": "https://example.com/images/zho_light.png",
+      "image_url_dark": "https://example.com/images/zho_dark.png"
+    },
+    {
+      "image_description": "ழோ",
+      "image_url_light": "https://example.com/images/zhoo2_light.png",
+      "image_url_dark": "https://example.com/images/zhoo2_dark.png"
+    },
+    {
+      "image_description": "ழௌ",
+      "image_url_light": "https://example.com/images/zhau_light.png",
+      "image_url_dark": "https://example.com/images/zhau_dark.png"
+    }
+  ],
+  "intro_screen_title": "Learn Uyir Mei Ezhuthukal",
+  "intro_screen": [
+    {
+      "sub_title": "Uyir Mei (உயிர் மெய் எழுத்துகள்)",
+      "banner_img": [
+        {
+          "image_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/626/images_2_16092025112929.png",
+          "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/626/images_2_16092025112929.png"
+        }
+      ],
+      "description": "The (Vowel + Consonant)உயிர்மெய் எழுத்துக்கள் are compound letters in Tamil formed by combining a consonant (மெய்) with a vowel (உயிர்). For example, the consonant ழ்(Zh) combines with vowels to form ழ, ழா, ழி, ழீ, ழு, ழூ, ழெ, ழே, ழை, ழொ, ழோ, and ழௌ."
+    }
+  ]
+}]

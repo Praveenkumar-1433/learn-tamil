@@ -1,0 +1,187 @@
+[{
+  "title": "Tamil UyirMei Letter ஹு (hu)",
+  "instruction": "Listen, View and Repeat",
+  "exercise": [
+    { "correct_answer": "ஹுச்சி", 
+    "pronunciation": "huchchi", 
+    "meaning": { "base_language": " boldness" } 
+},
+    { "correct_answer": "ஹுசரி", 
+    "pronunciation": "huchari",
+    
+    "meaning": { "base_language": "விரல் / small finger" } 
+},
+    { "correct_answer": "ஹுப்பம்",
+     "pronunciation": "huppam", 
+     "meaning": { "base_language": " mat" } 
+    },
+    { "correct_answer": "ஹும்மம்", 
+    "pronunciation": "hummam",
+     "meaning": { "base_language": "hum sound" } 
+    },
+    { "correct_answer": "ஹுஞ்சி", 
+    "pronunciation": "hunchi", 
+    "meaning": { "base_language": " small tube" } 
+},
+    { "correct_answer": "ஹுயரம்",
+     "pronunciation": "huyaram", 
+     "meaning": { "base_language": " height" }
+     },
+    { "correct_answer": "ஹுயல்",
+     "pronunciation": "huyal", 
+     "meaning": { "base_language": "quake" } 
+    },
+    { "correct_answer": "ஹுரகம்", 
+    "pronunciation": "huragam",
+     "meaning": { "base_language": " shade" } 
+    },
+    { "correct_answer": "ஹுஜல்",
+     "pronunciation": "huzhal",
+      "meaning": { "base_language": " tear" } 
+    },
+    { "correct_answer": "ஹுச்கம்", 
+    "pronunciation": "huskam", 
+    "meaning": { "base_language": " sprout" } 
+},
+    { "correct_answer": "ஹுஞ்சரம்",
+     "pronunciation": "huncharam",
+      "meaning": { "base_language": "pebble" }
+     },
+
+    { "correct_answer": "ஹுரம்",
+     "pronunciation": "huram", 
+     "meaning": { "base_language": " hill" } 
+    },
+    { "correct_answer": "ஹுமம்",
+     "pronunciation": "humam", 
+     "meaning": { "base_language": " humming sound" }
+     },
+    { "correct_answer": "ஹுட்டி", 
+    "pronunciation": "hutti", 
+    "meaning": { "base_language": " small path" } 
+},
+    { "correct_answer": "ஹுஜரம்",
+     "pronunciation": "huzharam",
+      "meaning": { "base_language": " harshness" } 
+    },
+    { "correct_answer": "ஹுசுமம்",
+     "pronunciation": "huchumam", 
+     "meaning": { "base_language": " sound" }
+     },
+    { "correct_answer": "ஹுர்தம்",
+    "pronunciation": "hurtham",
+     "meaning": { "base_language": " heart" }
+    },
+    { "correct_answer": "ஹுய்தல்", 
+    "pronunciation": "huythal",
+     "meaning": { "base_language": " collapse" }
+     },
+    { "correct_answer": "ஹுயகம்",
+     "pronunciation": "huyagam", 
+     "meaning": { "base_language": "earth" }
+     },
+    { "correct_answer": "ஹுர்மம்", 
+    "pronunciation": "hurmam", 
+    "meaning": { "base_language": "wind" } 
+},
+    { "correct_answer": "ஹுடம்",
+     "pronunciation": "hudam",
+      "meaning": { "base_language": "soil" }
+     },
+    { "correct_answer": "ஹுஜல்",
+     "pronunciation": "huzhal",
+     "meaning": { "base_language": " water" }
+     },
+    { "correct_answer": "ஹுச்சி மரம்", 
+    "pronunciation": "huchchi maram", 
+    "meaning": { "base_language": "மரம் / tree" } 
+},
+    { "correct_answer": "ஹுஞ்சி கல்",
+     "pronunciation": "hunchi kal", 
+     "meaning": { "base_language": "கல் / stone" }
+     },
+    { "correct_answer": "ஹுரகம் வனம்", 
+    "pronunciation": "huragam vanam", 
+    "meaning": { "base_language": "காடு / forest" }
+ },
+    { "correct_answer": "ஹுஜரி புயல்", 
+    "pronunciation": "huzhari puyal", 
+    "meaning": { "base_language": "புயல் / storm" } 
+},
+    { "correct_answer": "ஹுசுமம் நிலம்", 
+    
+    "pronunciation": "huchumam nilam", 
+    "meaning": { "base_language": "நிலம் / land" } 
+},
+    
+    { "correct_answer": "ஹுய்தல் பாயல்",
+     "pronunciation": "huythal paayal", 
+     "meaning": { "base_language": "நீர் வழி / stream" }
+     },
+    { "correct_answer": "ஹுயகம் மலை",
+    "pronunciation": "huyagam malai",
+     "meaning": { "base_language": "மலை / mountain" }
+     },
+    { "correct_answer": "ஹுர்மம் காற்று",
+     "pronunciation": "hurmam kaatru", 
+     "meaning": { "base_language": "காற்று / wind" }
+     },
+ 
+    { "correct_answer": "ஹுஜல் குளம்",
+     "pronunciation": "huzhal kulam",
+     "meaning": { "base_language": "குளம் / pond" }
+     },
+    { "correct_answer": "ஹுச்சி பூ",
+     "pronunciation": "huchchi poo", 
+     "meaning": { "base_language": "பூ / flower" } 
+    },
+    { "correct_answer": "ஹுஞ்சி கிளி",
+     "pronunciation": "hunchi kili", 
+     "meaning": { "base_language": " parrot" }
+     },
+    { "correct_answer": "ஹுரகம் பறவை",
+     "pronunciation": "huragam paravai", 
+     "meaning": { "base_language": " bird" } 
+    },
+  
+ 
+    { "correct_answer": "ஹுய்தல் காடு", 
+    "pronunciation": "huythal kaadu",
+     "meaning": { "base_language": "forest" }
+     },
+    { "correct_answer": "ஹுயகம் பூமி", 
+    "pronunciation": "huyagam bhoomi", 
+    "meaning": { "base_language": "earth" } 
+},
+    { "correct_answer": "ஹுர்மம் காற்று",
+     "pronunciation": "hurmam kaatru", 
+     "meaning": { "base_language": " wind" } 
+    },
+  
+    { "correct_answer": "ஹுஜல் குளம்", 
+    "pronunciation": "huzhal kulam",
+     "meaning": { "base_language": " pond" } 
+    },
+    { "correct_answer": "ஹுச்சி பூ", 
+    "pronunciation": "huchchi poo", 
+    "meaning": { "base_language": " flower" } 
+},
+   
+    { "correct_answer": "ஹுரகம் பறவை",
+     "pronunciation": "huragam paravai", 
+     
+     "meaning": { "base_language": " bird" } 
+    },
+    { "correct_answer": "ஹுஜரி நிலா", 
+    "pronunciation": "huzhari nila", 
+    "meaning": { "base_language": " moon" } 
+},
+    
+   
+    { "correct_answer": "ஹுய்தல் காடு", 
+    "pronunciation": "huythal kaadu", 
+    "meaning": { "base_language": " forest" }
+ }
+  ]
+}
+]

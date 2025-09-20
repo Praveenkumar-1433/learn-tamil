@@ -1,0 +1,113 @@
+[
+    {
+        "screen_type": "Learn and Practice with Image",
+        "screen_type_id": 18,
+        "title": "Learn Consonants",
+        "instruction": "Listen,View and Repeat",
+        "exercise": [
+            {
+                "image_description": "க்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_24_16092025093914.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_25_16092025093916.png"
+            },
+            {
+                "image_description": "ங்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_9_16092025093856.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_10_16092025093858.png"
+            },
+            {
+                "image_description": "ச்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_16092025093842.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_26_16092025093918.png"
+            },
+            {
+                "image_description": "ஞ்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_1_16092025094245.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image16092025094246.png"
+            },
+            {
+                "image_description": "ட்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_14_16092025103709.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image16092025103711.jpg"
+            },
+            {
+                "image_description": "ண்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_2_16092025094425.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_3_16092025094423.png"
+            },
+            {
+                "image_description": "த்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_4_16092025094621.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_5_16092025094618.png"
+            },
+            {
+                "image_description": "ந்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_14_16092025093900.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_13_16092025094734.png"
+            },
+            {
+                "image_description": "ப்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_4_16092025093851.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_3_16092025093849.png"
+            },
+            {
+                "image_description": "ம்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_16_16092025093903.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_17_16092025093905.png"
+            },
+            {
+                "image_description": "ய்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_20_16092025093907.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_21_16092025093909.png"
+            },
+            {
+                "image_description": "ர்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_23_16092025093912.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_22_16092025093911.png"
+            },
+            {
+                "image_description": "ல்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_27_16092025093920.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_28_16092025093921.png"
+            },
+            {
+                "image_description": "வ்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_30_16092025093925.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/Copy_of_29_16092025093923.png"
+            },
+            {
+                "image_description": "ழ்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_12_16092025103609.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_13_16092025103607.png"
+            },
+            {
+                "image_description": "ள்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_6_16092025095204.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_7_16092025095203.png"
+            },
+            {
+                "image_description": "ற்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_8_16092025095313.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_9_16092025095310.png"
+            },
+            {
+                "image_description": "ன்",
+                "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_11_16092025095412.png",
+                "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_10_16092025095414.png"
+            }
+        ],
+        "intro_screen_title": "Learn Tamil Consonants and their Sounds",
+        "intro_screen": [
+            {
+                "sub_title": "Pure Consonants (மெய் எழுத்துகள்)",
+                "banner_img": [
+                    {
+                        "image_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_33_17092025033153.png",
+                        "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/625/image_32_17092025033157.png"
+                    }
+                ],
+                "description": "In Tamil, consonants are called மெய் எழுத்துகள் (Mei Ezhuthukal). These are the body sounds of the language that cannot be pronounced independently without a vowel sound. Tamil has 18 pure consonants: க், ங், ச், ஞ், ட், ண், த், ந், ப், ம், ய், ர், ல், வ், ழ், ள், ற், ன். When combined with vowels, they form composite letters (உயிர்மெய் எழுத்துகள்). These consonants are organized into different groups based on their place of articulation in the mouth."
+            }
+        ]
+    }
+]

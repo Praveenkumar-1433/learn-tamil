@@ -1,0 +1,69 @@
+[{
+  "screen_type": "Learn and Practice with Image",
+  "screen_type_id": 19,
+  "title": "Learn Uyir Mei Letters - ஷ(sha)",
+  "instruction": "Listen, View and Repeat",
+  "exercise": [
+    { "image_description": "ஷ", 
+    "image_url_light": "URL_ஷ_light",
+     "image_url_dark": "URL_ஷ_dark" 
+    },
+    { "image_description": "ஷா",
+    "image_url_light": "URL_ஷா_light", 
+    "image_url_dark": "URL_ஷா_dark"
+ },
+    { "image_description": "ஷி", 
+    "image_url_light": "URL_ஷி_light",
+     "image_url_dark": "URL_ஷி_dark"
+     },
+    { "image_description": "ஷீ",
+     "image_url_light": "URL_ஷீ_light",
+      "image_url_dark": "URL_ஷீ_dark" 
+    },
+    { "image_description": "ஷு", 
+    "image_url_light": "URL_ஷு_light",
+    "image_url_dark": "URL_ஷு_dark"
+ },
+    { "image_description": "ஷூ",
+     "image_url_light": "URL_ஷூ_light",
+      "image_url_dark": "URL_ஷூ_dark" 
+    },
+    { "image_description": "ஷெ", 
+    "image_url_light": "URL_ஷெ_light",
+     "image_url_dark": "URL_ஷெ_dark"
+     },
+    { "image_description": "ஷே", 
+    "image_url_light": "URL_ஷே_light",
+     "image_url_dark": "URL_ஷே_dark"
+     },
+    { "image_description": "ஷை", 
+    "image_url_light": "URL_ஷை_light", 
+    "image_url_dark": "URL_ஷை_dark"
+ },
+    { "image_description": "ஷொ",
+     "image_url_light": "URL_ஷொ_light", 
+     
+     "image_url_dark": "URL_ஷொ_dark" 
+    },
+    { "image_description": "ஷோ", 
+    "image_url_light": "URL_ஷோ_light",
+     "image_url_dark": "URL_ஷோ_dark"
+     },
+    { "image_description": "ஷௌ", 
+    "image_url_light": "URL_ஷௌ_light",
+     "image_url_dark": "URL_ஷௌ_dark"
+     }
+  ],
+  "intro_screen_title": "Vowels (உயிர் எழுத்துக்கள்) with Sanskrit letters (கிரந்த எழுத்துக்கள்) ஷ(sha)",
+  "intro_screen": [
+    {
+      "sub_title": "Uyir Mei Forms of ஷ(sha)",
+      "banner_img": [
+        { "image_light": "URL_banner_ஷ_light", 
+        "image_dark": "URL_banner_ஷ_dark"
+     }
+      ],
+      "description": "The Sanskrit letter (கிரந்த எழுத்துக்கள்) ஷ(sha) merges with the twelve Tamil vowels to form its Uyir Mei variations: ஷ (sha), ஷா (shaa), ஷி (shi), ஷீ (shii), ஷு (shu), ஷூ (shuu), ஷெ (she), ஷே (shee), ஷை (shai), ஷொ (sho), ஷோ (shoo), and ஷௌ (shau)."
+    }
+  ]
+}]
