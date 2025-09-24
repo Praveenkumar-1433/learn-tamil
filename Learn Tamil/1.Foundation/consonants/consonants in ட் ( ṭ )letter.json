@@ -1,0 +1,410 @@
+[
+  {
+    "title": "Tamil Pure Consonant ட் (t)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "அட்டை",
+        "pronunciation": "attai",
+        "meaning": {
+          "base_language": "cover"
+        }
+      },
+      {
+        "id": 2,
+        "correct_answer": "இட்டு",
+        "pronunciation": "ittu",
+        "meaning": {
+          "base_language": "placed"
+        }
+      },
+      {
+        "id": 3,
+        "correct_answer": "உட்கார்",
+        "pronunciation": "utkaar",
+        "meaning": {
+          "base_language": "sit"
+        }
+      },
+      {
+        "id": 4,
+        "correct_answer": "எட்டு",
+        "pronunciation": "ettu",
+        "meaning": {
+          "base_language": "eight"
+        }
+      },
+      {
+        "id": 5,
+        "correct_answer": "ஒட்டு",
+        "pronunciation": "ottu",
+        "meaning": {
+          "base_language": "stick"
+        }
+      },
+      {
+        "id": 6,
+        "correct_answer": "கட்டு",
+        "pronunciation": "kattu",
+        "meaning": {
+          "base_language": "tie"
+        }
+      },
+      {
+        "id": 7,
+        "correct_answer": "பட்டம்",
+        "pronunciation": "pattam",
+        "meaning": {
+          "base_language": "degree"
+        }
+      },
+      {
+        "id": 8,
+        "correct_answer": "முட்டு",
+        "pronunciation": "muttu",
+        "meaning": {
+          "base_language": "hit"
+        }
+      },
+      {
+        "id": 9,
+        "correct_answer": "வட்டம்",
+        "pronunciation": "vattam",
+        "meaning": {
+          "base_language": "circle"
+        }
+      },
+      {
+        "id": 10,
+        "correct_answer": "நட்டு",
+        "pronunciation": "nattu",
+        "meaning": {
+          "base_language": "planted"
+        }
+      },
+      {
+        "id": 11,
+        "correct_answer": "தட்டு",
+        "pronunciation": "thattu",
+        "meaning": {
+          "base_language": "plate"
+        }
+      },
+      {
+        "id": 12,
+        "correct_answer": "சட்டம்",
+        "pronunciation": "sattam",
+        "meaning": {
+          "base_language": "law"
+        }
+      },
+      {
+        "id": 13,
+        "correct_answer": "கிட்டு",
+        "pronunciation": "kittu",
+        "meaning": {
+          "base_language": "near"
+        }
+      },
+      {
+        "id": 14,
+        "correct_answer": "பெட்டி",
+        "pronunciation": "petti",
+        "meaning": {
+          "base_language": "box"
+        }
+      },
+      {
+        "id": 15,
+        "correct_answer": "கெட்டு",
+        "pronunciation": "kettu",
+        "meaning": {
+          "base_language": "spoiled"
+        }
+      },
+      {
+        "id": 16,
+        "correct_answer": "விட்டு",
+        "pronunciation": "vittu",
+        "meaning": {
+          "base_language": "left"
+        }
+      },
+      {
+        "id": 17,
+        "correct_answer": "மட்டம்",
+        "pronunciation": "mattam",
+        "meaning": {
+          "base_language": "level"
+        }
+      },
+      {
+        "id": 18,
+        "correct_answer": "அட்டகாசம்",
+        "pronunciation": "attakaasam",
+        "meaning": {
+          "base_language": "atrocity"
+        }
+      },
+      {
+        "id": 19,
+        "correct_answer": "ஒட்டகம்",
+        "pronunciation": "ottakam",
+        "meaning": {
+          "base_language": "camel"
+        }
+      },
+      {
+        "id": 20,
+        "correct_answer": "பட்டாசு",
+        "pronunciation": "pattaasu",
+        "meaning": {
+          "base_language": "firecracker"
+        }
+      },
+      {
+        "id": 21,
+        "correct_answer": "முட்டாள்",
+        "pronunciation": "muttaal",
+        "meaning": {
+          "base_language": "fool"
+        }
+      },
+      {
+        "id": 22,
+        "correct_answer": "கட்டிடம்",
+        "pronunciation": "kattidam",
+        "meaning": {
+          "base_language": "building"
+        }
+      },
+      {
+        "id": 23,
+        "correct_answer": "நட்டம்",
+        "pronunciation": "nattam",
+        "meaning": {
+          "base_language": "loss"
+        }
+      },
+      {
+        "id": 24,
+        "correct_answer": "வட்டி",
+        "pronunciation": "vatti",
+        "meaning": {
+          "base_language": "interest"
+        }
+      },
+      {
+        "id": 25,
+        "correct_answer": "தொட்டு",
+        "pronunciation": "thottu",
+        "meaning": {
+          "base_language": "touched"
+        }
+      },
+      {
+        "id": 26,
+        "correct_answer": "சுட்டு",
+        "pronunciation": "suttu",
+        "meaning": {
+          "base_language": "shot"
+        }
+      },
+      {
+        "id": 27,
+        "correct_answer": "கிட்டத்தட்ட",
+        "pronunciation": "kittatthatta",
+        "meaning": {
+          "base_language": "almost"
+        }
+      },
+      {
+        "id": 28,
+        "correct_answer": "பட்டினம்",
+        "pronunciation": "pattinam",
+        "meaning": {
+          "base_language": "city"
+        }
+      },
+      {
+        "id": 29,
+        "correct_answer": "வெட்டு",
+        "pronunciation": "vettu",
+        "meaning": {
+          "base_language": "cut"
+        }
+      },
+      {
+        "id": 30,
+        "correct_answer": "புட்டு",
+        "pronunciation": "puttu",
+        "meaning": {
+          "base_language": "steamed cake"
+        }
+      },
+      {
+        "id": 31,
+        "correct_answer": "குட்டு",
+        "pronunciation": "kuttu",
+        "meaning": {
+          "base_language": "hit"
+        }
+      },
+      {
+        "id": 32,
+        "correct_answer": "அட்டவணை",
+        "pronunciation": "attavanai",
+        "meaning": {
+          "base_language": "table/schedule"
+        }
+      },
+      {
+        "id": 33,
+        "correct_answer": "பட்டுச்சாரி",
+        "pronunciation": "pattuchchaari",
+        "meaning": {
+          "base_language": "silk saree"
+        }
+      },
+      {
+        "id": 34,
+        "correct_answer": "உட்காரு",
+        "pronunciation": "utkaaru",
+        "meaning": {
+          "base_language": "sit down"
+        }
+      },
+      {
+        "id": 35,
+        "correct_answer": "கட்டுமானம்",
+        "pronunciation": "kattumaanam",
+        "meaning": {
+          "base_language": "construction"
+        }
+      },
+      {
+        "id": 36,
+        "correct_answer": "எட்டுத்திக்கு",
+        "pronunciation": "ettuthikku",
+        "meaning": {
+          "base_language": "eight directions"
+        }
+      },
+      {
+        "id": 37,
+        "correct_answer": "முட்டைக்கோஸ்",
+        "pronunciation": "muttaikkosu",
+        "meaning": {
+          "base_language": "cabbage"
+        }
+      },
+      {
+        "id": 38,
+        "correct_answer": "பட்டயம்",
+        "pronunciation": "pattayam",
+        "meaning": {
+          "base_language": "charter"
+        }
+      },
+      {
+        "id": 39,
+        "correct_answer": "சட்டசபை",
+        "pronunciation": "sattasabai",
+        "meaning": {
+          "base_language": "legislature"
+        }
+      },
+      {
+        "id": 40,
+        "correct_answer": "வட்டார",
+        "pronunciation": "vattaara",
+        "meaning": {
+          "base_language": "regional"
+        }
+      },
+      {
+        "id": 41,
+        "correct_answer": "கெட்டிக்காரன்",
+        "pronunciation": "kettikkaaran",
+        "meaning": {
+          "base_language": "tough person"
+        }
+      },
+      {
+        "id": 42,
+        "correct_answer": "துட்டு",
+        "pronunciation": "thuttu",
+        "meaning": {
+          "base_language": "coin"
+        }
+      },
+      {
+        "id": 43,
+        "correct_answer": "இட்டலி",
+        "pronunciation": "ittali",
+        "meaning": {
+          "base_language": "idli"
+        }
+      },
+      {
+        "id": 44,
+        "correct_answer": "ஒட்டுமொத்த",
+        "pronunciation": "ottumotha",
+        "meaning": {
+          "base_language": "total"
+        }
+      },
+      {
+        "id": 45,
+        "correct_answer": "பட்டிமன்றம்",
+        "pronunciation": "pattimandram",
+        "meaning": {
+          "base_language": "debate"
+        }
+      },
+      {
+        "id": 46,
+        "correct_answer": "கொட்டு",
+        "pronunciation": "kottu",
+        "meaning": {
+          "base_language": "pour"
+        }
+      },
+      {
+        "id": 47,
+        "correct_answer": "அட்டூழியம்",
+        "pronunciation": "attooziyam",
+        "meaning": {
+          "base_language": "tyranny"
+        }
+      },
+      {
+        "id": 48,
+        "correct_answer": "பட்டக்கல்",
+        "pronunciation": "pattakkal",
+        "meaning": {
+          "base_language": "granite"
+        }
+      },
+      {
+        "id": 49,
+        "correct_answer": "முட்டிக்கொள்",
+        "pronunciation": "muttikol",
+        "meaning": {
+          "base_language": "bang against"
+        }
+      },
+      {
+        "id": 50,
+        "correct_answer": "எட்டும்",
+        "pronunciation": "ettum",
+        "meaning": {
+          "base_language": "reaching"
+        }
+      }
+    ]
+  }
+]

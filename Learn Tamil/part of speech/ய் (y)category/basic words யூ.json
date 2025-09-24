@@ -1,0 +1,37 @@
+[{
+  "title": "Tamil Letter யூ (yuu)",
+       "primary_language": "en-in-x-enc-local",
+  "secondary_language": "ta-in-x-tac-local",
+  "instruction": "Listen, View and Repeat",
+  "exercise": [
+    { "correct_answer": "யூகம்", "pronunciation": "yuugam", "meaning": { "base_language": "union" } },
+    { "correct_answer": "வியூகவகை", "pronunciation": "viyu-gavakai", "meaning": { "base_language": "perspective" } },
+    { "correct_answer": "கோணியூசி", "pronunciation": "koni-yuusi", "meaning": { "base_language": "angle" } },
+    { "correct_answer": "கொண்டையூசி", "pronunciation": "kondai-yuusi", "meaning": { "base_language": "binding" } },
+    { "correct_answer": "கலையூர்தி", "pronunciation": "kalai-yurthi", "meaning": { "base_language": "art" } },
+    { "correct_answer": "எண்ணெயூற்ற", "pronunciation": "ennai-yootra", "meaning": { "base_language": "oil" } },
+    { "correct_answer": "இடையூறு", "pronunciation": "idai-yooru", "meaning": { "base_language": "obstacle" } },
+    { "correct_answer": "வியூகம்", "pronunciation": "viyu-gam", "meaning": { "base_language": "strategy" } },
+    { "correct_answer": "இரையூட்டும்", "pronunciation": "irai-yootum", "meaning": { "base_language": "serving" } },
+    { "correct_answer": "முயூகம்", "pronunciation": "muyookam", "meaning": { "base_language": "effort" } },
+    { "correct_answer": "சுயூகம்", "pronunciation": "suyookam", "meaning": { "base_language": "self-effort" } },
+    { "correct_answer": "நலியூகம்", "pronunciation": "naliyookam", "meaning": { "base_language": "welfare" } },
+    { "correct_answer": "அன்பியூகம்", "pronunciation": "anbiyookam", "meaning": { "base_language": "love" } },
+  
+    { "correct_answer": "வியூக்தி", "pronunciation": "viyukthi", "meaning": { "base_language": "strategy" } },
+    { "correct_answer": "யூவிதம்", "pronunciation": "yuvidham", "meaning": { "base_language": "method" } },
+   
+    { "correct_answer": "யூவாதனம்", "pronunciation": "yuvaadhanam", "meaning": { "base_language": "gift" } },
+  
+    { "correct_answer": "யூவனம்", "pronunciation": "yuvaanam", "meaning": { "base_language": "youth" } },
+      { "correct_answer": "யூனிஃபார்ம்", "pronunciation": "yu-uniform", "meaning": { "base_language": "uniform" } },
+    { "correct_answer": "யூனியன்", "pronunciation": "yu-union", "meaning": { "base_language": "union" } },
+    { "correct_answer": "யூனிட்", "pronunciation": "yu-unit", "meaning": { "base_language": "unit" } },
+    { "correct_answer": "யூடியூப்", "pronunciation": "yu-tube", "meaning": { "base_language": "YouTube" } },
+    { "correct_answer": "யூகம்", "pronunciation": "yuugam", "meaning": { "base_language": "union / connection" } 
+}
+
+]
+}
+
+]

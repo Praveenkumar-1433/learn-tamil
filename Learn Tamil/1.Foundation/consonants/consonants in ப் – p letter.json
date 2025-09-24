@@ -1,0 +1,401 @@
+{
+  "title": "Tamil Pure Consonant ப் (p)",
+  "primary_language": "en-in-x-ena-local",
+  "secondary_language": "ta-in-x-tad-local",
+  "instruction": "Meaning",
+  "exercise": [
+    {
+      "id": 1,
+      "correct_answer": "அப்பா",
+      "pronunciation": "appa",
+      "meaning": {
+        "base_language": "father"
+      }
+    },
+    {
+      "id": 2,
+      "correct_answer": "இப்போ",
+      "pronunciation": "ippo",
+      "meaning": {
+        "base_language": "now"
+      }
+    },
+    {
+      "id": 3,
+      "correct_answer": "அப்பம்",
+      "pronunciation": "appam",
+      "meaning": {
+        "base_language": "appam (food)"
+      }
+    },
+    {
+      "id": 4,
+      "correct_answer": "எப்போ",
+      "pronunciation": "eppo",
+      "meaning": {
+        "base_language": "when"
+      }
+    },
+    {
+      "id": 5,
+      "correct_answer": "கப்பல்",
+      "pronunciation": "kappal",
+      "meaning": {
+        "base_language": "ship"
+      }
+    },
+    {
+      "id": 6,
+      "correct_answer": "சப்பாத்தி",
+      "pronunciation": "sappathi",
+      "meaning": {
+        "base_language": "chapati"
+      }
+    },
+    {
+      "id": 7,
+      "correct_answer": "அரிப்பு ",
+      "pronunciation": "Arippu",
+      "meaning": {
+        "base_language": "itching"
+      }
+    },
+    {
+      "id": 8,
+      "correct_answer": "எழுப்பு ",
+      "pronunciation": "Eḻuppu",
+      "meaning": {
+        "base_language": "wake up"
+      }
+    },
+    {
+      "id": 9,
+      "correct_answer": "தப்பு",
+      "pronunciation": "thappu",
+      "meaning": {
+        "base_language": "mistake"
+      }
+    },
+    {
+      "id": 10,
+      "correct_answer": "தெப்பம் ",
+      "pronunciation": "Teppam",
+      "meaning": {
+        "base_language": "The raft"
+      }
+    },
+    {
+      "id": 11,
+      "correct_answer": "கப்பம்",
+      "pronunciation": "kappam",
+      "meaning": {
+        "base_language": "tax"
+      }
+    },
+    {
+      "id": 12,
+      "correct_answer": "சப்பம்",
+      "pronunciation": "sappam",
+      "meaning": {
+        "base_language": "curse/oath"
+      }
+    },
+    {
+      "id": 13,
+      "correct_answer": "மாப்பிள்ளை",
+      "pronunciation": "mappillai",
+      "meaning": {
+        "base_language": "son-in-law"
+      }
+    },
+   
+    {
+      "id": 15,
+      "correct_answer": "தப்பித்து",
+      "pronunciation": "thappithu",
+      "meaning": {
+        "base_language": "escaped"
+      }
+    },
+    {
+      "id": 16,
+      "correct_answer": "வெறுப்பு ",
+      "pronunciation": "Veṟuppu",
+      "meaning": {
+        "base_language": "Hatred"
+      }
+    },
+    {
+      "id": 17,
+      "correct_answer": "குழப்பம்",
+      "pronunciation": "Kuḻappam",
+      "meaning": {
+        "base_language": "confusion"
+      }
+    },
+    {
+      "id": 18,
+      "correct_answer": "சப்பை",
+      "pronunciation": "sappai",
+      "meaning": {
+        "base_language": "useless/worthless"
+      }
+    },
+    {
+      "id": 19,
+      "correct_answer": "உப்பு",
+      "pronunciation": "uppu",
+      "meaning": {
+        "base_language": "salt"
+      }
+    },
+    {
+      "id": 20,
+      "correct_answer": "நப்பம்",
+      "pronunciation": "nappam",
+      "meaning": {
+        "base_language": "breath"
+      }
+    },
+    {
+      "id": 21,
+      "correct_answer": "தப்பிக்க",
+      "pronunciation": "thappikka",
+      "meaning": {
+        "base_language": "to escape"
+      }
+    },
+    {
+      "id": 22,
+      "correct_answer": "வெப்பம்",
+      "pronunciation": "Veppam",
+      "meaning": {
+        "base_language": "hot/Heat"
+      }
+    },
+    {
+      "id": 23,
+      "correct_answer": "கப்பன்",
+      "pronunciation": "kappan",
+      "meaning": {
+        "base_language": "black color"
+      }
+    },
+    {
+      "id": 24,
+      "correct_answer": "சப்பிக்க",
+      "pronunciation": "sappikka",
+      "meaning": {
+        "base_language": "to curse"
+      }
+    },
+    {
+      "id": 25,
+      "correct_answer": "துப்பாக்கி ",
+      "pronunciation": "Tuppākki",
+      "meaning": {
+        "base_language": "Gun"
+      }
+    },
+    {
+      "id": 26,
+      "correct_answer": "நப்பாசை",
+      "pronunciation": "nappasai",
+      "meaning": {
+        "base_language": "desire/craving"
+      }
+    },
+    {
+      "id": 27,
+      "correct_answer": "தப்பான",
+      "pronunciation": "thappana",
+      "meaning": {
+        "base_language": "wrong"
+      }
+    },
+    {
+      "id": 28,
+      "correct_answer": "சூடுபடுத்தப்பட்டது",
+      "pronunciation": "vappatta",
+      "meaning": {
+        "base_language": "heated"
+      }
+    },
+    {
+      "id": 29,
+      "correct_answer": "கேப்டன்",
+      "pronunciation": "kappadan",
+      "meaning": {
+        "base_language": "miser"
+      }
+    },
+    {
+      "id": 30,
+      "correct_answer": "பொறுப்பு ",
+      "pronunciation": "Poṟuppu",
+      "meaning": {
+        "base_language": "Responsible"
+      }
+    },
+    {
+      "id": 31,
+      "correct_answer": "மப்புளி",
+      "pronunciation": "mappuli",
+      "meaning": {
+        "base_language": "tamarind"
+      }
+    },
+    {
+      "id": 32,
+      "correct_answer": "அடிப்படை ",
+      "pronunciation": "Aṭippaṭai",
+      "meaning": {
+        "base_language": "Basic"
+      }
+    },
+    {
+      "id": 33,
+      "correct_answer": "குறிப்பு",
+      "pronunciation": "Kuṟippu",
+      "meaning": {
+        "base_language": "Note"
+      }
+    },
+    {
+      "id": 34,
+      "correct_answer": "பப்பாளி",
+      "pronunciation": "vappali",
+      "meaning": {
+        "base_language": " Papaya"
+      }
+    },
+    {
+      "id": 35,
+      "correct_answer": "மடிப்பு",
+      "pronunciation": "Maṭippu",
+      "meaning": {
+        "base_language": "Fold"
+      }
+    },
+    {
+      "id": 36,
+      "correct_answer": "செருப்பு",
+      "pronunciation": "sappal",
+      "meaning": {
+        "base_language": "slipper"
+      }
+    },
+    {
+      "id": 37,
+      "correct_answer": "சேர்ப்பு ",
+      "pronunciation": "Cērppu",
+      "meaning": {
+        "base_language": "addition"
+      }
+    },
+    {
+      "id": 38,
+      "correct_answer": "வெளிப்படை",
+      "pronunciation": "Veḷippaṭai",
+      "meaning": {
+        "base_language": "transparent"
+      }
+    },
+    {
+      "id": 39,
+      "correct_answer": "தப்பு",
+      "pronunciation": "thappu",
+      "meaning": {
+        "base_language": "fault"
+      }
+    },
+    {
+      "id": 40,
+      "correct_answer": "வப்பா",
+      "pronunciation": "vappa",
+      "meaning": {
+        "base_language": "elder brother"
+      }
+    },
+    {
+      "id": 41,
+      "correct_answer": "வெட்டப்பட்டது",
+      "pronunciation": "Veṭṭappaṭṭatu",
+      "meaning": {
+        "base_language": "cut/chopped"
+      }
+    },
+    {
+      "id": 42,
+      "correct_answer": "சூப்பர்",
+      "pronunciation": "Cūppar",
+      "meaning": {
+        "base_language": "Super"
+      }
+    },
+    {
+      "id": 43,
+      "correct_answer": "முப்பது",
+      "pronunciation": "Muppatu",
+      "meaning": {
+        "base_language": "Thirty"
+      }
+    },
+    {
+      "id": 44,
+      "correct_answer": "அப்பாவி ",
+      "pronunciation": "Appāvi",
+      "meaning": {
+        "base_language": "innocent"
+      }
+    },
+    {
+      "id": 45,
+      "correct_answer": "தப்பாக",
+      "pronunciation": "thappaga",
+      "meaning": {
+        "base_language": "wrongly"
+      }
+    },
+    {
+      "id": 46,
+      "correct_answer": "அப்படி ",
+      "pronunciation": "Appaṭi",
+      "meaning": {
+        "base_language": "Like that"
+      }
+    },
+    {
+      "id": 47,
+      "correct_answer": "கப்பல்கள்",
+      "pronunciation": "kappalkal",
+      "meaning": {
+        "base_language": "ships"
+      }
+    },
+    {
+      "id": 48,
+      "correct_answer": "ரப்பர்",
+      "pronunciation": "Rappar",
+      "meaning": {
+        "base_language": "Rubber"
+      }
+    },
+    {
+      "id": 49,
+      "correct_answer": "விருப்பம் ",
+      "pronunciation": "Viruppam",
+      "meaning": {
+        "base_language": "option"
+      }
+    },
+    {
+      "id": 50,
+      "correct_answer": "அப்பளம் ",
+      "pronunciation": "Appaḷam",
+      "meaning": {
+        "base_language": "Waffles "
+      }
+    }
+  ]
+}

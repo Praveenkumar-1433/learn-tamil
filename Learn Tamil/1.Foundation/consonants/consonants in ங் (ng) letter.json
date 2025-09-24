@@ -1,0 +1,311 @@
+[
+  {
+   
+    "title": "Tamil Pure Consonant ங் (ng)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "அங்கே",
+        "pronunciation": "ange",
+        "meaning": { "base_language": "there" }
+      },
+      {
+        "id": 2,
+        "correct_answer": "இங்கே",
+        "pronunciation": "inge",
+        "meaning": { "base_language": "here" }
+      },
+      {
+        "id": 3,
+        "correct_answer": "எங்கே",
+        "pronunciation": "enge",
+        "meaning": { "base_language": "where" }
+      },
+      {
+        "id": 4,
+        "correct_answer": "உங்கள்",
+        "pronunciation": "ungal",
+        "meaning": { "base_language": "your" }
+      },
+      {
+        "id": 5,
+        "correct_answer": "எங்கள்",
+        "pronunciation": "engal",
+        "meaning": { "base_language": "our" }
+      },
+      {
+        "id": 6,
+        "correct_answer": "அங்கம்",
+        "pronunciation": "angam",
+        "meaning": { "base_language": "limb" }
+      },
+      {
+        "id": 7,
+        "correct_answer": "மங்கை",
+        "pronunciation": "mangai",
+        "meaning": { "base_language": "woman" }
+      },
+      {
+        "id": 8,
+        "correct_answer": "தங்கம்",
+        "pronunciation": "thangam",
+        "meaning": { "base_language": "gold" }
+      },
+      {
+        "id": 9,
+        "correct_answer": "சங்கம்",
+        "pronunciation": "sangam",
+        "meaning": { "base_language": "association" }
+      },
+      {
+        "id": 10,
+        "correct_answer": "கங்கை",
+        "pronunciation": "gangai",
+        "meaning": { "base_language": "river Ganges" }
+      },
+      {
+        "id": 11,
+        "correct_answer": "வங்கி",
+        "pronunciation": "vangi",
+        "meaning": { "base_language": "bank" }
+      },
+      {
+        "id": 12,
+        "correct_answer": "பங்கு",
+        "pronunciation": "pangu",
+        "meaning": { "base_language": "share" }
+      },
+      {
+        "id": 13,
+        "correct_answer": "நங்கூரம்",
+        "pronunciation": "nanguuram",
+        "meaning": { "base_language": "anchor" }
+      },
+      {
+        "id": 14,
+        "correct_answer": "அங்காடி",
+        "pronunciation": "angaadi",
+        "meaning": { "base_language": "market" }
+      },
+      {
+        "id": 15,
+        "correct_answer": "மங்கல்",
+        "pronunciation": "mangal",
+        "meaning": { "base_language": "auspicious" }
+      },
+      {
+        "id": 16,
+        "correct_answer": "சிங்கம்",
+        "pronunciation": "singam",
+        "meaning": { "base_language": "lion" }
+      },
+      {
+        "id": 17,
+        "correct_answer": "தங்கை",
+        "pronunciation": "thangai",
+        "meaning": { "base_language": "younger sister" }
+      },
+      {
+        "id": 18,
+        "correct_answer": "இங்கிலாந்து",
+        "pronunciation": "ingilaanthu",
+        "meaning": { "base_language": "England" }
+      },
+      {
+        "id": 19,
+        "correct_answer": "அங்கீகரிக்க",
+        "pronunciation": "angikarikka",
+        "meaning": { "base_language": "to approve" }
+      },
+      {
+        "id": 20,
+        "correct_answer": "முங்கில்",
+        "pronunciation": "mungil",
+        "meaning": { "base_language": "bamboo" }
+      },
+      {
+        "id": 21,
+        "correct_answer": "கொங்கை",
+        "pronunciation": "kongai",
+        "meaning": { "base_language": "breast" }
+      },
+      {
+        "id": 22,
+        "correct_answer": "தங்குதல்",
+        "pronunciation": "thanguthal",
+        "meaning": { "base_language": "staying" }
+      },
+      {
+        "id": 23,
+        "correct_answer": "இங்கிதம்",
+        "pronunciation": "ingitham",
+        "meaning": { "base_language": "gesture" }
+      },
+      {
+        "id": 24,
+        "correct_answer": "அங்குலம்",
+        "pronunciation": "angulam",
+        "meaning": { "base_language": "inch" }
+      },
+      {
+        "id": 25,
+        "correct_answer": "சங்கடம்",
+        "pronunciation": "sangadam",
+        "meaning": { "base_language": "difficulty" }
+      },
+      {
+        "id": 26,
+        "correct_answer": "பங்காளி",
+        "pronunciation": "pangaali",
+        "meaning": { "base_language": "partner" }
+      },
+      {
+        "id": 27,
+        "correct_answer": "வங்காரம்",
+        "pronunciation": "vangaaram",
+        "meaning": { "base_language": "arrogance" }
+      },
+      {
+        "id": 28,
+        "correct_answer": "மங்கிய",
+        "pronunciation": "mangiya",
+        "meaning": { "base_language": "faded" }
+      },
+      {
+        "id": 29,
+        "correct_answer": "தொங்கு",
+        "pronunciation": "thongu",
+        "meaning": { "base_language": "hang" }
+      },
+      {
+        "id": 30,
+        "correct_answer": "அங்கன்",
+        "pronunciation": "angan",
+        "meaning": { "base_language": "courtyard" }
+      },
+      {
+        "id": 31,
+        "correct_answer": "சங்கீதம்",
+        "pronunciation": "sangeetham",
+        "meaning": { "base_language": "music" }
+      },
+      {
+        "id": 32,
+        "correct_answer": "இங்கு",
+        "pronunciation": "ingu",
+        "meaning": { "base_language": "here" }
+      },
+      {
+        "id": 33,
+        "correct_answer": "அங்கு",
+        "pronunciation": "angu",
+        "meaning": { "base_language": "there" }
+      },
+      {
+        "id": 34,
+        "correct_answer": "எங்கு",
+        "pronunciation": "engu",
+        "meaning": { "base_language": "where" }
+      },
+      {
+        "id": 35,
+        "correct_answer": "கங்குல்",
+        "pronunciation": "kangul",
+        "meaning": { "base_language": "night" }
+      },
+      {
+        "id": 36,
+        "correct_answer": "அங்கீகாரம்",
+        "pronunciation": "angikaaram",
+        "meaning": { "base_language": "recognition" }
+      },
+      {
+        "id": 37,
+        "correct_answer": "மங்கையர்",
+        "pronunciation": "mangaiyar",
+        "meaning": { "base_language": "women" }
+      },
+      {
+        "id": 38,
+        "correct_answer": "சங்கர",
+        "pronunciation": "sangara",
+        "meaning": { "base_language": "destroyer" }
+      },
+      {
+        "id": 39,
+        "correct_answer": "பங்கம்",
+        "pronunciation": "pangam",
+        "meaning": { "base_language": "damage" }
+      },
+      {
+        "id": 40,
+        "correct_answer": "தங்கம் போல",
+        "pronunciation": "thangam pola",
+        "meaning": { "base_language": "like gold" }
+      },
+      {
+        "id": 41,
+        "correct_answer": "நங்கை",
+        "pronunciation": "nangai",
+        "meaning": { "base_language": "lady" }
+      },
+      {
+        "id": 42,
+        "correct_answer": "இங்கிலீஷ்",
+        "pronunciation": "inglees",
+        "meaning": { "base_language": "English" }
+      },
+      {
+        "id": 43,
+        "correct_answer": "அங்கவை",
+        "pronunciation": "angavai",
+        "meaning": { "base_language": "limbs" }
+      },
+      {
+        "id": 44,
+        "correct_answer": "சங்கிலி",
+        "pronunciation": "sangili",
+        "meaning": { "base_language": "chain" }
+      },
+      {
+        "id": 45,
+        "correct_answer": "மங்கலம்",
+        "pronunciation": "mangalam",
+        "meaning": { "base_language": "auspiciousness" }
+      },
+      {
+        "id": 46,
+        "correct_answer": "கங்கா",
+        "pronunciation": "gangaa",
+        "meaning": { "base_language": "Ganga" }
+      },
+      {
+        "id": 47,
+        "correct_answer": "சிங்கார",
+        "pronunciation": "singaara",
+        "meaning": { "base_language": "beautiful" }
+      },
+      {
+        "id": 48,
+        "correct_answer": "வங்காளம்",
+        "pronunciation": "vangaalam",
+        "meaning": { "base_language": "Bengal" }
+      },
+      {
+        "id": 49,
+        "correct_answer": "இங்கனம்",
+        "pronunciation": "inganam",
+        "meaning": { "base_language": "this way" }
+      },
+      {
+        "id": 50,
+        "correct_answer": "அங்கனம்",
+        "pronunciation": "anganam",
+        "meaning": { "base_language": "that way" }
+      }
+    ]
+  }
+]

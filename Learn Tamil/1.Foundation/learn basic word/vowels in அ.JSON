@@ -1,0 +1,409 @@
+[{
+   
+    "title": "Tamil Vowel Letter அ (a)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+  {
+    "id": 1,
+    "correct_answer": "அம்மா",
+    "pronunciation": "amma",
+    "meaning": {
+      "base_language": "mother"
+    }
+  },
+  {
+    "id": 2,
+    "correct_answer": "அப்பா",
+    "pronunciation": "appa",
+    "meaning": {
+      "base_language": "father"
+    }
+  },
+  {
+    "id": 3,
+    "correct_answer": "அண்ணன்",
+    "pronunciation": "annan",
+    "meaning": {
+      "base_language": "elder brother"
+    }
+  },
+  {
+    "id": 4,
+    "correct_answer": "அக்கா",
+    "pronunciation": "akka",
+    "meaning": {
+      "base_language": "elder sister"
+    }
+  },
+  {
+    "id": 5,
+    "correct_answer": "அன்பு",
+    "pronunciation": "anbu",
+    "meaning": {
+      "base_language": "love"
+    }
+  },
+  {
+    "id": 6,
+    "correct_answer": "அழகு",
+    "pronunciation": "azhagu",
+    "meaning": {
+      "base_language": "beauty"
+    }
+  },
+  {
+    "id": 7,
+    "correct_answer": "அருமை",
+    "pronunciation": "arumai",
+    "meaning": {
+      "base_language": "precious"
+    }
+  },
+  {
+    "id": 8,
+    "correct_answer": "அரிசி",
+    "pronunciation": "arisi",
+    "meaning": {
+      "base_language": "rice"
+    }
+  },
+  {
+    "id": 9,
+    "correct_answer": "அடுப்பு",
+    "pronunciation": "aduppu",
+    "meaning": {
+      "base_language": "stove"
+    }
+  },
+  {
+    "id": 10,
+    "correct_answer": "அலுவலகம்",
+    "pronunciation": "aluvalagam",
+    "meaning": {
+      "base_language": "office"
+    }
+  },
+  {
+    "id": 11,
+    "correct_answer": "அக்கறை",
+    "pronunciation": "akkarai",
+    "meaning": {
+      "base_language": "care"
+    }
+  },
+  {
+    "id": 12,
+    "correct_answer": "அஞ்சல்",
+    "pronunciation": "anjal",
+    "meaning": {
+      "base_language": "post"
+    }
+  },
+  {
+    "id": 13,
+    "correct_answer": "அறிவு",
+    "pronunciation": "arivu",
+    "meaning": {
+      "base_language": "knowledge"
+    }
+  },
+  {
+    "id": 14,
+    "correct_answer": "அரசு",
+    "pronunciation": "arasu",
+    "meaning": {
+      "base_language": "government"
+    }
+  },
+  {
+    "id": 15,
+    "correct_answer": "அமைதி",
+    "pronunciation": "amaithi",
+    "meaning": {
+      "base_language": "peace"
+    }
+  },
+  {
+    "id": 16,
+    "correct_answer": "அதிகாரி",
+    "pronunciation": "adhikari",
+    "meaning": {
+      "base_language": "officer"
+    }
+  },
+  {
+    "id": 17,
+    "correct_answer": "அன்னம்",
+    "pronunciation": "annam",
+    "meaning": {
+      "base_language": "food"
+    }
+  },
+  {
+    "id": 18,
+    "correct_answer": "அடை",
+    "pronunciation": "adai",
+    "meaning": {
+      "base_language": "pancake"
+    }
+  },
+  {
+    "id": 19,
+    "correct_answer": "அருகில்",
+    "pronunciation": "arugil",
+    "meaning": {
+      "base_language": "near"
+    }
+  },
+  {
+    "id": 20,
+    "correct_answer": "அழைப்பு",
+    "pronunciation": "azhaippu",
+    "meaning": {
+      "base_language": "invitation"
+    }
+  },
+  {
+    "id": 21,
+    "correct_answer": "அவசரம்",
+    "pronunciation": "avasaram",
+    "meaning": {
+      "base_language": "urgency"
+    }
+  },
+  {
+    "id": 22,
+    "correct_answer": "அடிமை",
+    "pronunciation": "adimai",
+    "meaning": {
+      "base_language": "servant"
+    }
+  },
+  {
+    "id": 23,
+    "correct_answer": "அச்சம்",
+    "pronunciation": "accham",
+    "meaning": {
+      "base_language": "fear"
+    }
+  },
+  {
+    "id": 24,
+    "correct_answer": "அதிர்ஷ்டம்",
+    "pronunciation": "adhirshtam",
+    "meaning": {
+      "base_language": "luck"
+    }
+  },
+  {
+    "id": 25,
+    "correct_answer": "அசைவு",
+    "pronunciation": "asaivu",
+    "meaning": {
+      "base_language": "non-vegetarian"
+    }
+  },
+  {
+    "id": 26,
+    "correct_answer": "அபாயம்",
+    "pronunciation": "abayam",
+    "meaning": {
+      "base_language": "danger"
+    }
+  },
+  {
+    "id": 27,
+    "correct_answer": "அன்றாடம்",
+    "pronunciation": "andraadam",
+    "meaning": {
+      "base_language": "daily"
+    }
+  },
+  {
+    "id": 28,
+    "correct_answer": "அலங்காரம்",
+    "pronunciation": "alangaram",
+    "meaning": {
+      "base_language": "decoration"
+    }
+  },
+  {
+    "id": 29,
+    "correct_answer": "அவமானம்",
+    "pronunciation": "avamanam",
+    "meaning": {
+      "base_language": "insult"
+    }
+  },
+  {
+    "id": 30,
+    "correct_answer": "அருகாமை",
+    "pronunciation": "arugamai",
+    "meaning": {
+      "base_language": "nearness"
+    }
+  },
+  {
+    "id": 31,
+    "correct_answer": "அனுமதி",
+    "pronunciation": "anumathi",
+    "meaning": {
+      "base_language": "permission"
+    }
+  },
+  {
+    "id": 32,
+    "correct_answer": "அவசியம்",
+    "pronunciation": "avasiyam",
+    "meaning": {
+      "base_language": "necessity"
+    }
+  },
+  {
+    "id": 33,
+    "correct_answer": "அழுகை",
+    "pronunciation": "azhukai",
+    "meaning": {
+      "base_language": "crying"
+    }
+  },
+  {
+    "id": 34,
+    "correct_answer": "அனுபவம்",
+    "pronunciation": "anubavam",
+    "meaning": {
+      "base_language": "experience"
+    }
+  },
+  {
+    "id": 35,
+    "correct_answer": "அளவு",
+    "pronunciation": "alavu",
+    "meaning": {
+      "base_language": "measurement"
+    }
+  },
+  {
+    "id": 36,
+    "correct_answer": "அடுத்த",
+    "pronunciation": "aduttha",
+    "meaning": {
+      "base_language": "next"
+    }
+  },
+  {
+    "id": 37,
+    "correct_answer": "அமுதம்",
+    "pronunciation": "amutham",
+    "meaning": {
+      "base_language": "nectar"
+    }
+  },
+  {
+    "id": 38,
+    "correct_answer": "அழகான",
+    "pronunciation": "azhagana",
+    "meaning": {
+      "base_language": "beautiful"
+    }
+  },
+  {
+    "id": 39,
+    "correct_answer": "அன்பான",
+    "pronunciation": "anbana",
+    "meaning": {
+      "base_language": "loving"
+    }
+  },
+  {
+    "id": 40,
+    "correct_answer": "அதிகம்",
+    "pronunciation": "adhigam",
+    "meaning": {
+      "base_language": "more"
+    }
+  },
+  {
+    "id": 41,
+    "correct_answer": "அறுவடை",
+    "pronunciation": "aruvadai",
+    "meaning": {
+      "base_language": "harvest"
+    }
+  },
+  {
+    "id": 42,
+    "correct_answer": "அதிர்வு",
+    "pronunciation": "adhirvu",
+    "meaning": {
+      "base_language": "vibration"
+    }
+  },
+  {
+    "id": 43,
+    "correct_answer": "அனைத்தும்",
+    "pronunciation": "anaittum",
+    "meaning": {
+      "base_language": "everything"
+    }
+  },
+  {
+    "id": 44,
+    "correct_answer": "அமைப்பு",
+    "pronunciation": "amaippu",
+    "meaning": {
+      "base_language": "organization"
+    }
+  },
+  {
+    "id": 45,
+    "correct_answer": "அடையாளம்",
+    "pronunciation": "adaiyalam",
+    "meaning": {
+      "base_language": "identity"
+    }
+  },
+  {
+    "id": 46,
+    "correct_answer": "அணுகுமுறை",
+    "pronunciation": "anugumurai",
+    "meaning": {
+      "base_language": "approach"
+    }
+  },
+  {
+    "id": 47,
+    "correct_answer": "அடிப்படை",
+    "pronunciation": "adippadai",
+    "meaning": {
+      "base_language": "basic"
+    }
+  },
+  {
+    "id": 48,
+    "correct_answer": "அரண்மனை",
+    "pronunciation": "aranmanai",
+    "meaning": {
+      "base_language": "palace"
+    }
+  },
+  {
+    "id": 49,
+    "correct_answer": "அலைபேசி",
+    "pronunciation": "alaipesi",
+    "meaning": {
+      "base_language": "mobile phone"
+    }
+  },
+  {
+    "id": 50,
+    "correct_answer": "அழுத்தம்",
+    "pronunciation": "azhuttam",
+    "meaning": {
+      "base_language": "pressure"
+    }
+  }
+]
+}]

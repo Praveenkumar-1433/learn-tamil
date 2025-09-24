@@ -1,0 +1,94 @@
+[
+  {
+    "screen_type": "Learn and Practice with Image",
+    "screen_type_id": 17,
+    "title": "Learn Uyir Mei Letters ஞ் (N)",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Listen, View and Repeat",
+    "exercise": [
+      {
+        "image_description": "ஞ",
+        "image_url_light": "https://example.com/images/nya_light.png",
+        "image_url_dark": "https://example.com/images/nya_dark.png"
+      },
+      {
+        "image_description": "ஞா",
+        "image_url_light": "https://example.com/images/nyaa_light.png",
+        "image_url_dark": "https://example.com/images/nyaa_dark.png"
+      },
+      {
+        "image_description": "ஞி",
+        "image_url_light": "https://example.com/images/nyi_light.png",
+        "image_url_dark": "https://example.com/images/nyi_dark.png"
+      },
+      {
+        "image_description": "ஞீ",
+        "image_url_light": "https://example.com/images/nyii_light.png",
+        "image_url_dark": "https://example.com/images/nyii_dark.png"
+      },
+      {
+        "image_description": "ஞு",
+        "image_url_light": "https://example.com/images/nyu_light.png",
+        "image_url_dark": "https://example.com/images/nyu_dark.png"
+      },
+      {
+        "image_description": "ஞூ",
+        "image_url_light": "https://example.com/images/nyuu_light.png",
+        "image_url_dark": "https://example.com/images/nyuu_dark.png"
+      },
+      {
+        "image_description": "ஞெ",
+        "image_url_light": "https://example.com/images/nye_light.png",
+        "image_url_dark": "https://example.com/images/nye_dark.png"
+      },
+      {
+        "image_description": "ஞே",
+        "image_url_light": "https://example.com/images/nyee_light.png",
+        "image_url_dark": "https://example.com/images/nyee_dark.png"
+      },
+      {
+        "image_description": "ஞை",
+        "image_url_light": "https://example.com/images/nyai_light.png",
+        "image_url_dark": "https://example.com/images/nyai_dark.png"
+      },
+      {
+        "image_description": "ஞொ",
+        "image_url_light": "https://example.com/images/nyo_light.png",
+        "image_url_dark": "https://example.com/images/nyo_dark.png"
+      },
+      {
+        "image_description": "ஞோ",
+        "image_url_light": "https://example.com/images/nyoo_light.png",
+        "image_url_dark": "https://example.com/images/nyoo_dark.png"
+      },
+      {
+        "image_description": "ஞௌ",
+        "image_url_light": "https://example.com/images/nyau_light.png",
+        "image_url_dark": "https://example.com/images/nyau_dark.png"
+      }
+    ],
+    "intro_screen_title": "Learn Uyir Mei Ezhuthukal",
+    "intro_screen": [
+      {
+        "sub_title": "Uyir Mei (உயிர் மெய் எழுத்துகள்)",
+        "description": "The (Vowel + Consonant)உயிர்மெய் எழுத்துக்கள் are compound letters in Tamil formed by combining a consonant (மெய்) with a vowel (உயிர்). For example, the consonant ஞ் (N) combines with vowels to form ஞ, ஞா, ஞி, ஞீ, ஞு, ஞூ, ஞெ, ஞே, ஞை, ஞொ, ஞோ, and ஞௌ. "
+      },
+      {
+        "banner_img": [
+          {
+            "image_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/750/image_49_18092025025839.png",
+            "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/750/image_50_18092025025837.png"
+          },
+          {
+            "image_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/750/image_52_18092025025830.png",
+            "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/750/image_51_18092025025834.png"
+          },
+          {
+            "image_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/750/image_66_18092025024610.png",
+            "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/750/image_65_18092025024614.png"
+          }
+        ]
+      }
+    ]
+  }
+]

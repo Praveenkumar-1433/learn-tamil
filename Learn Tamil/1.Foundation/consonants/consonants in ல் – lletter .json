@@ -1,0 +1,410 @@
+[
+  {
+    "title": "Tamil Pure Consonant ல் (l)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "அல்லி",
+        "pronunciation": "alli",
+        "meaning": {
+          "base_language": "lily"
+        }
+      },
+      {
+        "id": 2,
+        "correct_answer": "கல்லு",
+        "pronunciation": "kallu",
+        "meaning": {
+          "base_language": "stone"
+        }
+      },
+      {
+        "id": 3,
+        "correct_answer": "தல்லு",
+        "pronunciation": "thallu",
+        "meaning": {
+          "base_language": "push"
+        }
+      },
+      {
+        "id": 4,
+        "correct_answer": "நல்ல",
+        "pronunciation": "nalla",
+        "meaning": {
+          "base_language": "good"
+        }
+      },
+      {
+        "id": 5,
+        "correct_answer": "வல்லி",
+        "pronunciation": "valli",
+        "meaning": {
+          "base_language": "creeper"
+        }
+      },
+      {
+        "id": 6,
+        "correct_answer": "பல்லு",
+        "pronunciation": "pallu",
+        "meaning": {
+          "base_language": "tooth"
+        }
+      },
+      {
+        "id": 7,
+        "correct_answer": "சல்லடை",
+        "pronunciation": "salladai",
+        "meaning": {
+          "base_language": "sieve"
+        }
+      },
+      {
+        "id": 8,
+        "correct_answer": "கல்லூரி",
+        "pronunciation": "kalloori",
+        "meaning": {
+          "base_language": "college"
+        }
+      },
+      {
+        "id": 9,
+        "correct_answer": "நல்லவன்",
+        "pronunciation": "nallavan",
+        "meaning": {
+          "base_language": "good person"
+        }
+      },
+      {
+        "id": 10,
+        "correct_answer": "அணல் ",
+        "pronunciation": "anal",
+        "meaning": {
+          "base_language": "Squirrel"
+        }
+      },
+      {
+        "id": 11,
+        "correct_answer": "இல்லம்",
+        "pronunciation": "illam",
+        "meaning": {
+          "base_language": "house"
+        }
+      },
+      {
+        "id": 12,
+        "correct_answer": "அல்லது",
+        "pronunciation": "alladhu",
+        "meaning": {
+          "base_language": "or"
+        }
+      },
+      {
+        "id": 13,
+        "correct_answer": "கல்லறை",
+        "pronunciation": "kallarai",
+        "meaning": {
+          "base_language": "tomb"
+        }
+      },
+      {
+        "id": 14,
+        "correct_answer": "இடைஞ்சல்",
+        "pronunciation": "itanjal",
+        "meaning": {
+          "base_language": "transit"
+        }
+      },
+      {
+        "id": 15,
+        "correct_answer": "நல்லூர்",
+        "pronunciation": "nalloor",
+        "meaning": {
+          "base_language": "good village"
+        }
+      },
+      {
+        "id": 16,
+        "correct_answer": "வல்லாண்மை",
+        "pronunciation": "vallaanmai",
+        "meaning": {
+          "base_language": "strength"
+        }
+      },
+      {
+        "id": 17,
+        "correct_answer": "பல்லக்கு",
+        "pronunciation": "pallakku",
+        "meaning": {
+          "base_language": "palanquin"
+        }
+      },
+      {
+        "id": 18,
+        "correct_answer": "சல்லாபம்",
+        "pronunciation": "sallaapam",
+        "meaning": {
+          "base_language": "conversation"
+        }
+      },
+      {
+        "id": 19,
+        "correct_answer": "கல்லாடு",
+        "pronunciation": "kallaadu",
+        "meaning": {
+          "base_language": "stone goat"
+        }
+      },
+      {
+        "id": 20,
+        "correct_answer": "நல்லிறவு",
+        "pronunciation": "nalliravu",
+        "meaning": {
+          "base_language": "good night"
+        }
+      },
+      {
+        "id": 21,
+        "correct_answer": "தல்லம்",
+        "pronunciation": "thallam",
+        "meaning": {
+          "base_language": "plate"
+        }
+      },
+      {
+        "id": 22,
+        "correct_answer": "இல்லாமை",
+        "pronunciation": "illaamai",
+        "meaning": {
+          "base_language": "absence"
+        }
+      },
+      {
+        "id": 23,
+        "correct_answer": "அல்லல்",
+        "pronunciation": "allal",
+        "meaning": {
+          "base_language": "trouble"
+        }
+      },
+      {
+        "id": 24,
+        "correct_answer": "கல்லால்",
+        "pronunciation": "kallaal",
+        "meaning": {
+          "base_language": "by stone"
+        }
+      },
+      {
+        "id": 25,
+        "correct_answer": "தல்லாட",
+        "pronunciation": "thallaada",
+        "meaning": {
+          "base_language": "to rock"
+        }
+      },
+      {
+        "id": 26,
+        "correct_answer": "நல்லவர்",
+        "pronunciation": "nallavar",
+        "meaning": {
+          "base_language": "good people"
+        }
+      },
+      {
+        "id": 27,
+        "correct_answer": "வல்லவன்",
+        "pronunciation": "vallavan",
+        "meaning": {
+          "base_language": "capable person"
+        }
+      },
+      {
+        "id": 28,
+        "correct_answer": "பல்லாயிரம்",
+        "pronunciation": "pallaayiram",
+        "meaning": {
+          "base_language": "thousands"
+        }
+      },
+      {
+        "id": 29,
+        "correct_answer": "சல்லாமல்",
+        "pronunciation": "sallaamal",
+        "meaning": {
+          "base_language": "without shaking"
+        }
+      },
+      {
+        "id": 30,
+        "correct_answer": "கல்லட்டம்",
+        "pronunciation": "kallattam",
+        "meaning": {
+          "base_language": "stone dance"
+        }
+      },
+      {
+        "id": 31,
+        "correct_answer": "நல்லிடம்",
+        "pronunciation": "nallidam",
+        "meaning": {
+          "base_language": "good place"
+        }
+      },
+      {
+        "id": 32,
+        "correct_answer": "தல்லி",
+        "pronunciation": "thalli",
+        "meaning": {
+          "base_language": "mother"
+        }
+      },
+      {
+        "id": 33,
+        "correct_answer": "இல்லறம்",
+        "pronunciation": "illaram",
+        "meaning": {
+          "base_language": "family life"
+        }
+      },
+      {
+        "id": 34,
+        "correct_answer": "அல்லல்படு",
+        "pronunciation": "allalpadu",
+        "meaning": {
+          "base_language": "suffer"
+        }
+      },
+      {
+        "id": 35,
+        "correct_answer": "கல்லீரல்",
+        "pronunciation": "kalleeral",
+        "meaning": {
+          "base_language": "liver"
+        }
+      },
+      {
+        "id": 36,
+        "correct_answer": "தல்லையம்",
+        "pronunciation": "thallaiyam",
+        "meaning": {
+          "base_language": "headache"
+        }
+      },
+      {
+        "id": 37,
+        "correct_answer": "நல்லொழுக்கம்",
+        "pronunciation": "nallozhuk­kam",
+        "meaning": {
+          "base_language": "good conduct"
+        }
+      },
+      {
+        "id": 38,
+        "correct_answer": "வல்லபம்",
+        "pronunciation": "vallabam",
+        "meaning": {
+          "base_language": "beloved"
+        }
+      },
+      {
+        "id": 39,
+        "correct_answer": "பல்லாண்டு",
+        "pronunciation": "pallaandu",
+        "meaning": {
+          "base_language": "many years"
+        }
+      },
+      {
+        "id": 40,
+        "correct_answer": "ஜல்லிக்கட்டு",
+        "pronunciation": "jallikkattu",
+        "meaning": {
+          "base_language": "bull taming"
+        }
+      },
+      {
+        "id": 41,
+        "correct_answer": "கல்லூரி",
+        "pronunciation": "kalloori",
+        "meaning": {
+          "base_language": "college"
+        }
+      },
+      {
+        "id": 42,
+        "correct_answer": "நல்லமுடி",
+        "pronunciation": "nallamudi",
+        "meaning": {
+          "base_language": "good hair"
+        }
+      },
+      {
+        "id": 43,
+        "correct_answer": "தல்லடி",
+        "pronunciation": "thalladi",
+        "meaning": {
+          "base_language": "beating"
+        }
+      },
+      {
+        "id": 44,
+        "correct_answer": "இல்லாதவன்",
+        "pronunciation": "illaathavan",
+        "meaning": {
+          "base_language": "one who doesn't have"
+        }
+      },
+      {
+        "id": 45,
+        "correct_answer": "அல்லங்காமல்",
+        "pronunciation": "allangaamal",
+        "meaning": {
+          "base_language": "without swaying"
+        }
+      },
+      {
+        "id": 46,
+        "correct_answer": "கல்லணை",
+        "pronunciation": "kallanai",
+        "meaning": {
+          "base_language": "stone dam"
+        }
+      },
+      {
+        "id": 47,
+        "correct_answer": "தல்லம்பு",
+        "pronunciation": "thallambu",
+        "meaning": {
+          "base_language": "plate and cup"
+        }
+      },
+      {
+        "id": 48,
+        "correct_answer": "நல்லாசிரியர்",
+        "pronunciation": "nallaasiriyar",
+        "meaning": {
+          "base_language": "good teacher"
+        }
+      },
+      {
+        "id": 49,
+        "correct_answer": "வல்லமை",
+        "pronunciation": "vallamai",
+        "meaning": {
+          "base_language": "ability"
+        }
+      },
+      {
+        "id": 50,
+        "correct_answer": "பல்லவி",
+        "pronunciation": "pallavi",
+        "meaning": {
+          "base_language": "refrain in song"
+        }
+      }
+    ]
+  }
+]

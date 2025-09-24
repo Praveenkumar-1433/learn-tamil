@@ -1,0 +1,411 @@
+[
+  {
+  
+    "title": "Tamil Pure Consonant ர் (r)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "அர்த்தம்",
+        "pronunciation": "arththam",
+        "meaning": {
+          "base_language": "meaning"
+        }
+      },
+      {
+        "id": 2,
+        "correct_answer": "கர்ப்பம்",
+        "pronunciation": "karppam",
+        "meaning": {
+          "base_language": "pregnancy"
+        }
+      },
+      {
+        "id": 3,
+        "correct_answer": "தர்மம்",
+        "pronunciation": "tharmam",
+        "meaning": {
+          "base_language": "righteousness"
+        }
+      },
+      {
+        "id": 4,
+        "correct_answer": "நர்ம்மம்",
+        "pronunciation": "narmmam",
+        "meaning": {
+          "base_language": "humor"
+        }
+      },
+      {
+        "id": 5,
+        "correct_answer": "வர்ணம்",
+        "pronunciation": "varnam",
+        "meaning": {
+          "base_language": "color"
+        }
+      },
+      {
+        "id": 6,
+        "correct_answer": "பர்வதம்",
+        "pronunciation": "parvatham",
+        "meaning": {
+          "base_language": "mountain"
+        }
+      },
+      {
+        "id": 7,
+        "correct_answer": "சர்க்கரை",
+        "pronunciation": "sarkkarai",
+        "meaning": {
+          "base_language": "sugar"
+        }
+      },
+      {
+        "id": 8,
+        "correct_answer": "கர்ம்மம்",
+        "pronunciation": "karmmam",
+        "meaning": {
+          "base_language": "deed"
+        }
+      },
+      {
+        "id": 9,
+        "correct_answer": "நர்த்தனம்",
+        "pronunciation": "narththanam",
+        "meaning": {
+          "base_language": "dance"
+        }
+      },
+      {
+        "id": 10,
+        "correct_answer": "தர்ப்பணம்",
+        "pronunciation": "tharpppanam",
+        "meaning": {
+          "base_language": "ritual offering"
+        }
+      },
+      {
+        "id": 11,
+        "correct_answer": "இர்க்கல்",
+        "pronunciation": "irkkal",
+        "meaning": {
+          "base_language": "irritation"
+        }
+      },
+      {
+        "id": 12,
+        "correct_answer": "அர்ப்பணம்",
+        "pronunciation": "arppanam",
+        "meaning": {
+          "base_language": "dedication"
+        }
+      },
+      {
+        "id": 13,
+        "correct_answer": "கர்ப்பூரம்",
+        "pronunciation": "karppooram",
+        "meaning": {
+          "base_language": "camphor"
+        }
+      },
+      {
+        "id": 14,
+        "correct_answer": "தர்க்கம்",
+        "pronunciation": "tharkkam",
+        "meaning": {
+          "base_language": "logic"
+        }
+      },
+      {
+        "id": 15,
+        "correct_answer": "நர்குணம்",
+        "pronunciation": "nargunam",
+        "meaning": {
+          "base_language": "good quality"
+        }
+      },
+      {
+        "id": 16,
+        "correct_answer": "வர்க்கம்",
+        "pronunciation": "varkkam",
+        "meaning": {
+          "base_language": "class"
+        }
+      },
+      {
+        "id": 17,
+        "correct_answer": "பர்ட்டி",
+        "pronunciation": "parti",
+        "meaning": {
+          "base_language": "party"
+        }
+      },
+      {
+        "id": 18,
+        "correct_answer": "சர்வம்",
+        "pronunciation": "sarvam",
+        "meaning": {
+          "base_language": "all"
+        }
+      },
+      {
+        "id": 19,
+        "correct_answer": "கர்த்தா",
+        "pronunciation": "karththaa",
+        "meaning": {
+          "base_language": "doer"
+        }
+      },
+      {
+        "id": 20,
+        "correct_answer": "நர்மதா",
+        "pronunciation": "narmathaa",
+        "meaning": {
+          "base_language": "river name"
+        }
+      },
+      {
+        "id": 21,
+        "correct_answer": "தர்சனம்",
+        "pronunciation": "tharsanam",
+        "meaning": {
+          "base_language": "vision"
+        }
+      },
+      {
+        "id": 22,
+        "correct_answer": "இர்ப்பு",
+        "pronunciation": "erppu",
+        "meaning": {
+          "base_language": "jealousy"
+        }
+      },
+      {
+        "id": 23,
+        "correct_answer": "அர்ச்சனை",
+        "pronunciation": "archanai",
+        "meaning": {
+          "base_language": "worship"
+        }
+      },
+      {
+        "id": 24,
+        "correct_answer": "கர்க்கடகம்",
+        "pronunciation": "karkkadagam",
+        "meaning": {
+          "base_language": "cancer zodiac"
+        }
+      },
+      {
+        "id": 25,
+        "correct_answer": "தர்ப்பை",
+        "pronunciation": "tharppai",
+        "meaning": {
+          "base_language": "sacred grass"
+        }
+      },
+      {
+        "id": 26,
+        "correct_answer": "நர்த்தகர்",
+        "pronunciation": "narththagar",
+        "meaning": {
+          "base_language": "dancer"
+        }
+      },
+      {
+        "id": 27,
+        "correct_answer": "வர்த்தமானம்",
+        "pronunciation": "varththamaanam",
+        "meaning": {
+          "base_language": "news"
+        }
+      },
+      {
+        "id": 28,
+        "correct_answer": "பர்யாபதம்",
+        "pronunciation": "paryaapatham",
+        "meaning": {
+          "base_language": "sufficiency"
+        }
+      },
+      {
+        "id": 29,
+        "correct_answer": "சர்க்கஸ்",
+        "pronunciation": "sarkkas",
+        "meaning": {
+          "base_language": "circus"
+        }
+      },
+      {
+        "id": 30,
+        "correct_answer": "கர்ப்பூரத்தி",
+        "pronunciation": "karppoorathi",
+        "meaning": {
+          "base_language": "camphor lamp"
+        }
+      },
+      {
+        "id": 31,
+        "correct_answer": "நர்பலி",
+        "pronunciation": "narbali",
+        "meaning": {
+          "base_language": "human sacrifice"
+        }
+      },
+      {
+        "id": 32,
+        "correct_answer": "தர்ப்பணீயம்",
+        "pronunciation": "tharppanieeyam",
+        "meaning": {
+          "base_language": "offering worthy"
+        }
+      },
+      {
+        "id": 33,
+        "correct_answer": "இர்க்கம்",
+        "pronunciation": "erkkam",
+        "meaning": {
+          "base_language": "compassion"
+        }
+      },
+      {
+        "id": 34,
+        "correct_answer": "அர்ப்பிப்பு",
+        "pronunciation": "arpippu",
+        "meaning": {
+          "base_language": "offering"
+        }
+      },
+      {
+        "id": 35,
+        "correct_answer": "கர்ம்மயோகம்",
+        "pronunciation": "karmmayogam",
+        "meaning": {
+          "base_language": "action yoga"
+        }
+      },
+      {
+        "id": 36,
+        "correct_answer": "தர்க்கவாதம்",
+        "pronunciation": "tharkkavaatham",
+        "meaning": {
+          "base_language": "argument"
+        }
+      },
+      {
+        "id": 37,
+        "correct_answer": "நர்த்தகி",
+        "pronunciation": "narththagi",
+        "meaning": {
+          "base_language": "female dancer"
+        }
+      },
+      {
+        "id": 38,
+        "correct_answer": "வர்த்தகம்",
+        "pronunciation": "varththagam",
+        "meaning": {
+          "base_language": "trade"
+        }
+      },
+      {
+        "id": 39,
+        "correct_answer": "பர்ணசாலை",
+        "pronunciation": "parnasaalai",
+        "meaning": {
+          "base_language": "leaf hut"
+        }
+      },
+      {
+        "id": 40,
+        "correct_answer": "சர்வாதிகாரி",
+        "pronunciation": "sarvaadhikaari",
+        "meaning": {
+          "base_language": "dictator"
+        }
+      },
+      {
+        "id": 41,
+        "correct_answer": "கர்ம்மபூமி",
+        "pronunciation": "karmmabhoomi",
+        "meaning": {
+          "base_language": "workplace"
+        }
+      },
+      {
+        "id": 42,
+        "correct_answer": "நர்த்தனசாலை",
+        "pronunciation": "narththanasaalai",
+        "meaning": {
+          "base_language": "dance hall"
+        }
+      },
+      {
+        "id": 43,
+        "correct_answer": "தர்க்கரீதி",
+        "pronunciation": "tharkkareethi",
+        "meaning": {
+          "base_language": "logical method"
+        }
+      },
+      {
+        "id": 44,
+        "correct_answer": "இர்க்கடம்",
+        "pronunciation": "erkkadam",
+        "meaning": {
+          "base_language": "difficulty"
+        }
+      },
+      {
+        "id": 45,
+        "correct_answer": "அர்த்தசாஸ்திரம்",
+        "pronunciation": "arththasaasthiram",
+        "meaning": {
+          "base_language": "economics"
+        }
+      },
+      {
+        "id": 46,
+        "correct_answer": "கர்ப்பகிருஹம்",
+        "pronunciation": "karppagruham",
+        "meaning": {
+          "base_language": "sanctum"
+        }
+      },
+      {
+        "id": 47,
+        "correct_answer": "தர்மமூர்த்தி",
+        "pronunciation": "tharmamoorthi",
+        "meaning": {
+          "base_language": "embodiment of dharma"
+        }
+      },
+      {
+        "id": 48,
+        "correct_answer": "நர்மதீதம்",
+        "pronunciation": "narmadheetham",
+        "meaning": {
+          "base_language": "beyond humor"
+        }
+      },
+      {
+        "id": 49,
+        "correct_answer": "வர்த்தமானகாலம்",
+        "pronunciation": "varththamaamakaalam",
+        "meaning": {
+          "base_language": "present time"
+        }
+      },
+      {
+        "id": 50,
+        "correct_answer": "பர்வதராஜ்",
+        "pronunciation": "parvathaaraaj",
+        "meaning": {
+          "base_language": "king of mountains"
+        }
+      }
+    ]
+  }
+]

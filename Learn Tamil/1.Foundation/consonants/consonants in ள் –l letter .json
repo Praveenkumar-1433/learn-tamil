@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Tamil Pure Consonant ள் (l)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "கள்",
+        "pronunciation": "kal",
+        "meaning": {
+          "base_language": "intoxicating drink"
+        }
+      },
+      {
+        "id": 2,
+        "correct_answer": "வள்",
+        "pronunciation": "val",
+        "meaning": {
+          "base_language": "fertile/rich"
+        }
+      },
+      {
+        "id": 3,
+        "correct_answer": "தள்",
+        "pronunciation": "thal",
+        "meaning": {
+          "base_language": "to push"
+        }
+      },
+      {
+        "id": 4,
+        "correct_answer": "நள்",
+        "pronunciation": "nal",
+        "meaning": {
+          "base_language": "midnight"
+        }
+      },
+      {
+        "id": 5,
+        "correct_answer": "பள்",
+        "pronunciation": "pal",
+        "meaning": {
+          "base_language": "pit/hollow"
+        }
+      },
+      {
+        "id": 6,
+        "correct_answer": "மள்",
+        "pronunciation": "mal",
+        "meaning": {
+          "base_language": "to be confused"
+        }
+      },
+      {
+        "id": 7,
+        "correct_answer": "கள்ளம்",
+        "pronunciation": "kallam",
+        "meaning": {
+          "base_language": "deceit"
+        }
+      },
+      {
+        "id": 8,
+        "correct_answer": "வள்ளல்",
+        "pronunciation": "vallal",
+        "meaning": {
+          "base_language": "generous person"
+        }
+      },
+      {
+        "id": 9,
+        "correct_answer": "தள்ளு",
+        "pronunciation": "thallu",
+        "meaning": {
+          "base_language": "push"
+        }
+      },
+      {
+        "id": 10,
+        "correct_answer": "நள்ளிரவு",
+        "pronunciation": "nalliravu",
+        "meaning": {
+          "base_language": "midnight"
+        }
+      },
+      {
+        "id": 11,
+        "correct_answer": "பள்ளி",
+        "pronunciation": "palli",
+        "meaning": {
+          "base_language": "school"
+        }
+      },
+      {
+        "id": 12,
+        "correct_answer": "மள்ளர்",
+        "pronunciation": "mallar",
+        "meaning": {
+          "base_language": "agricultural community"
+        }
+      },
+      {
+        "id": 13,
+        "correct_answer": "கள்ளர்",
+        "pronunciation": "kallar",
+        "meaning": {
+          "base_language": "thieves"
+        }
+      },
+      {
+        "id": 14,
+        "correct_answer": "வள்ளுவர்",
+        "pronunciation": "valluvar",
+        "meaning": {
+          "base_language": "Thiruvalluvar (poet)"
+        }
+      },
+      {
+        "id": 15,
+        "correct_answer": "தள்ளாடு",
+        "pronunciation": "thallāḍu",
+        "meaning": {
+          "base_language": "to stagger"
+        }
+      },
+      {
+        "id": 16,
+        "correct_answer": "நள்ளென்று",
+        "pronunciation": "nallenṟu",
+        "meaning": {
+          "base_language": "suddenly/at once"
+        }
+      },
+      {
+        "id": 17,
+        "correct_answer": "பள்ளத்து",
+        "pronunciation": "pallattu",
+        "meaning": {
+          "base_language": "valley/depression"
+        }
+      },
+      {
+        "id": 18,
+        "correct_answer": "கள்ளிச்செடி",
+        "pronunciation": "kalliccheḍi",
+        "meaning": {
+          "base_language": "cactus plant"
+        }
+      },
+      {
+        "id": 19,
+        "correct_answer": "வள்ளிக்கிழங்கு",
+        "pronunciation": "vallikkiḻaṅku",
+        "meaning": {
+          "base_language": "sweet potato"
+        }
+      },
+      {
+        "id": 20,
+        "correct_answer": "தள்ளுவண்டி",
+        "pronunciation": "thalluvaṇḍi",
+        "meaning": {
+          "base_language": "pushcart"
+        }
+      },
+      {
+        "id": 21,
+        "correct_answer": "கள்ளக்காதல்",
+        "pronunciation": "kallakkādal",
+        "meaning": {
+          "base_language": "illicit love"
+        }
+      },
+      {
+        "id": 22,
+        "correct_answer": "வள்ளிமலை",
+        "pronunciation": "vallimalai",
+        "meaning": {
+          "base_language": "creeper mountain"
+        }
+      },
+      {
+        "id": 23,
+        "correct_answer": "தள்ளிப்போடு",
+        "pronunciation": "thallippōḍu",
+        "meaning": {
+          "base_language": "postpone"
+        }
+      },
+      {
+        "id": 24,
+        "correct_answer": "நள்ளதண்ணீர்",
+        "pronunciation": "nallathaṇṇīr",
+        "meaning": {
+          "base_language": "clear water"
+        }
+      },
+      {
+        "id": 25,
+        "correct_answer": "பள்ளிக்கூடம்",
+        "pronunciation": "pallikkūḍam",
+        "meaning": {
+          "base_language": "school building"
+        }
+      },
+      {
+        "id": 26,
+        "correct_answer": "மள்ளிகைப்பூ",
+        "pronunciation": "mallikaippū",
+        "meaning": {
+          "base_language": "jasmine flower"
+        }
+      },
+      {
+        "id": 27,
+        "correct_answer": "கள்ளத்தனம்",
+        "pronunciation": "kallatthanam",
+        "meaning": {
+          "base_language": "treachery"
+        }
+      },
+      {
+        "id": 28,
+        "correct_answer": "வள்ளல்தனம்",
+        "pronunciation": "vallalthanam",
+        "meaning": {
+          "base_language": "generosity"
+        }
+      },
+      {
+        "id": 29,
+        "correct_answer": "தள்ளலாட்டம்",
+        "pronunciation": "thallalāṭṭam",
+        "meaning": {
+          "base_language": "swaying dance"
+        }
+      },
+      {
+        "id": 30,
+        "correct_answer": "நள்ளிரவில்",
+        "pronunciation": "nalliravil",
+        "meaning": {
+          "base_language": "at midnight"
+        }
+      },
+      {
+        "id": 31,
+        "correct_answer": "பள்ளத்தாக்கு",
+        "pronunciation": "pallattākku",
+        "meaning": {
+          "base_language": "gorge/ravine"
+        }
+      },
+      {
+        "id": 32,
+        "correct_answer": "மள்ளு",
+        "pronunciation": "mallu",
+        "meaning": {
+          "base_language": "to wrestle"
+        }
+      },
+      {
+        "id": 33,
+        "correct_answer": "கள்ளுக்கடை",
+        "pronunciation": "kallukkaḍai",
+        "meaning": {
+          "base_language": "liquor shop"
+        }
+      },
+      {
+        "id": 34,
+        "correct_answer": "வள்ளைமீன்",
+        "pronunciation": "vallaimīn",
+        "meaning": {
+          "base_language": "catfish"
+        }
+      },
+      {
+        "id": 35,
+        "correct_answer": "தள்ளுபடி",
+        "pronunciation": "thallupaḍi",
+        "meaning": {
+          "base_language": "discount"
+        }
+      },
+      {
+        "id": 36,
+        "correct_answer": "நள்ளடி",
+        "pronunciation": "nallaḍi",
+        "meaning": {
+          "base_language": "midnight hour"
+        }
+      },
+      {
+        "id": 37,
+        "correct_answer": "பள்ளிப்பாட்டு",
+        "pronunciation": "pallippāṭṭu",
+        "meaning": {
+          "base_language": "school song"
+        }
+      },
+      {
+        "id": 38,
+        "correct_answer": "மள்ளன்",
+        "pronunciation": "mallan",
+        "meaning": {
+          "base_language": "farmer/cultivator"
+        }
+      },
+      {
+        "id": 39,
+        "correct_answer": "கள்ளச்சாராயம்",
+        "pronunciation": "kallaccārāyam",
+        "meaning": {
+          "base_language": "illicit liquor"
+        }
+      },
+      {
+        "id": 40,
+        "correct_answer": "வள்ளிதாமரை",
+        "pronunciation": "vallithāmarai",
+        "meaning": {
+          "base_language": "creeper lotus"
+        }
+      },
+      {
+        "id": 41,
+        "correct_answer": "தள்ளாமல்",
+        "pronunciation": "thallāmal",
+        "meaning": {
+          "base_language": "without pushing"
+        }
+      },
+      {
+        "id": 42,
+        "correct_answer": "நள்ளி",
+        "pronunciation": "nalli",
+        "meaning": {
+          "base_language": "crab"
+        }
+      },
+      {
+        "id": 43,
+        "correct_answer": "பள்ளம்",
+        "pronunciation": "pallam",
+        "meaning": {
+          "base_language": "pit/depression"
+        }
+      },
+      {
+        "id": 44,
+        "correct_answer": "மள்ளம்",
+        "pronunciation": "mallam",
+        "meaning": {
+          "base_language": "confusion"
+        }
+      },
+      {
+        "id": 45,
+        "correct_answer": "கள்ளிப்பால்",
+        "pronunciation": "kallippāl",
+        "meaning": {
+          "base_language": "cactus milk"
+        }
+      },
+      {
+        "id": 46,
+        "correct_answer": "வள்ளிவாசல்",
+        "pronunciation": "vallivāsal",
+        "meaning": {
+          "base_language": "creeper entrance"
+        }
+      },
+      {
+        "id": 47,
+        "correct_answer": "தள்ளித்தள்ளி",
+        "pronunciation": "thallitthalli",
+        "meaning": {
+          "base_language": "repeatedly postponing"
+        }
+      },
+      {
+        "id": 48,
+        "correct_answer": "நள்ளென",
+        "pronunciation": "nallena",
+        "meaning": {
+          "base_language": "suddenly/clearly"
+        }
+      },
+      {
+        "id": 49,
+        "correct_answer": "பள்ளிமாணவன்",
+        "pronunciation": "pallimanavan",
+        "meaning": {
+          "base_language": "school student"
+        }
+      }
+    ]
+  }
+]

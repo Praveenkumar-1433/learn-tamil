@@ -1,0 +1,311 @@
+[
+  {
+   
+    "title": "Tamil Vowel Letter ஐ (ai)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "ஐயம்",
+        "pronunciation": "aiyam",
+        "meaning": { "base_language": "doubt" }
+      },
+      {
+        "id": 2,
+        "correct_answer": "ஐந்து",
+        "pronunciation": "ainthu",
+        "meaning": { "base_language": "five" }
+      },
+      {
+        "id": 3,
+        "correct_answer": "ஐயா",
+        "pronunciation": "aiyaa",
+        "meaning": { "base_language": "sir" }
+      },
+      {
+        "id": 4,
+        "correct_answer": "ஐயர்",
+        "pronunciation": "aiyar",
+        "meaning": { "base_language": "priest" }
+      },
+      {
+        "id": 5,
+        "correct_answer": "ஐக்கியம்",
+        "pronunciation": "aikiyam",
+        "meaning": { "base_language": "unity" }
+      },
+      {
+        "id": 6,
+        "correct_answer": "ஐயப்பன்",
+        "pronunciation": "aiyappan",
+        "meaning": { "base_language": "Lord Ayyappa" }
+      },
+      {
+        "id": 7,
+        "correct_answer": "ஐயம் குரல்",
+        "pronunciation": "aiyam kural",
+        "meaning": { "base_language": "doubtful voice" }
+      },
+      {
+        "id": 8,
+        "correct_answer": "ஐம்பது",
+        "pronunciation": "aimpathu",
+        "meaning": { "base_language": "fifty" }
+      },
+      {
+        "id": 9,
+        "correct_answer": "ஐம்புலன்",
+        "pronunciation": "aimbulan",
+        "meaning": { "base_language": "five senses" }
+      },
+      {
+        "id": 10,
+        "correct_answer": "ஐம்பெரும் புலவர்கள்",
+        "pronunciation": "aimperum pulavargal",
+        "meaning": { "base_language": "five great poets" }
+      },
+      {
+        "id": 11,
+        "correct_answer": "ஐம்பெரும் பாண்டவர்கள்",
+        "pronunciation": "aimperum paandavargal",
+        "meaning": { "base_language": "five Pandavas" }
+      },
+      {
+        "id": 12,
+        "correct_answer": "ஐயமில்லை",
+        "pronunciation": "aiyamillai",
+        "meaning": { "base_language": "no doubt" }
+      },
+      {
+        "id": 13,
+        "correct_answer": "ஐயர்வாடு",
+        "pronunciation": "aiyarvaadu",
+        "meaning": { "base_language": "sacred place" }
+      },
+      {
+        "id": 14,
+        "correct_answer": "ஐந்திணை",
+        "pronunciation": "ainthinai",
+        "meaning": { "base_language": "five landscapes" }
+      },
+      {
+        "id": 15,
+        "correct_answer": "ஐந்து விரல்",
+        "pronunciation": "ainthu viral",
+        "meaning": { "base_language": "five fingers" }
+      },
+      {
+        "id": 16,
+        "correct_answer": "ஐந்தாம்",
+        "pronunciation": "ainthaam",
+        "meaning": { "base_language": "fifth" }
+      },
+      {
+        "id": 17,
+        "correct_answer": "ஐம்பெரும் காவியங்கள்",
+        "pronunciation": "aimperum kaaviyangal",
+        "meaning": { "base_language": "five great epics" }
+      },
+      {
+        "id": 18,
+        "correct_answer": "ஐம்பெரும் நட்சத்திரம்",
+        "pronunciation": "aimperum natchathiram",
+        "meaning": { "base_language": "five great stars" }
+      },
+      {
+        "id": 19,
+        "correct_answer": "ஐம்பது ஆண்டு",
+        "pronunciation": "aimpathu aandu",
+        "meaning": { "base_language": "fifty years" }
+      },
+      {
+        "id": 20,
+        "correct_answer": "ஐம்பெரும் கல்வி",
+        "pronunciation": "aimperum kalvi",
+        "meaning": { "base_language": "five branches of learning" }
+      },
+      {
+        "id": 21,
+        "correct_answer": "ஐக்கிய நாடுகள்",
+        "pronunciation": "aikkiya naadugal",
+        "meaning": { "base_language": "United Nations" }
+      },
+      {
+        "id": 22,
+        "correct_answer": "ஐம்பெரும் நிலம்",
+        "pronunciation": "aimperum nilam",
+        "meaning": { "base_language": "five types of land" }
+      },
+      {
+        "id": 23,
+        "correct_answer": "ஐயப்பன் கோவில்",
+        "pronunciation": "aiyappan kovil",
+        "meaning": { "base_language": "Ayyappa temple" }
+      },
+      {
+        "id": 24,
+        "correct_answer": "ஐந்து நிறம்",
+        "pronunciation": "ainthu niram",
+        "meaning": { "base_language": "five colors" }
+      },
+      {
+        "id": 25,
+        "correct_answer": "ஐம்பெரும் பாசம்",
+        "pronunciation": "aimperum paasam",
+        "meaning": { "base_language": "five great bonds" }
+      },
+      {
+        "id": 26,
+        "correct_answer": "ஐம்பெரும் வேதங்கள்",
+        "pronunciation": "aimperum vedhangal",
+        "meaning": { "base_language": "five Vedas" }
+      },
+      {
+        "id": 27,
+        "correct_answer": "ஐம்பெரும் பாடல்",
+        "pronunciation": "aimperum paadal",
+        "meaning": { "base_language": "five great songs" }
+      },
+      {
+        "id": 28,
+        "correct_answer": "ஐம்பெரும் கதை",
+        "pronunciation": "aimperum kathai",
+        "meaning": { "base_language": "five great stories" }
+      },
+      {
+        "id": 29,
+        "correct_answer": "ஐந்து வயது",
+        "pronunciation": "ainthu vayathu",
+        "meaning": { "base_language": "five years old" }
+      },
+      {
+        "id": 30,
+        "correct_answer": "ஐந்து நாள்",
+        "pronunciation": "ainthu naal",
+        "meaning": { "base_language": "five days" }
+      },
+      {
+        "id": 31,
+        "correct_answer": "ஐம்பெரும் மக்கள்",
+        "pronunciation": "aimperum makkal",
+        "meaning": { "base_language": "five groups of people" }
+      },
+      {
+        "id": 32,
+        "correct_answer": "ஐந்து கண்ணீர்",
+        "pronunciation": "ainthu kanneer",
+        "meaning": { "base_language": "five drops of tears" }
+      },
+      {
+        "id": 33,
+        "correct_answer": "ஐம்பெரும் சான்றோர்",
+        "pronunciation": "aimperum saanror",
+        "meaning": { "base_language": "five great sages" }
+      },
+      {
+        "id": 34,
+        "correct_answer": "ஐம்பெரும் பழம்",
+        "pronunciation": "aimperum pazham",
+        "meaning": { "base_language": "five fruits" }
+      },
+      {
+        "id": 35,
+        "correct_answer": "ஐம்பெரும் விலங்கு",
+        "pronunciation": "aimperum vilangu",
+        "meaning": { "base_language": "five animals" }
+      },
+      {
+        "id": 36,
+        "correct_answer": "ஐந்து பேர்",
+        "pronunciation": "ainthu per",
+        "meaning": { "base_language": "five people" }
+      },
+      {
+        "id": 37,
+        "correct_answer": "ஐந்து கிராமம்",
+        "pronunciation": "ainthu graamam",
+        "meaning": { "base_language": "five villages" }
+      },
+      {
+        "id": 38,
+        "correct_answer": "ஐம்பெரும் கடல்",
+        "pronunciation": "aimperum kadal",
+        "meaning": { "base_language": "five oceans" }
+      },
+      {
+        "id": 39,
+        "correct_answer": "ஐம்பெரும் தீபம்",
+        "pronunciation": "aimperum theepam",
+        "meaning": { "base_language": "five great lamps" }
+      },
+      {
+        "id": 40,
+        "correct_answer": "ஐம்பெரும் யோகம்",
+        "pronunciation": "aimperum yogam",
+        "meaning": { "base_language": "five yogas" }
+      },
+      {
+        "id": 41,
+        "correct_answer": "ஐம்பெரும் அறிவு",
+        "pronunciation": "aimperum arivu",
+        "meaning": { "base_language": "five types of knowledge" }
+      },
+      {
+        "id": 42,
+        "correct_answer": "ஐம்பெரும் உணவு",
+        "pronunciation": "aimperum unavu",
+        "meaning": { "base_language": "five foods" }
+      },
+      {
+        "id": 43,
+        "correct_answer": "ஐம்பெரும் கலை",
+        "pronunciation": "aimperum kalai",
+        "meaning": { "base_language": "five arts" }
+      },
+      {
+        "id": 44,
+        "correct_answer": "ஐம்பெரும் மருந்து",
+        "pronunciation": "aimperum marundhu",
+        "meaning": { "base_language": "five medicines" }
+      },
+      {
+        "id": 45,
+        "correct_answer": "ஐம்பெரும் சட்டம்",
+        "pronunciation": "aimperum sattam",
+        "meaning": { "base_language": "five laws" }
+      },
+      {
+        "id": 46,
+        "correct_answer": "ஐம்பெரும் நதி",
+        "pronunciation": "aimperum nathi",
+        "meaning": { "base_language": "five rivers" }
+      },
+      {
+        "id": 47,
+        "correct_answer": "ஐம்பெரும் ஓசை",
+        "pronunciation": "aimperum osai",
+        "meaning": { "base_language": "five sounds" }
+      },
+      {
+        "id": 48,
+        "correct_answer": "ஐந்து பாடம்",
+        "pronunciation": "ainthu paadam",
+        "meaning": { "base_language": "five lessons" }
+      },
+      {
+        "id": 49,
+        "correct_answer": "ஐம்பெரும் விளக்கு",
+        "pronunciation": "aimperum vilakku",
+        "meaning": { "base_language": "five lamps" }
+      },
+      {
+        "id": 50,
+        "correct_answer": "ஐந்து ரூபாய்",
+        "pronunciation": "ainthu roobai",
+        "meaning": { "base_language": "five rupees" }
+      }
+    ]
+  }
+]

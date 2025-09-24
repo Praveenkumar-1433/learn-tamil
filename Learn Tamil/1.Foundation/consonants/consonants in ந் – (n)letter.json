@@ -1,0 +1,308 @@
+{
+  "title": "Tamil Pure Consonant ந் (n)",
+  "primary_language": "en-in-x-ena-local",
+  "secondary_language": "ta-in-x-tad-local",
+  "instruction": "Meaning",
+  "exercise": [
+    {
+      "id": 1,
+      "correct_answer": "அந்த",
+      "pronunciation": "antha",
+      "meaning": { "base_language": "that" }
+    },
+    {
+      "id": 2,
+      "correct_answer": "இந்த",
+      "pronunciation": "intha",
+      "meaning": { "base_language": "this" }
+    },
+    {
+      "id": 3,
+      "correct_answer": "வந்து",
+      "pronunciation": "vanthu",
+      "meaning": { "base_language": "came" }
+    },
+    {
+      "id": 4,
+      "correct_answer": "சந்தை",
+      "pronunciation": "santhai",
+      "meaning": { "base_language": "market" }
+    },
+    {
+      "id": 5,
+      "correct_answer": "கந்தல்",
+      "pronunciation": "kanthal",
+      "meaning": { "base_language": "torn cloth" }
+    },
+    {
+      "id": 6,
+      "correct_answer": "பந்து",
+      "pronunciation": "panthu",
+      "meaning": { "base_language": "ball" }
+    },
+    {
+      "id": 7,
+      "correct_answer": "மந்திர",
+      "pronunciation": "mantira",
+      "meaning": { "base_language": "mantra" }
+    },
+    {
+      "id": 8,
+      "correct_answer": "அந்தி",
+      "pronunciation": "anthi",
+      "meaning": { "base_language": "evening" }
+    },
+    {
+      "id": 9,
+      "correct_answer": "கந்தம்",
+      "pronunciation": "kantham",
+      "meaning": { "base_language": "smell/fragrance" }
+    },
+    {
+      "id": 10,
+      "correct_answer": "சந்தம்",
+      "pronunciation": "santham",
+      "meaning": { "base_language": "joy/happiness" }
+    },
+    {
+      "id": 11,
+      "correct_answer": "வந்தன",
+      "pronunciation": "vanthan",
+      "meaning": { "base_language": "worship/salutation" }
+    },
+    {
+      "id": 12,
+      "correct_answer": "பந்தம்",
+      "pronunciation": "pantham",
+      "meaning": { "base_language": "bond/relationship" }
+    },
+    {
+      "id": 13,
+      "correct_answer": "மந்தம்",
+      "pronunciation": "mantham",
+      "meaning": { "base_language": "slow/dull" }
+    },
+    {
+      "id": 14,
+      "correct_answer": "அந்தகன்",
+      "pronunciation": "anthakan",
+      "meaning": { "base_language": "blind person" }
+    },
+    {
+      "id": 15,
+      "correct_answer": "சந்தோஷம்",
+      "pronunciation": "santhoshm",
+      "meaning": { "base_language": "happiness" }
+    },
+    {
+      "id": 16,
+      "correct_answer": "கந்தகம்",
+      "pronunciation": "kanthakam",
+      "meaning": { "base_language": "sulfur" }
+    },
+    {
+      "id": 17,
+      "correct_answer": "வந்தி",
+      "pronunciation": "vanthi",
+      "meaning": { "base_language": "vomiting" }
+    },
+    {
+      "id": 18,
+      "correct_answer": "பந்தல்",
+      "pronunciation": "panthal",
+      "meaning": { "base_language": "pandal/tent" }
+    },
+    {
+      "id": 19,
+      "correct_answer": "மந்தை",
+      "pronunciation": "manthai",
+      "meaning": { "base_language": "herd/flock" }
+    },
+    {
+      "id": 20,
+      "correct_answer": "அந்தர",
+      "pronunciation": "anthra",
+      "meaning": { "base_language": "inner" }
+    },
+    {
+      "id": 21,
+      "correct_answer": "சந்து",
+      "pronunciation": "santhu",
+      "meaning": { "base_language": "narrow lane" }
+    },
+    {
+      "id": 22,
+      "correct_answer": "கந்தில்",
+      "pronunciation": "kanthil",
+      "meaning": { "base_language": "in smell" }
+    },
+    {
+      "id": 23,
+      "correct_answer": "வந்தல்",
+      "pronunciation": "vanthal",
+      "meaning": { "base_language": "if come" }
+    },
+    {
+      "id": 24,
+      "correct_answer": "பந்தி",
+      "pronunciation": "panthi",
+      "meaning": { "base_language": "line for eating" }
+    },
+    {
+      "id": 25,
+      "correct_answer": "மந்தகம்",
+      "pronunciation": "manthakam",
+      "meaning": { "base_language": "slow motion" }
+    },
+    {
+      "id": 26,
+      "correct_answer": "அந்தணம்",
+      "pronunciation": "anthanam",
+      "meaning": { "base_language": "brahmin" }
+    },
+    {
+      "id": 27,
+      "correct_answer": "சந்தனம்",
+      "pronunciation": "santhanam",
+      "meaning": { "base_language": "sandalwood" }
+    },
+    {
+      "id": 28,
+      "correct_answer": "கந்தர்வகள்",
+      "pronunciation": "kantharvakal",
+      "meaning": { "base_language": "celestial musician" }
+    },
+    {
+      "id": 29,
+      "correct_answer": "வந்தன",
+      "pronunciation": "vanthana",
+      "meaning": { "base_language": "coming" }
+    },
+    {
+      "id": 30,
+      "correct_answer": "பந்தயம்",
+      "pronunciation": "panthayam",
+      "meaning": { "base_language": "race/competition" }
+    },
+    {
+      "id": 31,
+      "correct_answer": "மந்தரம்",
+      "pronunciation": "mantharam",
+      "meaning": { "base_language": "slow/steady" }
+    },
+    {
+      "id": 32,
+      "correct_answer": "அந்தியில்",
+      "pronunciation": "anthiyil",
+      "meaning": { "base_language": "in the evening" }
+    },
+    {
+      "id": 33,
+      "correct_answer": "சந்ததி",
+      "pronunciation": "santhathi",
+      "meaning": { "base_language": "progeny" }
+    },
+    {
+      "id": 34,
+      "correct_answer": "கந்தர்விகள்",
+      "pronunciation": "kantharvikal",
+      "meaning": { "base_language": "celestial singer " }
+    },
+    {
+      "id": 35,
+      "correct_answer": "வந்திகள்",
+      "pronunciation": "vanthikal",
+      "meaning": { "base_language": "vomits" }
+    },
+    {
+      "id": 36,
+      "correct_answer": "பந்தல்கள்",
+      "pronunciation": "panthalkal",
+      "meaning": { "base_language": "pandals/tents" }
+    },
+    {
+      "id": 37,
+      "correct_answer": "மந்தநிலை",
+      "pronunciation": "manthanilai",
+      "meaning": { "base_language": "slow state" }
+    },
+    {
+      "id": 38,
+      "correct_answer": "அந்தரங்கம்",
+      "pronunciation": "antharangam",
+      "meaning": { "base_language": "private/intimate" }
+    },
+    {
+      "id": 39,
+      "correct_answer": "சந்தேகம்",
+      "pronunciation": "santhekam",
+      "meaning": { "base_language": "doubt" }
+    },
+    {
+      "id": 40,
+      "correct_answer": "கந்தர்வன்",
+      "pronunciation": "kantharvan",
+      "meaning": { "base_language": "gandharva (male)" }
+    },
+    {
+      "id": 41,
+      "correct_answer": "வந்தார்",
+      "pronunciation": "vanthar",
+      "meaning": { "base_language": "they came" }
+    },
+    {
+      "id": 42,
+      "correct_answer": "பந்துக்கள்",
+      "pronunciation": "panthukkal",
+      "meaning": { "base_language": "balls" }
+    },
+    {
+      "id": 43,
+      "correct_answer": "மந்திரி",
+      "pronunciation": "manthiri",
+      "meaning": { "base_language": "minister" }
+    },
+    {
+      "id": 44,
+      "correct_answer": "அந்தப்பு",
+      "pronunciation": "anthappu",
+      "meaning": { "base_language": "privacy/secrecy" }
+    },
+    {
+      "id": 45,
+      "correct_answer": "சந்தர்ப்பம்",
+      "pronunciation": "santharpam",
+      "meaning": { "base_language": "opportunity" }
+    },
+    {
+      "id": 46,
+      "correct_answer": "கந்தாரி",
+      "pronunciation": "kanthari",
+      "meaning": { "base_language": "chili type" }
+    },
+    {
+      "id": 47,
+      "correct_answer": "வந்தனம்",
+      "pronunciation": "vanthanam",
+      "meaning": { "base_language": "salutation/worship" }
+    },
+    {
+      "id": 48,
+      "correct_answer": "பந்தாட்டம்",
+      "pronunciation": "panthattam",
+      "meaning": { "base_language": "ball game" }
+    },
+    {
+      "id": 49,
+      "correct_answer": "மந்திரம்",
+      "pronunciation": "manthiram",
+      "meaning": { "base_language": "mantra/spell" }
+    },
+    {
+      "id": 50,
+      "correct_answer": "அந்தஸ்து",
+      "pronunciation": "anthastu",
+      "meaning": { "base_language": "status/position" }
+    }
+  ]
+}

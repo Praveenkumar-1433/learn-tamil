@@ -1,0 +1,303 @@
+{
+  "id": 1,
+  "title": "Tamil Letter ஜெ (je)",
+  "primary_language": "en-in-x-ena-local",
+  "secondary_language": "ta-in-x-tad-local",
+  "instruction": "Find the meaning of the word",
+  "exercise": [
+    {
+      "id": 1,
+      "correct_answer": "ஜெனரல்",
+      "pronunciation": "jenaral",
+      "meaning": { "base_language": "general" }
+    },
+    {
+      "id": 2,
+      "correct_answer": "ஜெனரேட்டர்",
+      "pronunciation": "jenareettar",
+      "meaning": { "base_language": "generator" }
+    },
+    {
+      "id": 3,
+      "correct_answer": "ஜெனரேஷன்",
+      "pronunciation": "jenareeshan",
+      "meaning": { "base_language": "generation" }
+    },
+    {
+      "id": 4,
+      "correct_answer": "ஜெனிவா",
+      "pronunciation": "jeneevaa",
+      "meaning": { "base_language": "Geneva" }
+    },
+    {
+      "id": 5,
+      "correct_answer": "ஜென்யூயின்",
+      "pronunciation": "jennyoo-in",
+      "meaning": { "base_language": "genuine" }
+    },
+    {
+      "id": 6,
+      "correct_answer": "ஜென்டில்மேன்",
+      "pronunciation": "jentilmen",
+      "meaning": { "base_language": "gentleman" }
+    },
+    {
+      "id": 7,
+      "correct_answer": "ஜென்டில்மேன்‌ஷிப்",
+      "pronunciation": "jentilmanship",
+      "meaning": { "base_language": "gentlemanship" }
+    },
+    {
+      "id": 8,
+      "correct_answer": "ஜெனரலிஸ்ட்",
+      "pronunciation": "jenaralist",
+      "meaning": { "base_language": "generalist" }
+    },
+    {
+      "id": 9,
+      "correct_answer": "ஜெனரலிசம்",
+      "pronunciation": "jenaralism",
+      "meaning": { "base_language": "generalism" }
+    },
+    {
+      "id": 10,
+      "correct_answer": "ஜெனரலைஸ்",
+      "pronunciation": "jenaralaiz",
+      "meaning": { "base_language": "generalize" }
+    },
+    {
+      "id": 11,
+      "correct_answer": "ஜெனரலைசேஷன்",
+      "pronunciation": "jenaralaiseeshan",
+      "meaning": { "base_language": "generalization" }
+    },
+    {
+      "id": 12,
+      "correct_answer": "ஜெனரேட்டிவ்",
+      "pronunciation": "jenareettiv",
+      "meaning": { "base_language": "generative" }
+    },
+    {
+      "id": 13,
+      "correct_answer": "ஜென்யூயிட்டி",
+      "pronunciation": "jennyooiti",
+      "meaning": { "base_language": "genuinity" }
+    },
+    {
+      "id": 14,
+      "correct_answer": "ஜென்யூயினிட்டி",
+      "pronunciation": "jennyoo-initty",
+      "meaning": { "base_language": "genuineness" }
+    },
+    {
+      "id": 15,
+      "correct_answer": "ஜென்டில்",
+      "pronunciation": "jentil",
+      "meaning": { "base_language": "gentle" }
+    },
+    {
+      "id": 16,
+      "correct_answer": "ஜென்டில்நஸ்",
+      "pronunciation": "jentilness",
+      "meaning": { "base_language": "gentleness" }
+    },
+    {
+      "id": 17,
+      "correct_answer": "ஜென்டில்மென்",
+      "pronunciation": "jentilmen",
+      "meaning": { "base_language": "gentlemen" }
+    },
+    {
+      "id": 18,
+      "correct_answer": "ஜெனெடிக்",
+      "pronunciation": "jenetik",
+      "meaning": { "base_language": "genetic" }
+    },
+    {
+      "id": 19,
+      "correct_answer": "ஜெனெடிக்ஸ்",
+      "pronunciation": "jenetiks",
+      "meaning": { "base_language": "genetics" }
+    },
+    {
+      "id": 20,
+      "correct_answer": "ஜெனோசைடு",
+      "pronunciation": "jenosaidu",
+      "meaning": { "base_language": "genocide" }
+    },
+    {
+      "id": 21,
+      "correct_answer": "ஜெனிசிஸ்",
+      "pronunciation": "jenisiss",
+      "meaning": { "base_language": "genesis" }
+    },
+    {
+      "id": 22,
+      "correct_answer": "ஜென்யூஃப்ளெக்ட்",
+      "pronunciation": "jennyoo-flekt",
+      "meaning": { "base_language": "genuflect" }
+    },
+    {
+      "id": 23,
+      "correct_answer": "ஜென்யூஃப்ளெக்ஷன்",
+      "pronunciation": "jennyoo-flektion",
+      "meaning": { "base_language": "genuflection" }
+    },
+    {
+      "id": 24,
+      "correct_answer": "ஜெனராலஜி",
+      "pronunciation": "jenaralogy",
+      "meaning": { "base_language": "genealogy" }
+    },
+    {
+      "id": 25,
+      "correct_answer": "ஜெனராலஜிஸ்ட்",
+      "pronunciation": "jenaralogist",
+      "meaning": { "base_language": "genealogist" }
+    },
+    {
+      "id": 26,
+      "correct_answer": "ஜெனராலாஜிக்கல்",
+      "pronunciation": "jenaralogical",
+      "meaning": { "base_language": "genealogical" }
+    },
+    {
+      "id": 27,
+      "correct_answer": "ஜெனரலீ",
+      "pronunciation": "jenareli",
+      "meaning": { "base_language": "generally" }
+    },
+    {
+      "id": 28,
+      "correct_answer": "ஜெனட்ரிக்",
+      "pronunciation": "jenatrik",
+      "meaning": { "base_language": "geriatric" }
+    },
+    {
+      "id": 29,
+      "correct_answer": "ஜெனட்ரிஷன்",
+      "pronunciation": "jenatrishan",
+      "meaning": { "base_language": "geriatrician" }
+    },
+    {
+      "id": 30,
+      "correct_answer": "ஜெனட்ரிக்ஸ்",
+      "pronunciation": "jenatriks",
+      "meaning": { "base_language": "geriatric care" }
+    },
+    {
+      "id": 31,
+      "correct_answer": "ஜெனோமி",
+      "pronunciation": "jenomi",
+      "meaning": { "base_language": "genome" }
+    },
+    {
+      "id": 32,
+      "correct_answer": "ஜெனோமிக்ஸ்",
+      "pronunciation": "jenomics",
+      "meaning": { "base_language": "genomics" }
+    },
+    {
+      "id": 33,
+      "correct_answer": "ஜெனரல்‌ஷிப்",
+      "pronunciation": "jenaralship",
+      "meaning": { "base_language": "generalship" }
+    },
+    {
+      "id": 34,
+      "correct_answer": "ஜெனோமிக்",
+      "pronunciation": "jenomic",
+      "meaning": { "base_language": "genomic" }
+    },
+    {
+      "id": 35,
+      "correct_answer": "ஜெனரேட்டிவ் ஏஐ",
+      "pronunciation": "jenareettiv ai",
+      "meaning": { "base_language": "generative AI" }
+    },
+    {
+      "id": 36,
+      "correct_answer": "ஜெனரல் ம்யூசிக்",
+      "pronunciation": "jenaral music",
+      "meaning": { "base_language": "general music" }
+    },
+    {
+      "id": 37,
+      "correct_answer": "ஜெனிவாவின் மாநாடு",
+      "pronunciation": "jeneevaavin maanadu",
+      "meaning": { "base_language": "Geneva conference" }
+    },
+    {
+      "id": 38,
+      "correct_answer": "ஜெனோசைடல்",
+      "pronunciation": "jenosaidal",
+      "meaning": { "base_language": "genocidal" }
+    },
+    {
+      "id": 39,
+      "correct_answer": "ஜெனராலஜிக்கல் சொசைட்டி",
+      "pronunciation": "jenaralogical society",
+      "meaning": { "base_language": "genealogical society" }
+    },
+    {
+      "id": 40,
+      "correct_answer": "ஜெனரேட்டர் சத்தம்",
+      "pronunciation": "jenareettar satham",
+      "meaning": { "base_language": "generator noise" }
+    },
+    {
+      "id": 41,
+      "correct_answer": "ஜென்டில்மேன் போல",
+      "pronunciation": "jentilmen pola",
+      "meaning": { "base_language": "like a gentleman" }
+    },
+    {
+      "id": 42,
+      "correct_answer": "ஜென்யூயின் ஆவணம்",
+      "pronunciation": "jennyoo-in aavanam",
+      "meaning": { "base_language": "genuine document" }
+    },
+    {
+      "id": 43,
+      "correct_answer": "ஜென்யூயின் ப்ரொடக்ட்",
+      "pronunciation": "jennyoo-in product",
+      "meaning": { "base_language": "genuine product" }
+    },
+    {
+      "id": 44,
+      "correct_answer": "ஜெனரல் அறிவிப்பு",
+      "pronunciation": "jenaral arivippu",
+      "meaning": { "base_language": "general notice" }
+    },
+    {
+      "id": 45,
+      "correct_answer": "ஜெனரேட்டர் பவர்",
+      "pronunciation": "jenareettar power",
+      "meaning": { "base_language": "generator power" }
+    },
+    {
+      "id": 46,
+      "correct_answer": "ஜெனரேட்டர் அறை",
+      "pronunciation": "jenareettar arai",
+      "meaning": { "base_language": "generator room" }
+    },
+    {
+      "id": 47,
+      "correct_answer": "ஜெனரல் கேள்வி",
+      "pronunciation": "jenaral kelvi",
+      "meaning": { "base_language": "general question" }
+    },
+    {
+      "id": 48,
+      "correct_answer": "ஜெனரல் புத்தகம்",
+      "pronunciation": "jenaral puthagam",
+      "meaning": { "base_language": "general book" }
+    },
+    {
+      "id": 49,
+      "correct_answer": "ஜெனரல் தமிழ்",
+      "pronunciation": "jenaral tamil",
+      "meaning": { "base_language": "general Tamil" }
+    }
+  ]
+}

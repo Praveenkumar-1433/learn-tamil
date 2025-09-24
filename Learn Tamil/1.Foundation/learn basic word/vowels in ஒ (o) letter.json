@@ -1,0 +1,411 @@
+[
+  {
+    
+    "title": "Tamil Vowel Letter ஒ (o)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "ஒளி",
+        "pronunciation": "oli",
+        "meaning": {
+          "base_language": "light"
+        }
+      },
+      {
+        "id": 2,
+        "correct_answer": "ஒலி",
+        "pronunciation": "oli",
+        "meaning": {
+          "base_language": "sound"
+        }
+      },
+      {
+        "id": 3,
+        "correct_answer": "ஒப்புதல்",
+        "pronunciation": "oppudhal",
+        "meaning": {
+          "base_language": "agreement"
+        }
+      },
+      {
+        "id": 4,
+        "correct_answer": "ஒற்றுமை",
+        "pronunciation": "otrumai",
+        "meaning": {
+          "base_language": "togetherness"
+        }
+      },
+      {
+        "id": 5,
+        "correct_answer": "ஒன்றியம்",
+        "pronunciation": "onriyam",
+        "meaning": {
+          "base_language": "federation"
+        }
+      },
+      {
+        "id": 6,
+        "correct_answer": "ஒப்பீடு",
+        "pronunciation": "oppeedu",
+        "meaning": {
+          "base_language": "comparison"
+        }
+      },
+      {
+        "id": 7,
+        "correct_answer": "ஒளிர்",
+        "pronunciation": "olir",
+        "meaning": {
+          "base_language": "shine"
+        }
+      },
+      {
+        "id": 8,
+        "correct_answer": "ஒதுக்கல்",
+        "pronunciation": "othukkal",
+        "meaning": {
+          "base_language": "rejection"
+        }
+      },
+      {
+        "id": 9,
+        "correct_answer": "ஒழுக்கம்",
+        "pronunciation": "ozhukkam",
+        "meaning": {
+          "base_language": "discipline"
+        }
+      },
+      {
+        "id": 10,
+        "correct_answer": "ஒப்பந்தம்",
+        "pronunciation": "oppandham",
+        "meaning": {
+          "base_language": "contract"
+        }
+      },
+      {
+        "id": 11,
+        "correct_answer": "ஒற்றை",
+        "pronunciation": "otrai",
+        "meaning": {
+          "base_language": "single"
+        }
+      },
+      {
+        "id": 12,
+        "correct_answer": "ஒன்பது",
+        "pronunciation": "onbadhu",
+        "meaning": {
+          "base_language": "nine"
+        }
+      },
+      {
+        "id": 13,
+        "correct_answer": "ஒலி அலை",
+        "pronunciation": "oli alai",
+        "meaning": {
+          "base_language": "sound wave"
+        }
+      },
+      {
+        "id": 14,
+        "correct_answer": "ஒற்றை மனிதன்",
+        "pronunciation": "otrai manithan",
+        "meaning": {
+          "base_language": "lonely man"
+        }
+      },
+      {
+        "id": 15,
+        "correct_answer": "ஒன்றிணைவு",
+        "pronunciation": "onrinaivu",
+        "meaning": {
+          "base_language": "unity"
+        }
+      },
+      {
+        "id": 16,
+        "correct_answer": "ஒப்புகை",
+        "pronunciation": "oppugai",
+        "meaning": {
+          "base_language": "consent"
+        }
+      },
+      {
+        "id": 17,
+        "correct_answer": "ஒப்பனை",
+        "pronunciation": "oppanai",
+        "meaning": {
+          "base_language": "decoration"
+        }
+      },
+      {
+        "id": 18,
+        "correct_answer": "ஒளிரும் நிலா",
+        "pronunciation": "olirum nila",
+        "meaning": {
+          "base_language": "shining moon"
+        }
+      },
+      {
+        "id": 19,
+        "correct_answer": "ஒலி பதிவு",
+        "pronunciation": "oli padhivu",
+        "meaning": {
+          "base_language": "audio record"
+        }
+      },
+      {
+        "id": 20,
+        "correct_answer": "ஒப்பந்த கையெழுத்து",
+        "pronunciation": "oppandha kaiyezuthu",
+        "meaning": {
+          "base_language": "contract signing"
+        }
+      },
+      {
+        "id": 21,
+        "correct_answer": "ஒழுக்க நெறி",
+        "pronunciation": "ozhukku neri",
+        "meaning": {
+          "base_language": "moral conduct"
+        }
+      },
+      {
+        "id": 22,
+        "correct_answer": "ஒழுங்கு",
+        "pronunciation": "ozhungu",
+        "meaning": {
+          "base_language": "orderliness"
+        }
+      },
+      {
+        "id": 23,
+        "correct_answer": "ஒத்துழைப்பு",
+        "pronunciation": "oththuzhaippu",
+        "meaning": {
+          "base_language": "cooperation"
+        }
+      },
+      {
+        "id": 24,
+        "correct_answer": "ஒளிப்படம்",
+        "pronunciation": "olippadam",
+        "meaning": {
+          "base_language": "photo"
+        }
+      },
+      {
+        "id": 25,
+        "correct_answer": "ஒலி ஒலிப்பு",
+        "pronunciation": "oli olippu",
+        "meaning": {
+          "base_language": "pronunciation"
+        }
+      },
+      {
+        "id": 26,
+        "correct_answer": "ஒளிபரப்பு",
+        "pronunciation": "oliparappu",
+        "meaning": {
+          "base_language": "broadcast"
+        }
+      },
+      {
+        "id": 27,
+        "correct_answer": "ஒழுங்குமுறை",
+        "pronunciation": "ozhungumurai",
+        "meaning": {
+          "base_language": "system"
+        }
+      },
+      {
+        "id": 28,
+        "correct_answer": "ஒலிம்பிக்",
+        "pronunciation": "olympic",
+        "meaning": {
+          "base_language": "Olympics"
+        }
+      },
+      {
+        "id": 29,
+        "correct_answer": "ஒப்புதல் கடிதம்",
+        "pronunciation": "oppudhal kadidham",
+        "meaning": {
+          "base_language": "approval letter"
+        }
+      },
+      {
+        "id": 30,
+        "correct_answer": "ஒற்றை இலை",
+        "pronunciation": "otrai ilai",
+        "meaning": {
+          "base_language": "single leaf"
+        }
+      },
+      {
+        "id": 31,
+        "correct_answer": "ஒன்பது மணி",
+        "pronunciation": "onbadhu mani",
+        "meaning": {
+          "base_language": "nine o'clock"
+        }
+      },
+      {
+        "id": 32,
+        "correct_answer": "ஒளிரும் நட்சத்திரம்",
+        "pronunciation": "olirum natchathiram",
+        "meaning": {
+          "base_language": "shining star"
+        }
+      },
+      {
+        "id": 33,
+        "correct_answer": "ஒத்த கருத்து",
+        "pronunciation": "otha karuthu",
+        "meaning": {
+          "base_language": "similar opinion"
+        }
+      },
+      {
+        "id": 34,
+        "correct_answer": "ஒழுக்க பாடம்",
+        "pronunciation": "ozhukku paadam",
+        "meaning": {
+          "base_language": "moral lesson"
+        }
+      },
+      {
+        "id": 35,
+        "correct_answer": "ஒலிமுறை",
+        "pronunciation": "olimurai",
+        "meaning": {
+          "base_language": "phonetics"
+        }
+      },
+      {
+        "id": 36,
+        "correct_answer": "ஒளி வீச்சு",
+        "pronunciation": "oli veechu",
+        "meaning": {
+          "base_language": "ray of light"
+        }
+      },
+      {
+        "id": 37,
+        "correct_answer": "ஒற்றை பாதை",
+        "pronunciation": "otrai paathai",
+        "meaning": {
+          "base_language": "single path"
+        }
+      },
+      {
+        "id": 38,
+        "correct_answer": "ஒன்பது பேர்",
+        "pronunciation": "onbadhu per",
+        "meaning": {
+          "base_language": "nine people"
+        }
+      },
+      {
+        "id": 39,
+        "correct_answer": "ஒளிரும் கண்ணீர்",
+        "pronunciation": "olirum kanneer",
+        "meaning": {
+          "base_language": "shining tears"
+        }
+      },
+      {
+        "id": 40,
+        "correct_answer": "ஒப்புமை",
+        "pronunciation": "oppumai",
+        "meaning": {
+          "base_language": "simile"
+        }
+      },
+      {
+        "id": 41,
+        "correct_answer": "ஒன்றே ஒன்று",
+        "pronunciation": "ondre onru",
+        "meaning": {
+          "base_language": "only one"
+        }
+      },
+      {
+        "id": 42,
+        "correct_answer": "ஒற்றுமை வாழ்வு",
+        "pronunciation": "otrumai vaazhvu",
+        "meaning": {
+          "base_language": "life of unity"
+        }
+      },
+      {
+        "id": 43,
+        "correct_answer": "ஒப்பனைக் கலை",
+        "pronunciation": "oppanai kalai",
+        "meaning": {
+          "base_language": "art of decoration"
+        }
+      },
+      {
+        "id": 44,
+        "correct_answer": "ஒழுங்கு வாழ்க்கை",
+        "pronunciation": "ozhungu vaazhkai",
+        "meaning": {
+          "base_language": "disciplined life"
+        }
+      },
+      {
+        "id": 45,
+        "correct_answer": "ஒலி இசை",
+        "pronunciation": "oli isai",
+        "meaning": {
+          "base_language": "sound music"
+        }
+      },
+      {
+        "id": 46,
+        "correct_answer": "ஒளிரும் சூரியன்",
+        "pronunciation": "olirum sooriyan",
+        "meaning": {
+          "base_language": "shining sun"
+        }
+      },
+      {
+        "id": 47,
+        "correct_answer": "ஒப்பந்த நிறுவனம்",
+        "pronunciation": "oppandha niruvanam",
+        "meaning": {
+          "base_language": "contract company"
+        }
+      },
+      {
+        "id": 48,
+        "correct_answer": "ஒற்றை வீடு",
+        "pronunciation": "otrai veedu",
+        "meaning": {
+          "base_language": "single house"
+        }
+      },
+      {
+        "id": 49,
+        "correct_answer": "ஒன்பது ஆண்டு",
+        "pronunciation": "onbadhu aandu",
+        "meaning": {
+          "base_language": "nine years"
+        }
+      },
+      {
+        "id": 50,
+        "correct_answer": "ஒளிரும் உலகம்",
+        "pronunciation": "olirum ulagam",
+        "meaning": {
+          "base_language": "bright world"
+        }
+      }
+    ]
+  }
+]

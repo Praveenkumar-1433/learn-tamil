@@ -1,0 +1,73 @@
+[{
+  "screen_type": "Learn and Practice with Image",
+  "screen_type_id": 20,
+  "title": "Learn Uyir Mei Letters - ஶ(sha)",
+  "secondary_language": "ta-in-x-tad-local",
+  "instruction": "Listen, View and Repeat",
+  "exercise": [
+    { "image_description": "ஶ", 
+    "image_url_light": "URL_ஶ_light", 
+    "image_url_dark": "URL_ஶ_dark" 
+},
+    { "image_description": "ஶா",
+    "image_url_light": "URL_ஶா_light",
+     "image_url_dark": "URL_ஶா_dark"
+     },
+    { "image_description": "ஶி",
+     "image_url_light": "URL_ஶி_light",
+      "image_url_dark": "URL_ஶி_dark"
+     },
+    { "image_description": "ஶீ", 
+    "image_url_light": "URL_ஶீ_light", 
+    "image_url_dark": "URL_ஶீ_dark" 
+},
+    { "image_description": "ஶு", 
+    "image_url_light": "URL_ஶு_light",
+     "image_url_dark": "URL_ஶு_dark"
+     },
+    { "image_description": "ஶூ", 
+    "image_url_light": "URL_ஶூ_light", 
+    "image_url_dark": "URL_ஶூ_dark"
+ },
+    { "image_description": "ஶெ",
+     "image_url_light": "URL_ஶெ_light", 
+     "image_url_dark": "URL_ஶெ_dark" 
+    },
+    { "image_description": "ஶே", 
+    "image_url_light": "URL_ஶே_light",
+     "image_url_dark": "URL_ஶே_dark"
+     },
+    { "image_description": "ஶை", 
+    "image_url_light": "URL_ஶை_light",
+     "image_url_dark": "URL_ஶை_dark"
+     },
+    { "image_description": "ஶொ",
+     "image_url_light": "URL_ஶொ_light", 
+     "image_url_dark": "URL_ஶொ_dark" 
+    },
+    { "image_description": "ஶோ", 
+    "image_url_light": "URL_ஶோ_light",
+    "image_url_dark": "URL_ஶோ_dark" 
+},
+    { "image_description": "ஶௌ",
+    "image_url_light": "URL_ஶௌ_light", 
+    "image_url_dark": "URL_ஶௌ_dark"
+ }
+  ],
+  "intro_screen_title": "Vowels (உயிர் எழுத்துக்கள்) with Sanskrit letters (கிரந்த எழுத்துக்கள்) ஶ(sha)",
+  "intro_screen": [
+    {
+      "sub_title": "Uyir Mei Forms of ஶ(sha)",
+    
+      "description": "The Sanskrit letter (கிரந்த எழுத்துக்கள்) ஶ(sha) merges with the twelve Tamil vowels to form its Uyir Mei variations: ஶ (sha), ஶா (shaa), ஶி (shi), ஶீ (shii), ஶு (shu), ஶூ (shuu), ஶெ (she), ஶே (shee), ஶை (shai), ஶொ (sho), ஶோ (shoo), and ஶௌ (shau)."
+    },
+      {
+      "banner_img": [
+        { "image_light": "URL_banner_ஶ_light", 
+        "image_dark": "URL_banner_ஶ_dark" 
+    }
+      ]
+    }
+]
+}
+  ]

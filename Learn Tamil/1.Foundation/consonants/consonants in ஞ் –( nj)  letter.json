@@ -1,0 +1,410 @@
+[
+    {
+        "title": "Tamil Pure Consonant ஞ் (nj)",
+        "primary_language": "en-in-x-ena-local",
+        "secondary_language": "ta-in-x-tad-local",
+        "instruction": "Meaning",
+        "exercise": [
+            {
+                "id": 1,
+                "correct_answer": "அஞ்சல்",
+                "pronunciation": "anjal",
+                "meaning": {
+                    "base_language": "post"
+                }
+            },
+            {
+                "id": 2,
+                "correct_answer": "இஞ்சி",
+                "pronunciation": "inji",
+                "meaning": {
+                    "base_language": "ginger"
+                }
+            },
+            {
+                "id": 3,
+                "correct_answer": "எஞ்சின்",
+                "pronunciation": "enjin",
+                "meaning": {
+                    "base_language": "engine"
+                }
+            },
+            {
+                "id": 4,
+                "correct_answer": "அஞ்சு",
+                "pronunciation": "anju",
+                "meaning": {
+                    "base_language": "five"
+                }
+            },
+            {
+                "id": 5,
+                "correct_answer": "உஞ்சல்",
+                "pronunciation": "ujal",
+                "meaning": {
+                    "base_language": "swing"
+                }
+            },
+            {
+                "id": 6,
+                "correct_answer": "அஞ்சனம்",
+                "pronunciation": "anjanam",
+                "meaning": {
+                    "base_language": "collyrium"
+                }
+            },
+            {
+                "id": 7,
+                "correct_answer": "பஞ்சு",
+                "pronunciation": "panju",
+                "meaning": {
+                    "base_language": "cotton"
+                }
+            },
+            {
+                "id": 8,
+                "correct_answer": "மஞ்சள்",
+                "pronunciation": "manjal",
+                "meaning": {
+                    "base_language": "turmeric"
+                }
+            },
+            {
+                "id": 9,
+                "correct_answer": "கஞ்சி",
+                "pronunciation": "kanji",
+                "meaning": {
+                    "base_language": "rice porridge"
+                }
+            },
+            {
+                "id": 10,
+                "correct_answer": "நஞ்சு",
+                "pronunciation": "nanju",
+                "meaning": {
+                    "base_language": "poison"
+                }
+            },
+            {
+                "id": 11,
+                "correct_answer": "வஞ்சகம்",
+                "pronunciation": "vanjagam",
+                "meaning": {
+                    "base_language": "deceit"
+                }
+            },
+            {
+                "id": 12,
+                "correct_answer": "தஞ்சம்",
+                "pronunciation": "thanjam",
+                "meaning": {
+                    "base_language": "refuge"
+                }
+            },
+            {
+                "id": 13,
+                "correct_answer": "சஞ்சலம்",
+                "pronunciation": "sanjalam",
+                "meaning": {
+                    "base_language": "restlessness"
+                }
+            },
+            {
+                "id": 14,
+                "correct_answer": "அஞ்சாமை",
+                "pronunciation": "anjaamai",
+                "meaning": {
+                    "base_language": "fearlessness"
+                }
+            },
+            {
+                "id": 15,
+                "correct_answer": "இஞ்சுர்",
+                "pronunciation": "injur",
+                "meaning": {
+                    "base_language": "engineer"
+                }
+            },
+            {
+                "id": 16,
+                "correct_answer": "பஞ்சமி",
+                "pronunciation": "panjami",
+                "meaning": {
+                    "base_language": "fifth day"
+                }
+            },
+            {
+                "id": 17,
+                "correct_answer": "வஞ்சகன்",
+                "pronunciation": "vanjagan",
+                "meaning": {
+                    "base_language": "deceiver"
+                }
+            },
+            {
+                "id": 18,
+                "correct_answer": "அஞ்சலி",
+                "pronunciation": "anjali",
+                "meaning": {
+                    "base_language": "salutation"
+                }
+            },
+            {
+                "id": 19,
+                "correct_answer": "கஞ்சா",
+                "pronunciation": "kanjaa",
+                "meaning": {
+                    "base_language": "marijuana"
+                }
+            },
+            {
+                "id": 20,
+                "correct_answer": "மஞ்சம்",
+                "pronunciation": "manjam",
+                "meaning": {
+                    "base_language": "bed"
+                }
+            },
+            {
+                "id": 21,
+                "correct_answer": "தஞ்சாவூர்",
+                "pronunciation": "thanjaavur",
+                "meaning": {
+                    "base_language": "Thanjavur"
+                }
+            },
+            {
+                "id": 22,
+                "correct_answer": "சஞ்சரிப்பு",
+                "pronunciation": "sanjarippu",
+                "meaning": {
+                    "base_language": "travel"
+                }
+            },
+            {
+                "id": 23,
+                "correct_answer": "பஞ்சபூதம்",
+                "pronunciation": "panjabhootham",
+                "meaning": {
+                    "base_language": "five elements"
+                }
+            },
+            {
+                "id": 24,
+                "correct_answer": "அஞ்ஞானம்",
+                "pronunciation": "annyaanam",
+                "meaning": {
+                    "base_language": "ignorance"
+                }
+            },
+            {
+                "id": 25,
+                "correct_answer": "வஞ்சம்",
+                "pronunciation": "vanjam",
+                "meaning": {
+                    "base_language": "fraud"
+                }
+            },
+            {
+                "id": 26,
+                "correct_answer": "நஞ்சுண்ட",
+                "pronunciation": "nanjunda",
+                "meaning": {
+                    "base_language": "poison-consuming"
+                }
+            },
+            {
+                "id": 27,
+                "correct_answer": "தஞ்சுரி",
+                "pronunciation": "thanjuri",
+                "meaning": {
+                    "base_language": "tabloid"
+                }
+            },
+            {
+                "id": 28,
+                "correct_answer": "பஞ்சாங்கம்",
+                "pronunciation": "panjaangam",
+                "meaning": {
+                    "base_language": "almanac"
+                }
+            },
+            {
+                "id": 29,
+                "correct_answer": "இஞ்சிக்குழி",
+                "pronunciation": "injikkuzhi",
+                "meaning": {
+                    "base_language": "ginger pit"
+                }
+            },
+            {
+                "id": 30,
+                "correct_answer": "அஞ்சிக்க",
+                "pronunciation": "anjikka",
+                "meaning": {
+                    "base_language": "to fear"
+                }
+            },
+            {
+                "id": 31,
+                "correct_answer": "மஞ்சிட்டா",
+                "pronunciation": "manjittaa",
+                "meaning": {
+                    "base_language": "madder plant"
+                }
+            },
+            {
+                "id": 32,
+                "correct_answer": "வஞ்சிக்க",
+                "pronunciation": "vanjikka",
+                "meaning": {
+                    "base_language": "to deceive"
+                }
+            },
+            {
+                "id": 33,
+                "correct_answer": "கஞ்சித்தனம்",
+                "pronunciation": "kanjitthanam",
+                "meaning": {
+                    "base_language": "miserliness"
+                }
+            },
+            {
+                "id": 34,
+                "correct_answer": "சஞ்சலப்படு",
+                "pronunciation": "sanjalapadu",
+                "meaning": {
+                    "base_language": "to worry"
+                }
+            },
+            {
+                "id": 35,
+                "correct_answer": "அஞ்ஞாதர்",
+                "pronunciation": "annyaathar",
+                "meaning": {
+                    "base_language": "unknown person"
+                }
+            },
+            {
+                "id": 36,
+                "correct_answer": "பஞ்சமுகம்",
+                "pronunciation": "panjamugam",
+                "meaning": {
+                    "base_language": "five-faced"
+                }
+            },
+            {
+                "id": 37,
+                "correct_answer": "தஞ்சை",
+                "pronunciation": "thanjai",
+                "meaning": {
+                    "base_language": "Thanjavur"
+                }
+            },
+            {
+                "id": 38,
+                "correct_answer": "இஞ்சிப்புலி",
+                "pronunciation": "injippuli",
+                "meaning": {
+                    "base_language": "ginger tamarind"
+                }
+            },
+            {
+                "id": 39,
+                "correct_answer": "அஞ்சலகம்",
+                "pronunciation": "anjalakam",
+                "meaning": {
+                    "base_language": "post office"
+                }
+            },
+            {
+                "id": 40,
+                "correct_answer": "மஞ்சுகா",
+                "pronunciation": "manjukaa",
+                "meaning": {
+                    "base_language": "beautiful"
+                }
+            },
+            {
+                "id": 41,
+                "correct_answer": "வஞ்சனை",
+                "pronunciation": "vanjanai",
+                "meaning": {
+                    "base_language": "treachery"
+                }
+            },
+            {
+                "id": 42,
+                "correct_answer": "நஞ்சாட்டு",
+                "pronunciation": "anjaattu",
+                "meaning": {
+                    "base_language": "poisoning"
+                }
+            },
+            {
+                "id": 43,
+                "correct_answer": "கஞ்சுக",
+                "pronunciation": "kanjuka",
+                "meaning": {
+                    "base_language": "minister"
+                }
+            },
+            {
+                "id": 44,
+                "correct_answer": "சஞ்சாரம்",
+                "pronunciation": "sanjaaram",
+                "meaning": {
+                    "base_language": "wandering"
+                }
+            },
+            {
+                "id": 45,
+                "correct_answer": "பஞ்சவர்ணம்",
+                "pronunciation": "panjavarnam",
+                "meaning": {
+                    "base_language": "five colors"
+                }
+            },
+            {
+                "id": 46,
+                "correct_answer": "தஞ்சுரு",
+                "pronunciation": "thanjuru",
+                "meaning": {
+                    "base_language": "to take shelter"
+                }
+            },
+            {
+                "id": 47,
+                "correct_answer": "அஞ்சுறு",
+                "pronunciation": "anjuru",
+                "meaning": {
+                    "base_language": "to be afraid"
+                }
+            },
+            {
+                "id": 48,
+                "correct_answer": "இஞ்சித்துரும்பு",
+                "pronunciation": "injitthurumbu",
+                "meaning": {
+                    "base_language": "ginger bits"
+                }
+            },
+            {
+                "id": 49,
+                "correct_answer": "ஞாஞ்று",
+                "pronunciation": "nyaanjiru",
+                "meaning": {
+                    "base_language": "yesterday"
+                }
+            },
+            {
+                "id": 50,
+                "correct_answer": "எஞ்சிய",
+                "pronunciation": "enjiya",
+                "meaning": {
+                    "base_language": "remaining"
+                }
+            }
+        ]
+    }
+]

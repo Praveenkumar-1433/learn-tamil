@@ -1,0 +1,410 @@
+[
+  {
+    "title": "Tamil Pure Consonant ம் (m)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "அம்பு",
+        "pronunciation": "ambu",
+        "meaning": {
+          "base_language": "arrow"
+        }
+      },
+      {
+        "id": 2,
+        "correct_answer": "கம்பி",
+        "pronunciation": "kambi",
+        "meaning": {
+          "base_language": "wire"
+        }
+      },
+      {
+        "id": 3,
+        "correct_answer": "தம்பி",
+        "pronunciation": "thambi",
+        "meaning": {
+          "base_language": "younger brother"
+        }
+      },
+      {
+        "id": 4,
+        "correct_answer": "நம்பர்",
+        "pronunciation": "nambar",
+        "meaning": {
+          "base_language": "number"
+        }
+      },
+      {
+        "id": 5,
+        "correct_answer": "வம்பு",
+        "pronunciation": "vambu",
+        "meaning": {
+          "base_language": "quarrel"
+        }
+      },
+      {
+        "id": 6,
+        "correct_answer": "அம்மா",
+        "pronunciation": "amma",
+        "meaning": {
+          "base_language": "mother"
+        }
+      },
+      {
+        "id": 7,
+        "correct_answer": "கம்மல்",
+        "pronunciation": "kammal",
+        "meaning": {
+          "base_language": "earring"
+        }
+      },
+      {
+        "id": 8,
+        "correct_answer": "தம்மம்",
+        "pronunciation": "thammam",
+        "meaning": {
+          "base_language": "righteousness"
+        }
+      },
+      {
+        "id": 9,
+        "correct_answer": "நம்ம",
+        "pronunciation": "namma",
+        "meaning": {
+          "base_language": "our"
+        }
+      },
+      {
+        "id": 10,
+        "correct_answer": "வம்சம்",
+        "pronunciation": "vamsam",
+        "meaning": {
+          "base_language": "lineage"
+        }
+      },
+      {
+        "id": 11,
+        "correct_answer": "பம்பரம்",
+        "pronunciation": "pambaram",
+        "meaning": {
+          "base_language": "spinning top"
+        }
+      },
+      {
+        "id": 12,
+        "correct_answer": "சம்பவம்",
+        "pronunciation": "sambavam",
+        "meaning": {
+          "base_language": "incident"
+        }
+      },
+      {
+        "id": 13,
+        "correct_answer": "கம்பளம்",
+        "pronunciation": "kampalam",
+        "meaning": {
+          "base_language": "blanket"
+        }
+      },
+      {
+        "id": 14,
+        "correct_answer": "நம்பிக்கை",
+        "pronunciation": "nambikkai",
+        "meaning": {
+          "base_language": "trust"
+        }
+      },
+      {
+        "id": 15,
+        "correct_answer": "தம்பது",
+        "pronunciation": "thambadhu",
+        "meaning": {
+          "base_language": "relation"
+        }
+      },
+      {
+        "id": 16,
+        "correct_answer": "இம்சை",
+        "pronunciation": "imsai",
+        "meaning": {
+          "base_language": "torture"
+        }
+      },
+      {
+        "id": 17,
+        "correct_answer": "அசுத்தம் ",
+        "pronunciation": "Acuttam",
+        "meaning": {
+          "base_language": "impurity"
+        }
+      },
+      {
+        "id": 18,
+        "correct_answer": "கம்பன்",
+        "pronunciation": "kamban",
+        "meaning": {
+          "base_language": "poet Kamban"
+        }
+      },
+      {
+        "id": 19,
+        "correct_answer": "சம்பளம்",
+        "pronunciation": "sambalam",
+        "meaning": {
+          "base_language": "salary"
+        }
+      },
+      {
+        "id": 20,
+        "correct_answer": "நம்பு",
+        "pronunciation": "nambu",
+        "meaning": {
+          "base_language": "trust"
+        }
+      },
+      {
+        "id": 21,
+        "correct_answer": "தம்பட்டம்",
+        "pronunciation": "thambattam",
+        "meaning": {
+          "base_language": "boasting"
+        }
+      },
+      {
+        "id": 22,
+        "correct_answer": "வம்பா",
+        "pronunciation": "vamba",
+        "meaning": {
+          "base_language": "quarrelsome person"
+        }
+      },
+      {
+        "id": 23,
+        "correct_answer": "தேசம்",
+        "pronunciation": "Tēcam",
+        "meaning": {
+          "base_language": "Nation"
+        }
+      },
+      {
+        "id": 24,
+        "correct_answer": "சம்பாதிக்க",
+        "pronunciation": "sambadhikka",
+        "meaning": {
+          "base_language": "to earn"
+        }
+      },
+      {
+        "id": 25,
+        "correct_answer": "கம்பீரம்",
+        "pronunciation": "kambeeram",
+        "meaning": {
+          "base_language": "majesty"
+        }
+      },
+      {
+        "id": 26,
+        "correct_answer": "நம்பர்",
+        "pronunciation": "nambar",
+        "meaning": {
+          "base_language": "lumber"
+        }
+      },
+      {
+        "id": 27,
+        "correct_answer": "அவசியம் ",
+        "pronunciation": "Avaciyam",
+        "meaning": {
+          "base_language": "necessary"
+        }
+      },
+      {
+        "id": 28,
+        "correct_answer": "இம்பம்",
+        "pronunciation": "imbam",
+        "meaning": {
+          "base_language": "pleasure"
+        }
+      },
+      {
+        "id": 29,
+        "correct_answer": "முகம் ",
+        "pronunciation": "mugam",
+        "meaning": {
+          "base_language": "face"
+        }
+      },
+      {
+        "id": 30,
+        "correct_answer": "கம்பம்",
+        "pronunciation": "kampam",
+        "meaning": {
+          "base_language": "pillar"
+        }
+      },
+      {
+        "id": 31,
+        "correct_answer": "சம்பம்",
+        "pronunciation": "sambam",
+        "meaning": {
+          "base_language": "wealth"
+        }
+      },
+      {
+        "id": 32,
+        "correct_answer": "நம்பிடம்",
+        "pronunciation": "nambidam",
+        "meaning": {
+          "base_language": "with us"
+        }
+      },
+      {
+        "id": 33,
+        "correct_answer": "தம்பல",
+        "pronunciation": "thambal",
+        "meaning": {
+          "base_language": "arrogance"
+        }
+      },
+      {
+        "id": 34,
+        "correct_answer": "வம்பட்டம்",
+        "pronunciation": "vambattam",
+        "meaning": {
+          "base_language": "silk cloth"
+        }
+      },
+      {
+        "id": 35,
+        "correct_answer": "பம்பே",
+        "pronunciation": "pambe",
+        "meaning": {
+          "base_language": "Bombay"
+        }
+      },
+      {
+        "id": 36,
+        "correct_answer": "சம்பந்தம்",
+        "pronunciation": "sambandham",
+        "meaning": {
+          "base_language": "relation"
+        }
+      },
+      {
+        "id": 37,
+        "correct_answer": "கம்பர்",
+        "pronunciation": "kambar",
+        "meaning": {
+          "base_language": "poet"
+        }
+      },
+      {
+        "id": 38,
+        "correct_answer": "நம்பள்",
+        "pronunciation": "nambal",
+        "meaning": {
+          "base_language": "trust"
+        }
+      },
+      {
+        "id": 39,
+        "correct_answer": "தம்பட்டி",
+        "pronunciation": "thambatti",
+        "meaning": {
+          "base_language": "braggart"
+        }
+      },
+      {
+        "id": 40,
+        "correct_answer": "இம்பர்",
+        "pronunciation": "imbar",
+        "meaning": {
+          "base_language": "pleasant person"
+        }
+      },
+      {
+        "id": 41,
+        "correct_answer": "அகலம்",
+        "pronunciation": "Akalam",
+        "meaning": {
+          "base_language": "width"
+        }
+      },
+      {
+        "id": 42,
+        "correct_answer": "கம்பக்கம்",
+        "pronunciation": "kampakkam",
+        "meaning": {
+          "base_language": "place name"
+        }
+      },
+      {
+        "id": 43,
+        "correct_answer": "சம்பரம்",
+        "pronunciation": "sambaram",
+        "meaning": {
+          "base_language": "celebration"
+        }
+      },
+      {
+        "id": 44,
+        "correct_answer": "நம்பினார்",
+        "pronunciation": "nambinaar",
+        "meaning": {
+          "base_language": "they trusted"
+        }
+      },
+      {
+        "id": 45,
+        "correct_answer": "ஆழம் ",
+        "pronunciation": "Āḻam",
+        "meaning": {
+          "base_language": "depth"
+        }
+      },
+      {
+        "id": 46,
+        "correct_answer": "காரியம் ",
+        "pronunciation": "kariyam",
+        "meaning": {
+          "base_language": "thing"
+        }
+      },
+      {
+        "id": 47,
+        "correct_answer": "பம்படம்",
+        "pronunciation": "pampadam",
+        "meaning": {
+          "base_language": "lotus leaf"
+        }
+      },
+      {
+        "id": 48,
+        "correct_answer": "சம்பத்து",
+        "pronunciation": "sampaththu",
+        "meaning": {
+          "base_language": "wealth"
+        }
+      },
+      {
+        "id": 49,
+        "correct_answer": "கம்பளி",
+        "pronunciation": "kampali",
+        "meaning": {
+          "base_language": "woolen"
+        }
+      },
+      {
+        "id": 50,
+        "correct_answer": "நம்பாத",
+        "pronunciation": "nambaatha",
+        "meaning": {
+          "base_language": "don't trust"
+        }
+      }
+    ]
+  }
+]

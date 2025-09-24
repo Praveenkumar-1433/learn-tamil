@@ -1,0 +1,418 @@
+[
+  {
+    "title": "Tamil Pure Consonant ஃ (kh)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "அஃது",
+        "pronunciation": "ahthu",
+        "meaning": {
+          "base_language": "that"
+        }
+      },
+      {
+        "id": 2,
+        "correct_answer": "இஃது",
+        "pronunciation": "ihthu",
+        "meaning": {
+          "base_language": "this"
+        }
+      },
+      {
+        "id": 3,
+        "correct_answer": "எஃது",
+        "pronunciation": "ehthu",
+        "meaning": {
+          "base_language": "which"
+        }
+      },
+      {
+        "id": 4,
+        "correct_answer": "நஃது",
+        "pronunciation": "nahthu",
+        "meaning": {
+          "base_language": "ours/that which is ours"
+        }
+      },
+      {
+        "id": 5,
+        "correct_answer": "தஃது",
+        "pronunciation": "thahthu",
+        "meaning": {
+          "base_language": "that thing"
+        }
+      },
+      {
+        "id": 6,
+        "correct_answer": "மஃது",
+        "pronunciation": "mahthu",
+        "meaning": {
+          "base_language": "that one"
+        }
+      },
+      {
+        "id": 7,
+        "correct_answer": "யஃது",
+        "pronunciation": "yahthu",
+        "meaning": {
+          "base_language": "that which"
+        }
+      },
+      {
+        "id": 8,
+        "correct_answer": "வஃது",
+        "pronunciation": "vahthu",
+        "meaning": {
+          "base_language": "that object"
+        }
+      },
+      {
+        "id": 9,
+        "correct_answer": "கஃது",
+        "pronunciation": "kahthu",
+        "meaning": {
+          "base_language": "that item"
+        }
+      },
+      {
+        "id": 10,
+        "correct_answer": "பஃது",
+        "pronunciation": "pahthu",
+        "meaning": {
+          "base_language": "that entity"
+        }
+      },
+      {
+        "id": 11,
+        "correct_answer": "அஃதே",
+        "pronunciation": "ahthē",
+        "meaning": {
+          "base_language": "that very one"
+        }
+      },
+      {
+        "id": 12,
+        "correct_answer": "இஃதே",
+        "pronunciation": "ihthē",
+        "meaning": {
+          "base_language": "this very one"
+        }
+      },
+      {
+        "id": 13,
+        "correct_answer": "அஃதான்",
+        "pronunciation": "ahthān",
+        "meaning": {
+          "base_language": "that is it"
+        }
+      },
+      {
+        "id": 14,
+        "correct_answer": "இஃதான்",
+        "pronunciation": "ihthān",
+        "meaning": {
+          "base_language": "this is it"
+        }
+      },
+      {
+        "id": 15,
+        "correct_answer": "அஃதும்",
+        "pronunciation": "ahthum",
+        "meaning": {
+          "base_language": "that too"
+        }
+      },
+      {
+        "id": 16,
+        "correct_answer": "இஃதும்",
+        "pronunciation": "ihthum",
+        "meaning": {
+          "base_language": "this too"
+        }
+      },
+      {
+        "id": 17,
+        "correct_answer": "அஃதில்",
+        "pronunciation": "ahthil",
+        "meaning": {
+          "base_language": "in that"
+        }
+      },
+      {
+        "id": 18,
+        "correct_answer": "இஃதில்",
+        "pronunciation": "ihthil",
+        "meaning": {
+          "base_language": "in this"
+        }
+      },
+      {
+        "id": 19,
+        "correct_answer": "அஃதால்",
+        "pronunciation": "ahthāl",
+        "meaning": {
+          "base_language": "because of that"
+        }
+      },
+      {
+        "id": 20,
+        "correct_answer": "இஃதால்",
+        "pronunciation": "ihthāl",
+        "meaning": {
+          "base_language": "because of this"
+        }
+      },
+      {
+        "id": 21,
+        "correct_answer": "அஃதனால்",
+        "pronunciation": "ahthanāl",
+        "meaning": {
+          "base_language": "therefore"
+        }
+      },
+      {
+        "id": 22,
+        "correct_answer": "இஃதனால்",
+        "pronunciation": "ihthanāl",
+        "meaning": {
+          "base_language": "due to this"
+        }
+      },
+      {
+        "id": 23,
+        "correct_answer": "அஃதன்",
+        "pronunciation": "ahthan",
+        "meaning": {
+          "base_language": "of that"
+        }
+      },
+      {
+        "id": 24,
+        "correct_answer": "இஃதன்",
+        "pronunciation": "ihthan",
+        "meaning": {
+          "base_language": "of this"
+        }
+      },
+      {
+        "id": 25,
+        "correct_answer": "அஃதை",
+        "pronunciation": "ahthai",
+        "meaning": {
+          "base_language": "that (object)"
+        }
+      },
+      {
+        "id": 26,
+        "correct_answer": "இஃதை",
+        "pronunciation": "ihthai",
+        "meaning": {
+          "base_language": "this (object)"
+        }
+      },
+      {
+        "id": 27,
+        "correct_answer": "அஃதோடு",
+        "pronunciation": "ahthōḍu",
+        "meaning": {
+          "base_language": "with that"
+        }
+      },
+      {
+        "id": 28,
+        "correct_answer": "இஃதோடு",
+        "pronunciation": "ihthōḍu",
+        "meaning": {
+          "base_language": "with this"
+        }
+      },
+      {
+        "id": 29,
+        "correct_answer": "அஃதிடம்",
+        "pronunciation": "ahthiḍam",
+        "meaning": {
+          "base_language": "with that person"
+        }
+      },
+      {
+        "id": 30,
+        "correct_answer": "இஃதிடம்",
+        "pronunciation": "ihthiḍam",
+        "meaning": {
+          "base_language": "with this person"
+        }
+      },
+      {
+        "id": 31,
+        "correct_answer": "அஃதுபோல்",
+        "pronunciation": "ahthupōl",
+        "meaning": {
+          "base_language": "like that"
+        }
+      },
+      {
+        "id": 32,
+        "correct_answer": "இஃதுபோல்",
+        "pronunciation": "ihthupōl",
+        "meaning": {
+          "base_language": "like this"
+        }
+      },
+      {
+        "id": 33,
+        "correct_answer": "அஃதுவே",
+        "pronunciation": "ahthuvē",
+        "meaning": {
+          "base_language": "that itself"
+        }
+      },
+      {
+        "id": 34,
+        "correct_answer": "இஃதுவே",
+        "pronunciation": "ihthuvē",
+        "meaning": {
+          "base_language": "this itself"
+        }
+      },
+      {
+        "id": 35,
+        "correct_answer": "அஃதிற்கு",
+        "pronunciation": "ahthiṟku",
+        "meaning": {
+          "base_language": "for that"
+        }
+      },
+      {
+        "id": 36,
+        "correct_answer": "இஃதிற்கு",
+        "pronunciation": "ihthiṟku",
+        "meaning": {
+          "base_language": "for this"
+        }
+      },
+      {
+        "id": 37,
+        "correct_answer": "அஃதின்",
+        "pronunciation": "ahthin",
+        "meaning": {
+          "base_language": "of that/its"
+        }
+      },
+      {
+        "id": 38,
+        "correct_answer": "இஃதின்",
+        "pronunciation": "ihthin",
+        "meaning": {
+          "base_language": "of this/its"
+        }
+      },
+      {
+        "id": 39,
+        "correct_answer": "அஃதென்று",
+        "pronunciation": "ahthendru",
+        "meaning": {
+          "base_language": "saying that"
+        }
+      },
+      {
+        "id": 40,
+        "correct_answer": "இஃதென்று",
+        "pronunciation": "ihthendru",
+        "meaning": {
+          "base_language": "saying this"
+        }
+      },
+      {
+        "id": 41,
+        "correct_answer": "அஃதெல்லாம்",
+        "pronunciation": "ahtellām",
+        "meaning": {
+          "base_language": "all that"
+        }
+      },
+      {
+        "id": 42,
+        "correct_answer": "இஃதெல்லாம்",
+        "pronunciation": "ihtellām",
+        "meaning": {
+          "base_language": "all this"
+        }
+      },
+      {
+        "id": 43,
+        "correct_answer": "அஃதிலும்",
+        "pronunciation": "ahthilum",
+        "meaning": {
+          "base_language": "even in that"
+        }
+      },
+      {
+        "id": 44,
+        "correct_answer": "இஃதிலும்",
+        "pronunciation": "ihthilum",
+        "meaning": {
+          "base_language": "even in this"
+        }
+      },
+      {
+        "id": 45,
+        "correct_answer": "அஃதுதான்",
+        "pronunciation": "ahthuthān",
+        "meaning": {
+          "base_language": "that's it"
+        }
+      },
+      {
+        "id": 46,
+        "correct_answer": "இஃதுதான்",
+        "pronunciation": "ihthuthān",
+        "meaning": {
+          "base_language": "this is it"
+        }
+      },
+      {
+        "id": 47,
+        "correct_answer": "அஃதாவது",
+        "pronunciation": "ahthāvathu",
+        "meaning": {
+          "base_language": "that is to say"
+        }
+      },
+      {
+        "id": 48,
+        "correct_answer": "இஃதாவது",
+        "pronunciation": "ihthāvathu",
+        "meaning": {
+          "base_language": "this means"
+        }
+      },
+      {
+        "id": 49,
+        "correct_answer": "அஃதிலிருந்து",
+        "pronunciation": "ahthilirundhu",
+        "meaning": {
+          "base_language": "from that"
+        }
+      },
+      {
+        "id": 50,
+        "correct_answer": "இஃதிலிருந்து",
+        "pronunciation": "ihthilirundhu",
+        "meaning": {
+          "base_language": "from this"
+        }
+      },
+      {
+        "id": 51,
+        "correct_answer": "அஃதனிடம்",
+        "pronunciation": "ahthaniḍam",
+        "meaning": {
+          "base_language": "with that one"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[{
+  "screen_type": "Learn and Practice with Image",
+  "screen_type_id": 17,
+  "title": "Learn Uyir Mei Letters - ஜ(ja)",
+  "secondary_language": "ta-in-x-tad-local",
+  "instruction": "Listen, View and Repeat",
+  "exercise": [
+    {
+      "image_description": "ஜ",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/ja_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/ja_dark.png"
+    },
+    {
+      "image_description": "ஜா",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/jaa_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/jaa_dark.png"
+    },
+    {
+      "image_description": "ஜி",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/ji_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/ji_dark.png"
+    },
+    {
+      "image_description": "ஜீ",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/jii_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/jii_dark.png"
+    },
+    {
+      "image_description": "ஜு",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/ju_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/ju_dark.png"
+    },
+    {
+      "image_description": "ஜூ",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/juu_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/juu_dark.png"
+    },
+    {
+      "image_description": "ஜெ",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/je_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/je_dark.png"
+    },
+    {
+      "image_description": "ஜே",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/jee_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/jee_dark.png"
+    },
+    {
+      "image_description": "ஜை",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/jai_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/jai_dark.png"
+    },
+    {
+      "image_description": "ஜொ",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/jo_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/jo_dark.png"
+    },
+    {
+      "image_description": "ஜோ",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/joo_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/joo_dark.png"
+    },
+    {
+      "image_description": "ஜௌ",
+      "image_url_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/jau_light.png",
+      "image_url_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/jau_dark.png"
+    }
+  ],
+  "intro_screen_title": "Vowels (உயிர் எழுத்துக்கள்) with Sanskrit letters (கிரந்த எழுத்துக்கள்) ஜ(ja)",
+  "intro_screen": [
+    {
+      "sub_title": "Uyir Mei Forms of ஜ(ja)",
+    
+      "description": "The Sanskrit letters (கிரந்த எழுத்துக்கள்) ஜ(ja) merges with the twelve Tamil vowels to form its Uyir Mei variations: ஜ (ja), ஜா (jaa), ஜி (ji), ஜீ (jii), ஜு (ju), ஜூ (juu), ஜெ (je), ஜே (jee), ஜை (jai), ஜொ (jo), ஜோ (joo), and ஜௌ (jau). These forms help in reading and pronouncing Sanskrit-origin words in Tamil correctly."
+    },
+      {
+      "banner_img": [
+        {
+          "image_light": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/banner_ja_light.png",
+          "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/sample/course/803/ExerciseAssets/Grantha/banner_ja_dark.png"
+        }
+      ]
+    }
+  ]
+}
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Tamil Pure Consonant ழ் (zh) ",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "ஆழ்ந்து",
+        "pronunciation": "azhndhu",
+        "meaning": { "base_language": "deeply immersed" }
+      },
+      {
+        "id": 2,
+        "correct_answer": "கழ்ந்து",
+        "pronunciation": "kazhndhu",
+        "meaning": { "base_language": "having washed" }
+      },
+      {
+        "id": 3,
+        "correct_answer": "வாழ்ந்து",
+        "pronunciation": "vazhndhu",
+        "meaning": { "base_language": "having come by way" }
+      },
+      {
+        "id": 4,
+        "correct_answer": "இழ்ந்து",
+        "pronunciation": "izhndhu",
+        "meaning": { "base_language": "having lost" }
+      },
+      {
+        "id": 5,
+        "correct_answer": "உழ்ந்து",
+        "pronunciation": "uzhndhu",
+        "meaning": { "base_language": "having worked hard" }
+      },
+      {
+        "id": 6,
+        "correct_answer": "எழ்ந்து",
+        "pronunciation": "ezhndhu",
+        "meaning": { "base_language": "having risen" }
+      },
+      {
+        "id": 7,
+        "correct_answer": "இதழ்",
+        "pronunciation": "ithazh",
+        "meaning": { "base_language": "magazine" }
+      },
+      {
+        "id": 8,
+        "correct_answer": "மகிழ்",
+        "pronunciation": "makizh",
+        "meaning": { "base_language": "enjoy" }
+      },
+      {
+        "id": 9,
+        "correct_answer": "இசைத்தமிழ் ",
+        "pronunciation": "isaitamizh",
+        "meaning": { "base_language": "Musically" }
+      },
+      {
+        "id": 10,
+        "correct_answer": "பூவிதழ் ",
+        "pronunciation": "poovithazh",
+        "meaning": { "base_language": "pollen" }
+      },
+      {
+        "id": 11,
+        "correct_answer": "வாழ்க்கை",
+        "pronunciation": "vazhkkai",
+        "meaning": { "base_language": "life" }
+      },
+      {
+        "id": 12,
+        "correct_answer": "கழ்த்தல்",
+        "pronunciation": "kazhthal",
+        "meaning": { "base_language": "washing" }
+      },
+      {
+        "id": 13,
+        "correct_answer": "தாழ் வாரம்",
+        "pronunciation": "tazhvaram",
+        "meaning": { "base_language": "Low week" }
+      },
+      {
+        "id": 14,
+        "correct_answer": "புகழ்",
+        "pronunciation": "pukazh",
+        "meaning": { "base_language": "fame" }
+      },
+      {
+        "id": 15,
+        "correct_answer": "யாழ் ",
+        "pronunciation": "yaazh",
+        "meaning": { "base_language": "Jaffna" }
+      }
+    ]
+  }
+]
