@@ -1,0 +1,285 @@
+[{
+  "title": "Tamil Pure Consonant ற் (r)",
+  "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+ 
+  "instruction": "Meaning",
+  "exercise": [
+    {
+      "id": 1,
+      "correct_answer": "கற்கல்",
+      "pronunciation": "karkal",
+      "meaning": { "base_language": "stones" }
+    },
+    {
+      "id": 2,
+      "correct_answer": "நற்செய்தி",
+      "pronunciation": "narseyti",
+      "meaning": { "base_language": "good news" }
+    },
+    {
+      "id": 3,
+      "correct_answer": "பற்கள்",
+      "pronunciation": "parkaḷ",
+      "meaning": { "base_language": "teeth" }
+    },
+    {
+      "id": 4,
+      "correct_answer": "மற்றவர்",
+      "pronunciation": "marravar",
+      "meaning": { "base_language": "others" }
+    },
+    {
+      "id": 5,
+      "correct_answer": "கற்றல்",
+      "pronunciation": "karral",
+      "meaning": { "base_language": "learning" }
+    },
+    {
+      "id": 6,
+      "correct_answer": "நற்பண்பு",
+      "pronunciation": "narpaṇpu",
+      "meaning": { "base_language": "good character" }
+    },
+    {
+      "id": 7,
+      "correct_answer": "பற்றி",
+      "pronunciation": "parri",
+      "meaning": { "base_language": "about/regarding" }
+    },
+    {
+      "id": 8,
+      "correct_answer": "மற்றும்",
+      "pronunciation": "marrum",
+      "meaning": { "base_language": "and also" }
+    },
+    {
+      "id": 9,
+      "correct_answer": "கற்பனை",
+      "pronunciation": "karpanai",
+      "meaning": { "base_language": "imagination" }
+    },
+    {
+      "id": 10,
+      "correct_answer": "நற்காரியம்",
+      "pronunciation": "narkāriyam",
+      "meaning": { "base_language": "good deed" }
+    },
+    {
+      "id": 11,
+      "correct_answer": "பற்றாக்குறை",
+      "pronunciation": "parrākkurai",
+      "meaning": { "base_language": "shortage" }
+    },
+    {
+      "id": 12,
+      "correct_answer": "மற்படி",
+      "pronunciation": "marpaḍi",
+      "meaning": { "base_language": "otherwise" }
+    },
+    {
+      "id": 13,
+      "correct_answer": "கற்றார்",
+      "pronunciation": "karrār",
+      "meaning": { "base_language": "learned people" }
+    },
+    {
+      "id": 14,
+      "correct_answer": "நற்றாய்",
+      "pronunciation": "narrāy",
+      "meaning": { "base_language": "good mother" }
+    },
+    {
+      "id": 15,
+      "correct_answer": "பற்றுதல்",
+      "pronunciation": "parruthal",
+      "meaning": { "base_language": "attachment" }
+    },
+    {
+      "id": 16,
+      "correct_answer": "மற்றது",
+      "pronunciation": "marrathu",
+      "meaning": { "base_language": "the other one" }
+    },
+    {
+      "id": 17,
+      "correct_answer": "கற்பித்தல்",
+      "pronunciation": "karpiththal",
+      "meaning": { "base_language": "teaching" }
+    },
+    {
+      "id": 18,
+      "correct_answer": "நற்குணம்",
+      "pronunciation": "narkuṇam",
+      "meaning": { "base_language": "good quality" }
+    },
+    {
+      "id": 19,
+      "correct_answer": "பற்பல",
+      "pronunciation": "parpala",
+      "meaning": { "base_language": "many/various" }
+    },
+    {
+      "id": 20,
+      "correct_answer": "மற்போல்",
+      "pronunciation": "marpōl",
+      "meaning": { "base_language": "like others" }
+    },
+    {
+      "id": 21,
+      "correct_answer": "கற்கும்",
+      "pronunciation": "karkum",
+      "meaning": { "base_language": "will learn" }
+    },
+    {
+      "id": 22,
+      "correct_answer": "நற்பெயர்",
+      "pronunciation": "narpeyar",
+      "meaning": { "base_language": "good name/reputation" }
+    },
+    {
+      "id": 23,
+      "correct_answer": "பற்றுக்கோடு",
+      "pronunciation": "parrukkōḍu",
+      "meaning": { "base_language": "support/anchor" }
+    },
+    {
+      "id": 24,
+      "correct_answer": "மற்றறிவு",
+      "pronunciation": "marrarivu",
+      "meaning": { "base_language": "other knowledge" }
+    },
+    {
+      "id": 25,
+      "correct_answer": "கற்சுவர்",
+      "pronunciation": "karsuvar",
+      "meaning": { "base_language": "stone wall" }
+    },
+    {
+      "id": 26,
+      "correct_answer": "நற்சிந்தனை",
+      "pronunciation": "narsinthanai",
+      "meaning": { "base_language": "good thought" }
+    },
+    {
+      "id": 27,
+      "correct_answer": "பற்றற்று",
+      "pronunciation": "parrarru",
+      "meaning": { "base_language": "without attachment" }
+    },
+    {
+      "id": 28,
+      "correct_answer": "மற்றறிந்து",
+      "pronunciation": "marrarinthu",
+      "meaning": { "base_language": "knowing otherwise" }
+    },
+    {
+      "id": 29,
+      "correct_answer": "கற்போல்",
+      "pronunciation": "karpōl",
+      "meaning": { "base_language": "like stone" }
+    },
+    {
+      "id": 30,
+      "correct_answer": "நற்றமிழ்",
+      "pronunciation": "narramiḻ",
+      "meaning": { "base_language": "pure Tamil" }
+    },
+    {
+      "id": 31,
+      "correct_answer": "பற்றுதல்",
+      "pronunciation": "parruthal",
+      "meaning": { "base_language": "to catch/hold" }
+    },
+    {
+      "id": 32,
+      "correct_answer": "மற்றொரு",
+      "pronunciation": "marroru",
+      "meaning": { "base_language": "another" }
+    },
+    {
+      "id": 33,
+      "correct_answer": "கற்றுக்கொள்",
+      "pronunciation": "karrukkoḷ",
+      "meaning": { "base_language": "to learn" }
+    },
+    {
+      "id": 34,
+      "correct_answer": "நற்கவி",
+      "pronunciation": "narkavi",
+      "meaning": { "base_language": "good poetry" }
+    },
+    {
+      "id": 35,
+      "correct_answer": "பற்றவை",
+      "pronunciation": "parravai",
+      "meaning": { "base_language": "things to hold" }
+    },
+    {
+      "id": 36,
+      "correct_answer": "மற்றேல்",
+      "pronunciation": "marrēl",
+      "meaning": { "base_language": "if not" }
+    },
+    {
+      "id": 37,
+      "correct_answer": "கற்றவன்",
+      "pronunciation": "karravan",
+      "meaning": { "base_language": "learned person" }
+    },
+    {
+      "id": 38,
+      "correct_answer": "நற்பாட்டு",
+      "pronunciation": "narpāṭṭu",
+      "meaning": { "base_language": "good song" }
+    },
+    {
+      "id": 39,
+      "correct_answer": "பற்றாமல்",
+      "pronunciation": "parrāmal",
+      "meaning": { "base_language": "without holding" }
+    },
+    {
+      "id": 40,
+      "correct_answer": "மற்றை",
+      "pronunciation": "marrai",
+      "meaning": { "base_language": "the other" }
+    },
+    {
+      "id": 41,
+      "correct_answer": "கற்றுணர்",
+      "pronunciation": "karruṇar",
+      "meaning": { "base_language": "learned understanding" }
+    },
+    {
+      "id": 42,
+      "correct_answer": "நற்செயல்",
+      "pronunciation": "narseyal",
+      "meaning": { "base_language": "good action" }
+    },
+    {
+      "id": 43,
+      "correct_answer": "பற்றியது",
+      "pronunciation": "parriyathu",
+      "meaning": { "base_language": "what was held" }
+    },
+    {
+      "id": 44,
+      "correct_answer": "மற்றொன்று",
+      "pronunciation": "marronru",
+      "meaning": { "base_language": "another one" }
+    },
+    {
+      "id": 45,
+      "correct_answer": "கற்பூரம்",
+      "pronunciation": "karpūram",
+      "meaning": { "base_language": "camphor" }
+    },
+    {
+      "id": 46,
+      "correct_answer": "நற்கதை",
+      "pronunciation": "narkathai",
+      "meaning": { "base_language": "good story" }
+    }
+  ]
+}]

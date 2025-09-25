@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Tamil UyirMei Letter லி (li)",
+    "instruction": "Listen, View and Repeat",
+    "exercise": [
+        { "correct_answer": "லிங்கம்", "pronunciation": "lingam", "meaning": { "base_language": "symbol of Shiva" } },
+        { "correct_answer": "லிட்டர்", "pronunciation": "littar", "meaning": { "base_language": "litre" } },
+      { "correct_answer": "வலி", "pronunciation": "vali", "meaning": { "base_language": "pain" } },
+      { "correct_answer": "மலி", "pronunciation": "mali", "meaning": { "base_language": "to overflow" } },
+      { "correct_answer": "தலி", "pronunciation": "thali", "meaning": { "base_language": "wedding chain" } },
+      { "correct_answer": "கலி", "pronunciation": "kali", "meaning": { "base_language": "playfulness" } },
+      { "correct_answer": "சலி", "pronunciation": "sali", "meaning": { "base_language": "annoyance" } },
+      { "correct_answer": "பலி", "pronunciation": "pali", "meaning": { "base_language": "sacrific" } },
+      { "correct_answer": "அலி", "pronunciation": "ali", "meaning": { "base_language": "compassion" } },
+      { "correct_answer": "நலி", "pronunciation": "nali", "meaning": { "base_language": "distress" } },
+      { "correct_answer": "ஒலி", "pronunciation": "oli", "meaning": { "base_language": "sound" } },
+      { "correct_answer": "முழலி", "pronunciation": "muzhali", "meaning": { "base_language": "roaring sound" } },
+      { "correct_answer": "அழலி", "pronunciation": "azhali", "meaning": { "base_language": "whirlpool" } },
+      { "correct_answer": "தொலி", "pronunciation": "tholi", "meaning": { "base_language": "ancient" } },
+      { "correct_answer": "கொலி", "pronunciation": "koli", "meaning": { "base_language": "murder" } },
+      { "correct_answer": "பொலி", "pronunciation": "poli", "meaning": { "base_language": "fake/false" } },
+      { "correct_answer": "சொலி", "pronunciation": "soli", "meaning": { "base_language": "word/sound" } },
+      { "correct_answer": "தொளி", "pronunciation": "tholi", "meaning": { "base_language": "clarity" } },
+      { "correct_answer": "நொலி", "pronunciation": "noli", "meaning": { "base_language": "injury" } },
+      { "correct_answer": "மொலி", "pronunciation": "moli", "meaning": { "base_language": "language" } },
+      { "correct_answer": "வொலி", "pronunciation": "voli", "meaning": { "base_language": "echo" } },
+      { "correct_answer": "சுழலி", "pronunciation": "suzhali", "meaning": { "base_language": "cyclone" } },
+      { "correct_answer": "மழலி", "pronunciation": "mazhali", "meaning": { "base_language": "child talk" } },
+      { "correct_answer": "தாழலி", "pronunciation": "thazhali", "meaning": { "base_language": "embrace" } },
+  
+      { "correct_answer": "அழகிலி", "pronunciation": "azhagili", "meaning": { "base_language": "beautiful parrot" } },
+      { "correct_answer": "மனலி", "pronunciation": "manali", "meaning": { "base_language": "bride" } },
+      { "correct_answer": "தனலி", "pronunciation": "thanali", "meaning": { "base_language": "personal suffering" } },
+      { "correct_answer": "கனலி", "pronunciation": "kanali", "meaning": { "base_language": "heat wave" } },
+      { "correct_answer": "சனலி", "pronunciation": "shanali", "meaning": { "base_language": "crowd noise" } },
+      { "correct_answer": "பனலி", "pronunciation": "panali", "meaning": { "base_language": "snowfall" } },
+      { "correct_answer": "நனலி", "pronunciation": "nanali", "meaning": { "base_language": "benefit" } },
+      { "correct_answer": "மணலி", "pronunciation": "manali", "meaning": { "base_language": "a place name (Manali)" } },
+      { "correct_answer": "கலிபு", "pronunciation": "kalibu", "meaning": { "base_language": "strength" } },
+      { "correct_answer": "வலிமை", "pronunciation": "valimai", "meaning": { "base_language": "power/strength" } },
+      { "correct_answer": "தலிர்", "pronunciation": "thalir", "meaning": { "base_language": "sprout" } },
+      { "correct_answer": "மலிவு", "pronunciation": "malivu", "meaning": { "base_language": "cheapness" } },
+      { "correct_answer": "பலிவு", "pronunciation": "palivu", "meaning": { "base_language": "revenge" } },
+      { "correct_answer": "சலிப்பு", "pronunciation": "salippu", "meaning": { "base_language": "boredom" } },
+      { "correct_answer": "கலிப்பு", "pronunciation": "kalippu", "meaning": { "base_language": "excitement" } },
+      { "correct_answer": "மலிந்த", "pronunciation": "malindha", "meaning": { "base_language": "filled" } },
+      { "correct_answer": "வலிந்து", "pronunciation": "valinthu", "meaning": { "base_language": "forced" } },
+      { "correct_answer": "தலிகள்", "pronunciation": "thaligal", "meaning": { "base_language": "sprouts" } }
+      
+    ]
+  }
+]

@@ -1,0 +1,311 @@
+[
+  {
+    
+    "title": "Tamil Vowel Letter உ (u)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "உடல்",
+        "pronunciation": "udal",
+        "meaning": { "base_language": "body" }
+      },
+      {
+        "id": 2,
+        "correct_answer": "உலகம்",
+        "pronunciation": "ulagam",
+        "meaning": { "base_language": "world" }
+      },
+      {
+        "id": 3,
+        "correct_answer": "உணவு",
+        "pronunciation": "unavu",
+        "meaning": { "base_language": "food" }
+      },
+      {
+        "id": 4,
+        "correct_answer": "உதவி",
+        "pronunciation": "udhavi",
+        "meaning": { "base_language": "help" }
+      },
+      {
+        "id": 5,
+        "correct_answer": "உழவன்",
+        "pronunciation": "uzhavan",
+        "meaning": { "base_language": "farmer" }
+      },
+      {
+        "id": 6,
+        "correct_answer": "உருள்",
+        "pronunciation": "urul",
+        "meaning": { "base_language": "sphere" }
+      },
+      {
+        "id": 7,
+        "correct_answer": "உறக்கம்",
+        "pronunciation": "urakkam",
+        "meaning": { "base_language": "sleep" }
+      },
+      {
+        "id": 8,
+        "correct_answer": "உண்மை",
+        "pronunciation": "unmai",
+        "meaning": { "base_language": "truth" }
+      },
+      {
+        "id": 9,
+        "correct_answer": "உறவு",
+        "pronunciation": "uravu",
+        "meaning": { "base_language": "relationship" }
+      },
+      {
+        "id": 10,
+        "correct_answer": "உழைப்பு",
+        "pronunciation": "uzhaippu",
+        "meaning": { "base_language": "hard work" }
+      },
+      {
+        "id": 11,
+        "correct_answer": "உரை",
+        "pronunciation": "urai",
+        "meaning": { "base_language": "speech" }
+      },
+      {
+        "id": 12,
+        "correct_answer": "உற்சாகம்",
+        "pronunciation": "urchaagam",
+        "meaning": { "base_language": "enthusiasm" }
+      },
+      {
+        "id": 13,
+        "correct_answer": "உயிர்",
+        "pronunciation": "uyir",
+        "meaning": { "base_language": "life" }
+      },
+      {
+        "id": 14,
+        "correct_answer": "உறுதி",
+        "pronunciation": "uruthi",
+        "meaning": { "base_language": "strength" }
+      },
+      {
+        "id": 15,
+        "correct_answer": "உணர்வு",
+        "pronunciation": "unarvu",
+        "meaning": { "base_language": "feeling" }
+      },
+      {
+        "id": 16,
+        "correct_answer": "உயரம்",
+        "pronunciation": "uyaram",
+        "meaning": { "base_language": "height" }
+      },
+      {
+        "id": 17,
+        "correct_answer": "உதாரணம்",
+        "pronunciation": "udaaranam",
+        "meaning": { "base_language": "example" }
+      },
+      {
+        "id": 18,
+        "correct_answer": "உழைப்பு",
+        "pronunciation": "uzhaippu",
+        "meaning": { "base_language": "effort" }
+      },
+      {
+        "id": 19,
+        "correct_answer": "உறங்கல்",
+        "pronunciation": "urangal",
+        "meaning": { "base_language": "sleeping" }
+      },
+      {
+        "id": 20,
+        "correct_answer": "உலோகம்",
+        "pronunciation": "uloham",
+        "meaning": { "base_language": "metal" }
+      },
+      {
+        "id": 21,
+        "correct_answer": "உயிரியல்",
+        "pronunciation": "uyiriyal",
+        "meaning": { "base_language": "biology" }
+      },
+      {
+        "id": 22,
+        "correct_answer": "உயர்வு",
+        "pronunciation": "uyarvu",
+        "meaning": { "base_language": "growth" }
+      },
+      {
+        "id": 23,
+        "correct_answer": "உறுதி மொழி",
+        "pronunciation": "uruthi mozhi",
+        "meaning": { "base_language": "promise" }
+      },
+      {
+        "id": 24,
+        "correct_answer": "உணவகம்",
+        "pronunciation": "unavagam",
+        "meaning": { "base_language": "restaurant" }
+      },
+      {
+        "id": 25,
+        "correct_answer": "உணர்ச்சி",
+        "pronunciation": "unarcci",
+        "meaning": { "base_language": "emotion" }
+      },
+      {
+        "id": 26,
+        "correct_answer": "உலகமயம்",
+        "pronunciation": "ulagamayam",
+        "meaning": { "base_language": "globalization" }
+      },
+      {
+        "id": 27,
+        "correct_answer": "உறைவிடம்",
+        "pronunciation": "uraividam",
+        "meaning": { "base_language": "residence" }
+      },
+      {
+        "id": 28,
+        "correct_answer": "உடைமை",
+        "pronunciation": "udaimai",
+        "meaning": { "base_language": "property" }
+      },
+      {
+        "id": 29,
+        "correct_answer": "உபயோகம்",
+        "pronunciation": "ubayogam",
+        "meaning": { "base_language": "usage" }
+      },
+      {
+        "id": 30,
+        "correct_answer": "உறவு நிலை",
+        "pronunciation": "uravu nilai",
+        "meaning": { "base_language": "status of relationship" }
+      },
+      {
+        "id": 31,
+        "correct_answer": "உணவு பழக்கம்",
+        "pronunciation": "unavu pazhakkam",
+        "meaning": { "base_language": "food habit" }
+      },
+      {
+        "id": 32,
+        "correct_answer": "உணர்வியல்",
+        "pronunciation": "unarviyal",
+        "meaning": { "base_language": "psychology" }
+      },
+      {
+        "id": 33,
+        "correct_answer": "உலக பாரம்பரியம்",
+        "pronunciation": "ulaga paarambaraiyam",
+        "meaning": { "base_language": "world heritage" }
+      },
+      {
+        "id": 34,
+        "correct_answer": "உயிர்காக்கும்",
+        "pronunciation": "uyir kaakkum",
+        "meaning": { "base_language": "life saving" }
+      },
+      {
+        "id": 35,
+        "correct_answer": "உறவினர்",
+        "pronunciation": "uravinar",
+        "meaning": { "base_language": "relatives" }
+      },
+      {
+        "id": 36,
+        "correct_answer": "உடற்பயிற்சி",
+        "pronunciation": "udarpayirchi",
+        "meaning": { "base_language": "exercise" }
+      },
+      {
+        "id": 37,
+        "correct_answer": "உயிர்வாழ்வு",
+        "pronunciation": "uyir vaazhvhu",
+        "meaning": { "base_language": "survival" }
+      },
+      {
+        "id": 38,
+        "correct_answer": "உண்மையாளர்",
+        "pronunciation": "unmaiyaalar",
+        "meaning": { "base_language": "truthful person" }
+      },
+      {
+        "id": 39,
+        "correct_answer": "உறுதியான",
+        "pronunciation": "uruthiyaana",
+        "meaning": { "base_language": "firm" }
+      },
+      {
+        "id": 40,
+        "correct_answer": "உருவகம்",
+        "pronunciation": "uruvagam",
+        "meaning": { "base_language": "metaphor" }
+      },
+      {
+        "id": 41,
+        "correct_answer": "உயிர்ப்பிக்க",
+        "pronunciation": "uyirppikka",
+        "meaning": { "base_language": "revive" }
+      },
+      {
+        "id": 42,
+        "correct_answer": "உழைப்பாளர்",
+        "pronunciation": "uzhaippaalar",
+        "meaning": { "base_language": "worker" }
+      },
+      {
+        "id": 43,
+        "correct_answer": "உற்சாகமான",
+        "pronunciation": "urchaagamaana",
+        "meaning": { "base_language": "cheerful" }
+      },
+      {
+        "id": 44,
+        "correct_answer": "உறுப்பு",
+        "pronunciation": "uruppu",
+        "meaning": { "base_language": "organ" }
+      },
+      {
+        "id": 45,
+        "correct_answer": "உபகரணம்",
+        "pronunciation": "upakaranam",
+        "meaning": { "base_language": "instrument" }
+      },
+      {
+        "id": 46,
+        "correct_answer": "உதவியாளர்",
+        "pronunciation": "udhaviyaalar",
+        "meaning": { "base_language": "assistant" }
+      },
+      {
+        "id": 47,
+        "correct_answer": "உரிமை",
+        "pronunciation": "urimai",
+        "meaning": { "base_language": "right" }
+      },
+      {
+        "id": 48,
+        "correct_answer": "உண்மையுணர்வு",
+        "pronunciation": "unmaiyunarvu",
+        "meaning": { "base_language": "consciousness" }
+      },
+      {
+        "id": 49,
+        "correct_answer": "உருகல்",
+        "pronunciation": "urugal",
+        "meaning": { "base_language": "melting" }
+      },
+      {
+        "id": 50,
+        "correct_answer": "உறுதியுரை",
+        "pronunciation": "uruthi urai",
+        "meaning": { "base_language": "declaration" }
+      }
+    ]
+  }
+]

@@ -1,0 +1,311 @@
+[
+  {
+ 
+    "title": "Tamil Vowel Letter ஆ (aa)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "ஆடு",
+        "pronunciation": "aadu",
+        "meaning": { "base_language": "goat" }
+      },
+      {
+        "id": 2,
+        "correct_answer": "ஆமை",
+        "pronunciation": "aamai",
+        "meaning": { "base_language": "tortoise" }
+      },
+      {
+        "id": 3,
+        "correct_answer": "ஆசிரியர்",
+        "pronunciation": "aasiriyar",
+        "meaning": { "base_language": "teacher" }
+      },
+      {
+        "id": 4,
+        "correct_answer": "ஆரோக்கியம்",
+        "pronunciation": "aarokkiyam",
+        "meaning": { "base_language": "health" }
+      },
+      {
+        "id": 5,
+        "correct_answer": "ஆடை",
+        "pronunciation": "aadai",
+        "meaning": { "base_language": "dress" }
+      },
+      {
+        "id": 6,
+        "correct_answer": "ஆபத்து",
+        "pronunciation": "aabathu",
+        "meaning": { "base_language": "danger" }
+      },
+      {
+        "id": 7,
+        "correct_answer": "ஆசை",
+        "pronunciation": "aasai",
+        "meaning": { "base_language": "desire" }
+      },
+      {
+        "id": 8,
+        "correct_answer": "ஆற்றல்",
+        "pronunciation": "aatral",
+        "meaning": { "base_language": "energy" }
+      },
+      {
+        "id": 9,
+        "correct_answer": "ஆனந்தம்",
+        "pronunciation": "aanandam",
+        "meaning": { "base_language": "happiness" }
+      },
+      {
+        "id": 10,
+        "correct_answer": "ஆலை",
+        "pronunciation": "aalai",
+        "meaning": { "base_language": "factory" }
+      },
+      {
+        "id": 11,
+        "correct_answer": "ஆட்சி",
+        "pronunciation": "aatchi",
+        "meaning": { "base_language": "rule" }
+      },
+      {
+        "id": 12,
+        "correct_answer": "ஆசுவாசம்",
+        "pronunciation": "aasuvaasam",
+        "meaning": { "base_language": "relief" }
+      },
+      {
+        "id": 13,
+        "correct_answer": "ஆதவன்",
+        "pronunciation": "aadhavan",
+        "meaning": { "base_language": "sun" }
+      },
+      {
+        "id": 14,
+        "correct_answer": "ஆயுதம்",
+        "pronunciation": "aayudham",
+        "meaning": { "base_language": "weapon" }
+      },
+      {
+        "id": 15,
+        "correct_answer": "ஆவணம்",
+        "pronunciation": "aavanam",
+        "meaning": { "base_language": "document" }
+      },
+      {
+        "id": 16,
+        "correct_answer": "ஆவி",
+        "pronunciation": "aavi",
+        "meaning": { "base_language": "spirit" }
+      },
+      {
+        "id": 17,
+        "correct_answer": "ஆவலர்",
+        "pronunciation": "aavalar",
+        "meaning": { "base_language": "volunteer" }
+      },
+      {
+        "id": 18,
+        "correct_answer": "ஆசுவாசி",
+        "pronunciation": "aasuvaasi",
+        "meaning": { "base_language": "patient" }
+      },
+      {
+        "id": 19,
+        "correct_answer": "ஆடம்பரம்",
+        "pronunciation": "aadambaram",
+        "meaning": { "base_language": "luxury" }
+      },
+      {
+        "id": 20,
+        "correct_answer": "ஆச்சரியம்",
+        "pronunciation": "aachariyam",
+        "meaning": { "base_language": "surprise" }
+      },
+      {
+        "id": 21,
+        "correct_answer": "ஆரோக்கியர்",
+        "pronunciation": "aarokkiyar",
+        "meaning": { "base_language": "healthy person" }
+      },
+      {
+        "id": 22,
+        "correct_answer": "ஆற்றுப்படை",
+        "pronunciation": "aatrupadai",
+        "meaning": { "base_language": "guidance" }
+      },
+      {
+        "id": 23,
+        "correct_answer": "ஆதாரம்",
+        "pronunciation": "aadharam",
+        "meaning": { "base_language": "proof" }
+      },
+      {
+        "id": 24,
+        "correct_answer": "ஆணை",
+        "pronunciation": "aanai",
+        "meaning": { "base_language": "order" }
+      },
+      {
+        "id": 25,
+        "correct_answer": "ஆடல்",
+        "pronunciation": "aadal",
+        "meaning": { "base_language": "dance" }
+      },
+      {
+        "id": 26,
+        "correct_answer": "ஆயுள்",
+        "pronunciation": "aayul",
+        "meaning": { "base_language": "life span" }
+      },
+      {
+        "id": 27,
+        "correct_answer": "ஆவணம்",
+        "pronunciation": "aavanam",
+        "meaning": { "base_language": "file" }
+      },
+      {
+        "id": 28,
+        "correct_answer": "ஆகாசம்",
+        "pronunciation": "aagasam",
+        "meaning": { "base_language": "sky" }
+      },
+      {
+        "id": 29,
+        "correct_answer": "ஆலயம்",
+        "pronunciation": "aalayam",
+        "meaning": { "base_language": "temple" }
+      },
+      {
+        "id": 30,
+        "correct_answer": "ஆழம்",
+        "pronunciation": "aazham",
+        "meaning": { "base_language": "depth" }
+      },
+      {
+        "id": 31,
+        "correct_answer": "ஆற்றுப்படைத்தல்",
+        "pronunciation": "aatrupadaithal",
+        "meaning": { "base_language": "encouragement" }
+      },
+      {
+        "id": 32,
+        "correct_answer": "ஆறுதல்",
+        "pronunciation": "aaruthal",
+        "meaning": { "base_language": "consolation" }
+      },
+      {
+        "id": 33,
+        "correct_answer": "ஆடம்பரமான",
+        "pronunciation": "aadambaramana",
+        "meaning": { "base_language": "grand" }
+      },
+      {
+        "id": 34,
+        "correct_answer": "ஆராய்ச்சி",
+        "pronunciation": "aaraatchi",
+        "meaning": { "base_language": "research" }
+      },
+      {
+        "id": 35,
+        "correct_answer": "ஆட்சேர்ப்பு",
+        "pronunciation": "aatcherppu",
+        "meaning": { "base_language": "recruitment" }
+      },
+      {
+        "id": 36,
+        "correct_answer": "ஆட்சி தலைவர்",
+        "pronunciation": "aatchi thalaivar",
+        "meaning": { "base_language": "ruler" }
+      },
+      {
+        "id": 37,
+        "correct_answer": "ஆரம்பம்",
+        "pronunciation": "aarambam",
+        "meaning": { "base_language": "beginning" }
+      },
+      {
+        "id": 38,
+        "correct_answer": "ஆய்வகம்",
+        "pronunciation": "aayvagam",
+        "meaning": { "base_language": "laboratory" }
+      },
+      {
+        "id": 39,
+        "correct_answer": "ஆதரவு",
+        "pronunciation": "aadharavu",
+        "meaning": { "base_language": "support" }
+      },
+      {
+        "id": 40,
+        "correct_answer": "ஆவணம் பதிவு",
+        "pronunciation": "aavanam padhivu",
+        "meaning": { "base_language": "document record" }
+      },
+      {
+        "id": 41,
+        "correct_answer": "ஆடுகள்",
+        "pronunciation": "aadugal",
+        "meaning": { "base_language": "goats" }
+      },
+      {
+        "id": 42,
+        "correct_answer": "ஆசீர்வாதம்",
+        "pronunciation": "aasirvaadam",
+        "meaning": { "base_language": "blessing" }
+      },
+      {
+        "id": 43,
+        "correct_answer": "ஆழ்வார்",
+        "pronunciation": "aazhvaar",
+        "meaning": { "base_language": "Tamil saint" }
+      },
+      {
+        "id": 44,
+        "correct_answer": "ஆட்சி முறை",
+        "pronunciation": "aatchi murai",
+        "meaning": { "base_language": "governance" }
+      },
+      {
+        "id": 45,
+        "correct_answer": "ஆயிரம்",
+        "pronunciation": "aayiram",
+        "meaning": { "base_language": "thousand" }
+      },
+      {
+        "id": 46,
+        "correct_answer": "ஆண்டு",
+        "pronunciation": "aandu",
+        "meaning": { "base_language": "year" }
+      },
+      {
+        "id": 47,
+        "correct_answer": "ஆவணக்காப்பகம்",
+        "pronunciation": "aavanakkaapagam",
+        "meaning": { "base_language": "archive" }
+      },
+      {
+        "id": 48,
+        "correct_answer": "ஆட்சி அதிகாரி",
+        "pronunciation": "aatchi adhikari",
+        "meaning": { "base_language": "administrator" }
+      },
+      {
+        "id": 49,
+        "correct_answer": "ஆசை வார்த்தை",
+        "pronunciation": "aasai vaarthai",
+        "meaning": { "base_language": "loving word" }
+      },
+      {
+        "id": 50,
+        "correct_answer": "ஆணவம்",
+        "pronunciation": "aanavam",
+        "meaning": { "base_language": "arrogance" }
+      }
+    ]
+  }
+]

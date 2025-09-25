@@ -1,0 +1,411 @@
+[
+  {
+   
+    "title": "Tamil Vowel Letter ஓ (oo)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "ஓடு",
+        "pronunciation": "oodu",
+        "meaning": {
+          "base_language": "run"
+        }
+      },
+      {
+        "id": 2,
+        "correct_answer": "ஓய்வு",
+        "pronunciation": "oyvu",
+        "meaning": {
+          "base_language": "rest"
+        }
+      },
+      {
+        "id": 3,
+        "correct_answer": "ஓசை",
+        "pronunciation": "osai",
+        "meaning": {
+          "base_language": "sound"
+        }
+      },
+      {
+        "id": 4,
+        "correct_answer": "ஓணம்",
+        "pronunciation": "onam",
+        "meaning": {
+          "base_language": "festival"
+        }
+      },
+      {
+        "id": 5,
+        "correct_answer": "ஓவியம்",
+        "pronunciation": "oviyam",
+        "meaning": {
+          "base_language": "painting"
+        }
+      },
+      {
+        "id": 6,
+        "correct_answer": "ஓசூர்",
+        "pronunciation": "osoor",
+        "meaning": {
+          "base_language": "village name"
+        }
+      },
+      {
+        "id": 7,
+        "correct_answer": "ஓவியர்",
+        "pronunciation": "oviyar",
+        "meaning": {
+          "base_language": "painter"
+        }
+      },
+      {
+        "id": 8,
+        "correct_answer": "ஓலை",
+        "pronunciation": "olai",
+        "meaning": {
+          "base_language": "palm leaf"
+        }
+      },
+      {
+        "id": 9,
+        "correct_answer": "ஓசை அலை",
+        "pronunciation": "osai alai",
+        "meaning": {
+          "base_language": "sound wave"
+        }
+      },
+      {
+        "id": 10,
+        "correct_answer": "ஓணம் விழா",
+        "pronunciation": "onam vizha",
+        "meaning": {
+          "base_language": "Onam festival"
+        }
+      },
+      {
+        "id": 11,
+        "correct_answer": "ஓடம்",
+        "pronunciation": "odam",
+        "meaning": {
+          "base_language": "boat"
+        }
+      },
+      {
+        "id": 12,
+        "correct_answer": "ஓலைச்சுவடி",
+        "pronunciation": "olaichuvadi",
+        "meaning": {
+          "base_language": "palm manuscript"
+        }
+      },
+      {
+        "id": 13,
+        "correct_answer": "ஓங்கி",
+        "pronunciation": "ongi",
+        "meaning": {
+          "base_language": "tall"
+        }
+      },
+      {
+        "id": 14,
+        "correct_answer": "ஓட்டம்",
+        "pronunciation": "ottam",
+        "meaning": {
+          "base_language": "race"
+        }
+      },
+      {
+        "id": 15,
+        "correct_answer": "ஓமம்",
+        "pronunciation": "omam",
+        "meaning": {
+          "base_language": "herbal seed"
+        }
+      },
+      {
+        "id": 16,
+        "correct_answer": "ஓசோன்",
+        "pronunciation": "ozone",
+        "meaning": {
+          "base_language": "ozone"
+        }
+      },
+      {
+        "id": 17,
+        "correct_answer": "ஓலை ஓவியம்",
+        "pronunciation": "olai oviyam",
+        "meaning": {
+          "base_language": "leaf art"
+        }
+      },
+      {
+        "id": 18,
+        "correct_answer": "ஓவியக் கலை",
+        "pronunciation": "oviyak kalai",
+        "meaning": {
+          "base_language": "art of painting"
+        }
+      },
+      {
+        "id": 19,
+        "correct_answer": "ஓசை மொழி",
+        "pronunciation": "osai mozhi",
+        "meaning": {
+          "base_language": "spoken language"
+        }
+      },
+      {
+        "id": 20,
+        "correct_answer": "ஓமப்பொடி",
+        "pronunciation": "omapodi",
+        "meaning": {
+          "base_language": "snack item"
+        }
+      },
+      {
+        "id": 21,
+        "correct_answer": "ஓங்கி வளர",
+        "pronunciation": "ongi valara",
+        "meaning": {
+          "base_language": "grow tall"
+        }
+      },
+      {
+        "id": 22,
+        "correct_answer": "ஓடுபவர்",
+        "pronunciation": "oodupavar",
+        "meaning": {
+          "base_language": "runner"
+        }
+      },
+      {
+        "id": 23,
+        "correct_answer": "ஓய்வு நேரம்",
+        "pronunciation": "oyvu neram",
+        "meaning": {
+          "base_language": "break time"
+        }
+      },
+      {
+        "id": 24,
+        "correct_answer": "ஓவிய அறை",
+        "pronunciation": "oviya arai",
+        "meaning": {
+          "base_language": "art room"
+        }
+      },
+      {
+        "id": 25,
+        "correct_answer": "ஓங்கி நிற்கும்",
+        "pronunciation": "ongi nirkum",
+        "meaning": {
+          "base_language": "standing tall"
+        }
+      },
+      {
+        "id": 26,
+        "correct_answer": "ஓசை பாடல்",
+        "pronunciation": "osai paadal",
+        "meaning": {
+          "base_language": "melody"
+        }
+      },
+      {
+        "id": 27,
+        "correct_answer": "ஓட்டப்பந்தயம்",
+        "pronunciation": "ottapandhayam",
+        "meaning": {
+          "base_language": "running race"
+        }
+      },
+      {
+        "id": 28,
+        "correct_answer": "ஓடுபாதை",
+        "pronunciation": "oodu paathai",
+        "meaning": {
+          "base_language": "track"
+        }
+      },
+      {
+        "id": 29,
+        "correct_answer": "ஓவிய போட்டி",
+        "pronunciation": "oviya poatti",
+        "meaning": {
+          "base_language": "painting competition"
+        }
+      },
+      {
+        "id": 30,
+        "correct_answer": "ஓம வாட்டல்",
+        "pronunciation": "oma vaattal",
+        "meaning": {
+          "base_language": "herbal treatment"
+        }
+      },
+      {
+        "id": 31,
+        "correct_answer": "ஓய்வு இல்லம்",
+        "pronunciation": "oyvu illam",
+        "meaning": {
+          "base_language": "retirement home"
+        }
+      },
+      {
+        "id": 32,
+        "correct_answer": "ஓலைக்குடை",
+        "pronunciation": "olaikudai",
+        "meaning": {
+          "base_language": "palm umbrella"
+        }
+      },
+      {
+        "id": 33,
+        "correct_answer": "ஓசை ஒலி",
+        "pronunciation": "osai oli",
+        "meaning": {
+          "base_language": "echo sound"
+        }
+      },
+      {
+        "id": 34,
+        "correct_answer": "ஓங்கி வளர்ந்த",
+        "pronunciation": "ongi valarntha",
+        "meaning": {
+          "base_language": "grown tall"
+        }
+      },
+      {
+        "id": 35,
+        "correct_answer": "ஓடை",
+        "pronunciation": "odai",
+        "meaning": {
+          "base_language": "stream"
+        }
+      },
+      {
+        "id": 36,
+        "correct_answer": "ஓலை ஓலை",
+        "pronunciation": "olai olai",
+        "meaning": {
+          "base_language": "rustling leaves"
+        }
+      },
+      {
+        "id": 37,
+        "correct_answer": "ஓர் நாள்",
+        "pronunciation": "or naal",
+        "meaning": {
+          "base_language": "one day"
+        }
+      },
+      {
+        "id": 38,
+        "correct_answer": "ஓலைச்சுவர்",
+        "pronunciation": "olaichuvar",
+        "meaning": {
+          "base_language": "leaf wall"
+        }
+      },
+      {
+        "id": 39,
+        "correct_answer": "ஓவியக் கண்காட்சி",
+        "pronunciation": "oviyak kankatchi",
+        "meaning": {
+          "base_language": "art exhibition"
+        }
+      },
+      {
+        "id": 40,
+        "correct_answer": "ஓசை மழை",
+        "pronunciation": "osai mazhai",
+        "meaning": {
+          "base_language": "sound of rain"
+        }
+      },
+      {
+        "id": 41,
+        "correct_answer": "ஓட்டப்பந்தய வீரர்",
+        "pronunciation": "ottapandhaya veerar",
+        "meaning": {
+          "base_language": "athlete"
+        }
+      },
+      {
+        "id": 42,
+        "correct_answer": "ஓவியப்பணி",
+        "pronunciation": "oviyappani",
+        "meaning": {
+          "base_language": "art work"
+        }
+      },
+      {
+        "id": 43,
+        "correct_answer": "ஓசை இசை",
+        "pronunciation": "osai isai",
+        "meaning": {
+          "base_language": "music sound"
+        }
+      },
+      {
+        "id": 44,
+        "correct_answer": "ஓடுபாதை வரைபடம்",
+        "pronunciation": "oodu paathai varaipadam",
+        "meaning": {
+          "base_language": "track map"
+        }
+      },
+      {
+        "id": 45,
+        "correct_answer": "ஓங்கி நிற்கும் மரம்",
+        "pronunciation": "ongi nirkum maram",
+        "meaning": {
+          "base_language": "tall tree"
+        }
+      },
+      {
+        "id": 46,
+        "correct_answer": "ஓவிய மாணவர்",
+        "pronunciation": "oviya maanavar",
+        "meaning": {
+          "base_language": "art student"
+        }
+      },
+      {
+        "id": 47,
+        "correct_answer": "ஓலை சுவர் ஓவியம்",
+        "pronunciation": "olai suvar oviyam",
+        "meaning": {
+          "base_language": "leaf wall painting"
+        }
+      },
+      {
+        "id": 48,
+        "correct_answer": "ஓசை பதிவு",
+        "pronunciation": "osai padhivu",
+        "meaning": {
+          "base_language": "sound recording"
+        }
+      },
+      {
+        "id": 49,
+        "correct_answer": "ஓம கற்பனை",
+        "pronunciation": "oma karpanai",
+        "meaning": {
+          "base_language": "imagination"
+        }
+      },
+      {
+        "id": 50,
+        "correct_answer": "ஓங்கி நிற்கும் கோபுரம்",
+        "pronunciation": "ongi nirkum gopuram",
+        "meaning": {
+          "base_language": "tall temple tower"
+        }
+      }
+    ]
+  }
+]

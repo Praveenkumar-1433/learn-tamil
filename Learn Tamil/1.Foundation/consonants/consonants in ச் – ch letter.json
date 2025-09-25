@@ -1,0 +1,411 @@
+[
+  {
+ 
+    "title": "Tamil Pure Consonant ச் (ch)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "அச்சு",
+        "pronunciation": "achchu",
+        "meaning": {
+          "base_language": "print"
+        }
+      },
+      {
+        "id": 2,
+        "correct_answer": "இச்சை",
+        "pronunciation": "ichchai",
+        "meaning": {
+          "base_language": "desire"
+        }
+      },
+      {
+        "id": 3,
+        "correct_answer": "உச்சி",
+        "pronunciation": "uchchi",
+        "meaning": {
+          "base_language": "top of head"
+        }
+      },
+      {
+        "id": 4,
+        "correct_answer": "எச்சம்",
+        "pronunciation": "echcham",
+        "meaning": {
+          "base_language": "remainder"
+        }
+      },
+      {
+        "id": 5,
+        "correct_answer": "ஒச்சை",
+        "pronunciation": "ochchai",
+        "meaning": {
+          "base_language": "support"
+        }
+      },
+      {
+        "id": 6,
+        "correct_answer": "பச்சை",
+        "pronunciation": "pachchai",
+        "meaning": {
+          "base_language": "green"
+        }
+      },
+      {
+        "id": 7,
+        "correct_answer": "மச்சம்",
+        "pronunciation": "machcham",
+        "meaning": {
+          "base_language": "fish"
+        }
+      },
+      {
+        "id": 8,
+        "correct_answer": "கச்சா",
+        "pronunciation": "kachchaa",
+        "meaning": {
+          "base_language": "raw"
+        }
+      },
+      {
+        "id": 9,
+        "correct_answer": "துச்சம்",
+        "pronunciation": "thuchcham",
+        "meaning": {
+          "base_language": "trivial"
+        }
+      },
+      {
+        "id": 10,
+        "correct_answer": "நச்சு",
+        "pronunciation": "nachchu",
+        "meaning": {
+          "base_language": "poison"
+        }
+      },
+      {
+        "id": 11,
+        "correct_answer": "தச்சன்",
+        "pronunciation": "thachshan",
+        "meaning": {
+          "base_language": "carpenter"
+        }
+      },
+      {
+        "id": 12,
+        "correct_answer": "கிச்சு",
+        "pronunciation": "kichchu",
+        "meaning": {
+          "base_language": "tickle"
+        }
+      },
+      {
+        "id": 13,
+        "correct_answer": "பிச்சு",
+        "pronunciation": "pichchu",
+        "meaning": {
+          "base_language": "cotton"
+        }
+      },
+      {
+        "id": 14,
+        "correct_answer": "சச்சம்",
+        "pronunciation": "sachcham",
+        "meaning": {
+          "base_language": "truth"
+        }
+      },
+      {
+        "id": 15,
+        "correct_answer": "வச்சு",
+        "pronunciation": "vachchhu",
+        "meaning": {
+          "base_language": "place"
+        }
+      },
+      {
+        "id": 16,
+        "correct_answer": "பச்சாதாபம்",
+        "pronunciation": "pachchaathaapam",
+        "meaning": {
+          "base_language": "repentance"
+        }
+      },
+      {
+        "id": 17,
+        "correct_answer": "இச்சா",
+        "pronunciation": "ichchaa",
+        "meaning": {
+          "base_language": "wish"
+        }
+      },
+      {
+        "id": 18,
+        "correct_answer": "கச்சேரி",
+        "pronunciation": "kachcheri",
+        "meaning": {
+          "base_language": "office"
+        }
+      },
+      {
+        "id": 19,
+        "correct_answer": "மச்சான்",
+        "pronunciation": "machchaan",
+        "meaning": {
+          "base_language": "brother-in-law"
+        }
+      },
+      {
+        "id": 20,
+        "correct_answer": "நச்சரிப்பு",
+        "pronunciation": "nachcharippu",
+        "meaning": {
+          "base_language": "nagging"
+        }
+      },
+      {
+        "id": 21,
+        "correct_answer": "பிச்சை",
+        "pronunciation": "pichchai",
+        "meaning": {
+          "base_language": "begging"
+        }
+      },
+      {
+        "id": 22,
+        "correct_answer": "கச்சிதம்",
+        "pronunciation": "kachchitham",
+        "meaning": {
+          "base_language": "perfection"
+        }
+      },
+      {
+        "id": 23,
+        "correct_answer": "துச்சர்",
+        "pronunciation": "thuchchhar",
+        "meaning": {
+          "base_language": "wicked people"
+        }
+      },
+      {
+        "id": 24,
+        "correct_answer": "உச்சரிப்பு",
+        "pronunciation": "uchcharippu",
+        "meaning": {
+          "base_language": "pronunciation"
+        }
+      },
+      {
+        "id": 25,
+        "correct_answer": "சச்சிதானந்தம்",
+        "pronunciation": "sachchithanandam",
+        "meaning": {
+          "base_language": "absolute bliss"
+        }
+      },
+      {
+        "id": 26,
+        "correct_answer": "வச்சிரம்",
+        "pronunciation": "vachchram",
+        "meaning": {
+          "base_language": "diamond"
+        }
+      },
+      {
+        "id": 27,
+        "correct_answer": "பச்சிளம்",
+        "pronunciation": "pachchilam",
+        "meaning": {
+          "base_language": "tender green"
+        }
+      },
+      {
+        "id": 28,
+        "correct_answer": "இச்சமரம்",
+        "pronunciation": "ichchamaram",
+        "meaning": {
+          "base_language": "wish-fulfilling tree"
+        }
+      },
+      {
+        "id": 29,
+        "correct_answer": "கச்சகம்",
+        "pronunciation": "kachchakam",
+        "meaning": {
+          "base_language": "waistband"
+        }
+      },
+      {
+        "id": 30,
+        "correct_answer": "நச்சாரம்",
+        "pronunciation": "nachcharram",
+        "meaning": {
+          "base_language": "nuisance"
+        }
+      },
+      {
+        "id": 31,
+        "correct_answer": "மச்சல்",
+        "pronunciation": "machchal",
+        "meaning": {
+          "base_language": "stain"
+        }
+      },
+      {
+        "id": 32,
+        "correct_answer": "அச்சம்",
+        "pronunciation": "achcham",
+        "meaning": {
+          "base_language": "fear"
+        }
+      },
+      {
+        "id": 33,
+        "correct_answer": "பச்சிக்கு",
+        "pronunciation": "pachchikku",
+        "meaning": {
+          "base_language": "to hunger"
+        }
+      },
+      {
+        "id": 34,
+        "correct_answer": "குச்சி",
+        "pronunciation": "kuchchi",
+        "meaning": {
+          "base_language": "stick"
+        }
+      },
+      {
+        "id": 35,
+        "correct_answer": "பிச்சுக்கு",
+        "pronunciation": "pichchukku",
+        "meaning": {
+          "base_language": "to beg"
+        }
+      },
+      {
+        "id": 36,
+        "correct_answer": "ரச்சகம்",
+        "pronunciation": "rachchakam",
+        "meaning": {
+          "base_language": "protection"
+        }
+      },
+      {
+        "id": 37,
+        "correct_answer": "மூச்சு",
+        "pronunciation": "moochchu",
+        "meaning": {
+          "base_language": "breath"
+        }
+      },
+      {
+        "id": 38,
+        "correct_answer": "தொச்சுக்கல்",
+        "pronunciation": "thochchukkal",
+        "meaning": {
+          "base_language": "hanging"
+        }
+      },
+      {
+        "id": 39,
+        "correct_answer": "எச்சரிக்கை",
+        "pronunciation": "echchkarikkai",
+        "meaning": {
+          "base_language": "warning"
+        }
+      },
+      {
+        "id": 40,
+        "correct_answer": "வெச்சு",
+        "pronunciation": "vechchhu",
+        "meaning": {
+          "base_language": "hot"
+        }
+      },
+      {
+        "id": 41,
+        "correct_answer": "இச்சுக",
+        "pronunciation": "ichchuka",
+        "meaning": {
+          "base_language": "to desire"
+        }
+      },
+      {
+        "id": 42,
+        "correct_answer": "பச்சையப்பா",
+        "pronunciation": "pachchaiyappaa",
+        "meaning": {
+          "base_language": "completely green"
+        }
+      },
+      {
+        "id": 43,
+        "correct_answer": "நச்சு நல்லம்",
+        "pronunciation": "nachchu nallam",
+        "meaning": {
+          "base_language": "poison good"
+        }
+      },
+      {
+        "id": 44,
+        "correct_answer": "வச்சுக்கு",
+        "pronunciation": "vachchukku",
+        "meaning": {
+          "base_language": "to keep"
+        }
+      },
+      {
+        "id": 45,
+        "correct_answer": "எச்சில்",
+        "pronunciation": "echchil",
+        "meaning": {
+          "base_language": "saliva"
+        }
+      },
+      {
+        "id": 46,
+        "correct_answer": "பச்சாத் தாப்பு",
+        "pronunciation": "pachchaath thaappu",
+        "meaning": {
+          "base_language": "regret"
+        }
+      },
+      {
+        "id": 47,
+        "correct_answer": "அச்சுக்கோல்",
+        "pronunciation": "achchukkol",
+        "meaning": {
+          "base_language": "measuring rod"
+        }
+      },
+      {
+        "id": 48,
+        "correct_answer": "உச்சமாம்",
+        "pronunciation": "uchchamaam",
+        "meaning": {
+          "base_language": "highest"
+        }
+      },
+      {
+        "id": 49,
+        "correct_answer": "கிச்சுக்கிச்சு",
+        "pronunciation": "kichchukkichchu",
+        "meaning": {
+          "base_language": "tickling sound"
+        }
+      },
+      {
+        "id": 50,
+        "correct_answer": "இச்சுக்கள்",
+        "pronunciation": "ichchukkal",
+        "meaning": {
+          "base_language": "desires"
+        }
+      }
+    ]
+  }
+]

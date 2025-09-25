@@ -1,0 +1,317 @@
+[
+  {
+  
+    "title": "Tamil Vowel Letter ஊ (uu)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "ஊர்",
+        "pronunciation": "oor",
+        "meaning": { "base_language": "village / town" }
+      },
+      {
+        "id": 2,
+        "correct_answer": "ஊசி",
+        "pronunciation": "ooci",
+        "meaning": { "base_language": "needle" }
+      },
+      {
+        "id": 3,
+        "correct_answer": "ஊட்டி",
+        "pronunciation": "ooty",
+        "meaning": { "base_language": "a hill station" }
+      },
+      {
+        "id": 4,
+        "correct_answer": "ஊதல்",
+        "pronunciation": "oodhal",
+        "meaning": { "base_language": "blowing" }
+      },
+      {
+        "id": 5,
+        "correct_answer": "ஊமை",
+        "pronunciation": "oomai",
+        "meaning": { "base_language": "mute" }
+      },
+      {
+        "id": 6,
+        "correct_answer": "ஊர்வலம்",
+        "pronunciation": "oorvalam",
+        "meaning": { "base_language": "procession" }
+      },
+      {
+        "id": 7,
+        "correct_answer": "ஊழியம்",
+        "pronunciation": "oozhiyam",
+        "meaning": { "base_language": "service" }
+      },
+      {
+        "id": 8,
+        "correct_answer": "ஊக்கம்",
+        "pronunciation": "ookkam",
+        "meaning": { "base_language": "encouragement" }
+      },
+      {
+        "id": 9,
+        "correct_answer": "ஊடகம்",
+        "pronunciation": "oodagam",
+        "meaning": { "base_language": "media" }
+      },
+      {
+        "id": 10,
+        "correct_answer": "ஊராட்சி",
+        "pronunciation": "ooratchi",
+        "meaning": { "base_language": "panchayat" }
+      },
+      {
+        "id": 11,
+        "correct_answer": "ஊட்டம்",
+        "pronunciation": "ootam",
+        "meaning": { "base_language": "feeding" }
+      },
+      {
+        "id": 12,
+        "correct_answer": "ஊக்கம் தரும்",
+        "pronunciation": "ookkam tharum",
+        "meaning": { "base_language": "inspiring" }
+      },
+      {
+        "id": 13,
+        "correct_answer": "ஊஞ்சல்",
+        "pronunciation": "oonjal",
+        "meaning": { "base_language": "swing" }
+      },
+      {
+        "id": 14,
+        "correct_answer": "ஊடுருவல்",
+        "pronunciation": "ooduruvval",
+        "meaning": { "base_language": "penetration" }
+      },
+      {
+        "id": 15,
+        "correct_answer": "ஊழியர்",
+        "pronunciation": "oozhiyar",
+        "meaning": { "base_language": "employee" }
+      },
+      {
+        "id": 16,
+        "correct_answer": "ஊர்தி",
+        "pronunciation": "oordhi",
+        "meaning": { "base_language": "vehicle" }
+      },
+      {
+        "id": 17,
+        "correct_answer": "ஊற்றம்",
+        "pronunciation": "ootram",
+        "meaning": { "base_language": "spring (water source)" }
+      },
+      {
+        "id": 18,
+        "correct_answer": "ஊர்க்கதை",
+        "pronunciation": "oor kadhai",
+        "meaning": { "base_language": "folk tale" }
+      },
+      {
+        "id": 19,
+        "correct_answer": "ஊர்தி நிலையம்",
+        "pronunciation": "oordhi nilaiyam",
+        "meaning": { "base_language": "station" }
+      },
+      {
+        "id": 20,
+        "correct_answer": "ஊர்ப் பண்டிகை",
+        "pronunciation": "oor pandigai",
+        "meaning": { "base_language": "village festival" }
+      },
+      {
+        "id": 21,
+        "correct_answer": "ஊடகம் மையம்",
+        "pronunciation": "oodagam maiyam",
+        "meaning": { "base_language": "media center" }
+      },
+      {
+        "id": 22,
+        "correct_answer": "ஊர் மக்கள்",
+        "pronunciation": "oor makkal",
+        "meaning": { "base_language": "villagers" }
+      },
+      {
+        "id": 23,
+        "correct_answer": "ஊழியச் சட்டம்",
+        "pronunciation": "oozhiya sattan",
+        "meaning": { "base_language": "labor law" }
+      },
+      {
+        "id": 24,
+        "correct_answer": "ஊசி தைத்து",
+        "pronunciation": "ooci thaiththu",
+        "meaning": { "base_language": "to sew with needle" }
+      },
+      {
+        "id": 25,
+        "correct_answer": "ஊண்விருப்பு",
+        "pronunciation": "oon viruppu",
+        "meaning": { "base_language": "appetite" }
+      },
+      {
+        "id": 26,
+        "correct_answer": "ஊழல்",
+        "pronunciation": "oozhal",
+        "meaning": { "base_language": "corruption" }
+      },
+      {
+        "id": 27,
+        "correct_answer": "ஊழியர் நலம்",
+        "pronunciation": "oozhiyar nalam",
+        "meaning": { "base_language": "employee welfare" }
+      },
+      {
+        "id": 28,
+        "correct_answer": "ஊற்றுநீர்",
+        "pronunciation": "ootru neer",
+        "meaning": { "base_language": "spring water" }
+      },
+      {
+        "id": 29,
+        "correct_answer": "ஊதியம்",
+        "pronunciation": "oodhiyam",
+        "meaning": { "base_language": "salary" }
+      },
+      {
+        "id": 30,
+        "correct_answer": "ஊசி பல்",
+        "pronunciation": "ooci pal",
+        "meaning": { "base_language": "canine tooth" }
+      },
+      {
+        "id": 31,
+        "correct_answer": "ஊராட்சி தலைவர்",
+        "pronunciation": "ooratchi thalaivar",
+        "meaning": { "base_language": "panchayat leader" }
+      },
+      {
+        "id": 32,
+        "correct_answer": "ஊக்கம் மிகு",
+        "pronunciation": "ookkam migu",
+        "meaning": { "base_language": "highly motivated" }
+      },
+      {
+        "id": 33,
+        "correct_answer": "ஊர்வலம் போக",
+        "pronunciation": "oorvalam poga",
+        "meaning": { "base_language": "to go in procession" }
+      },
+      {
+        "id": 34,
+        "correct_answer": "ஊட்டி மலர்",
+        "pronunciation": "ooty malar",
+        "meaning": { "base_language": "flower of Ooty" }
+      },
+      {
+        "id": 35,
+        "correct_answer": "ஊட்டி தேநீர்",
+        "pronunciation": "ooty theneer",
+        "meaning": { "base_language": "Ooty tea" }
+      },
+      {
+        "id": 36,
+        "correct_answer": "ஊர்தி நிலையம்",
+        "pronunciation": "oordhi nilaiyam",
+        "meaning": { "base_language": "bus stand" }
+      },
+      {
+        "id": 37,
+        "correct_answer": "ஊடகம் வழி",
+        "pronunciation": "oodagam vazhi",
+        "meaning": { "base_language": "through media" }
+      },
+      {
+        "id": 38,
+        "correct_answer": "ஊக்கம் ஊட்டி",
+        "pronunciation": "ookkam ootti",
+        "meaning": { "base_language": "to encourage" }
+      },
+      {
+        "id": 39,
+        "correct_answer": "ஊசி குத்து",
+        "pronunciation": "ooci kuththu",
+        "meaning": { "base_language": "injection" }
+      },
+      {
+        "id": 40,
+        "correct_answer": "ஊர் விழா",
+        "pronunciation": "oor vizha",
+        "meaning": { "base_language": "village festival" }
+      },
+      {
+        "id": 41,
+        "correct_answer": "ஊர் பெருமை",
+        "pronunciation": "oor perumai",
+        "meaning": { "base_language": "pride of village" }
+      },
+      {
+        "id": 42,
+        "correct_answer": "ஊதல் காற்று",
+        "pronunciation": "oodhal kaatru",
+        "meaning": { "base_language": "blowing wind" }
+      },
+      {
+        "id": 43,
+        "correct_answer": "ஊட்டச்சத்து",
+        "pronunciation": "ootta sathu",
+        "meaning": { "base_language": "nutrition" }
+      },
+      {
+        "id": 44,
+        "correct_answer": "ஊர் கலாச்சாரம்",
+        "pronunciation": "oor kalaachaaram",
+        "meaning": { "base_language": "village culture" }
+      },
+      {
+        "id": 45,
+        "correct_answer": "ஊடகச் செய்தி",
+        "pronunciation": "oodaga seidhi",
+        "meaning": { "base_language": "media news" }
+      },
+      {
+        "id": 46,
+        "correct_answer": "ஊழல் வழக்கு",
+        "pronunciation": "oozhal vazhakku",
+        "meaning": { "base_language": "corruption case" }
+      },
+      {
+        "id": 47,
+        "correct_answer": "ஊராட்சி மன்றம்",
+        "pronunciation": "ooratchi manram",
+        "meaning": { "base_language": "panchayat council" }
+      },
+      {
+        "id": 48,
+        "correct_answer": "ஊக்கம் மிகுந்த",
+        "pronunciation": "ookkam migundha",
+        "meaning": { "base_language": "very enthusiastic" }
+      },
+      {
+        "id": 49,
+        "correct_answer": "ஊசி நூல்",
+        "pronunciation": "ooci nool",
+        "meaning": { "base_language": "needle thread" }
+      },
+      {
+        "id": 50,
+        "correct_answer": "ஊதல் இசை",
+        "pronunciation": "oodhal isai",
+        "meaning": { "base_language": "wind music" }
+      },
+      {
+        "id": 51,
+        "correct_answer": "ஊட்டமளி",
+        "pronunciation": "ootam ali",
+        "meaning": { "base_language": "to feed someone" }
+      }
+    ]
+  }
+]

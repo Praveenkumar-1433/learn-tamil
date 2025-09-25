@@ -1,0 +1,419 @@
+[
+  {
+
+    "title": "Tamil Vowel Letter ஔ (au)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "ஔடம்",
+        "pronunciation": "auḍam",
+        "meaning": {
+          "base_language": "ship"
+        }
+      },
+      {
+        "id": 2,
+        "correct_answer": "ஔடதம்",
+        "pronunciation": "auḍatam",
+        "meaning": {
+          "base_language": "medicine"
+        }
+      },
+      {
+        "id": 3,
+        "correct_answer": "ஔடதசாலை",
+        "pronunciation": "auḍatasālai",
+        "meaning": {
+          "base_language": "pharmacy"
+        }
+      },
+      {
+        "id": 4,
+        "correct_answer": "ஔடதக்காரர்",
+        "pronunciation": "auḍatakkārar",
+        "meaning": {
+          "base_language": "pharmacist"
+        }
+      },
+      {
+        "id": 5,
+        "correct_answer": "ஔடதக்கடை",
+        "pronunciation": "auḍatakkaḍai",
+        "meaning": {
+          "base_language": "medical shop"
+        }
+      },
+      {
+        "id": 6,
+        "correct_answer": "ஔவையார்",
+        "pronunciation": "auvaiyār",
+        "meaning": {
+          "base_language": "Avvaiyar (Tamil poetess)"
+        }
+      },
+      {
+        "id": 7,
+        "correct_answer": "ஔடதவியல்",
+        "pronunciation": "auḍataviyaḷ",
+        "meaning": {
+          "base_language": "pharmacology"
+        }
+      },
+      {
+        "id": 8,
+        "correct_answer": "ஔடதபயிற்சி",
+        "pronunciation": "auḍatapaiṟci",
+        "meaning": {
+          "base_language": "pharmaceutical training"
+        }
+      },
+      {
+        "id": 9,
+        "correct_answer": "ஔடதக்கல்வி",
+        "pronunciation": "auḍatakkalvi",
+        "meaning": {
+          "base_language": "medical education"
+        }
+      },
+      {
+        "id": 10,
+        "correct_answer": "ஔடதவியலாளர்",
+        "pronunciation": "auḍataviyaḷāḷar",
+        "meaning": {
+          "base_language": "pharmacologist"
+        }
+      },
+      {
+        "id": 11,
+        "correct_answer": "ஔடதச்சிகிச்சை",
+        "pronunciation": "auḍataccikiccai",
+        "meaning": {
+          "base_language": "pharmaceutical treatment"
+        }
+      },
+      {
+        "id": 12,
+        "correct_answer": "ஔடதவிலை",
+        "pronunciation": "auḍatavilai",
+        "meaning": {
+          "base_language": "medicine price"
+        }
+      },
+      {
+        "id": 13,
+        "correct_answer": "ஔடதமுறை",
+        "pronunciation": "auḍatamuṟai",
+        "meaning": {
+          "base_language": "medical method"
+        }
+      },
+      {
+        "id": 14,
+        "correct_answer": "ஔடதபணி",
+        "pronunciation": "auḍatapaṇi",
+        "meaning": {
+          "base_language": "medical service"
+        }
+      },
+      {
+        "id": 15,
+        "correct_answer": "ஔடதஅமைப்பு",
+        "pronunciation": "auḍata amaippu",
+        "meaning": {
+          "base_language": "medical institution"
+        }
+      },
+      {
+        "id": 16,
+        "correct_answer": "ஔடதமாணவர்",
+        "pronunciation": "auḍatamāṇavar",
+        "meaning": {
+          "base_language": "medical student"
+        }
+      },
+      {
+        "id": 17,
+        "correct_answer": "ஔடதவியாசகம்",
+        "pronunciation": "auḍataviyācakam",
+        "meaning": {
+          "base_language": "pharmaceutical literature"
+        }
+      },
+      {
+        "id": 18,
+        "correct_answer": "ஔடதமருத்துவர்",
+        "pronunciation": "auḍatamaruttuvār",
+        "meaning": {
+          "base_language": "medical doctor"
+        }
+      },
+      {
+        "id": 19,
+        "correct_answer": "ஔடதப்பரிசோதனை",
+        "pronunciation": "auḍatapparisōtaṉai",
+        "meaning": {
+          "base_language": "medical test"
+        }
+      },
+      {
+        "id": 20,
+        "correct_answer": "ஔடதஆராய்ச்சி",
+        "pronunciation": "auḍatārāycci",
+        "meaning": {
+          "base_language": "medical research"
+        }
+      },
+      {
+        "id": 21,
+        "correct_answer": "ஔடதமருந்தகம்",
+        "pronunciation": "auḍatamaruntakam",
+        "meaning": {
+          "base_language": "dispensary"
+        }
+      },
+      {
+        "id": 22,
+        "correct_answer": "ஔடதஅறிவு",
+        "pronunciation": "auḍata aṟivu",
+        "meaning": {
+          "base_language": "medical knowledge"
+        }
+      },
+      {
+        "id": 23,
+        "correct_answer": "ஔடதவிசாரணை",
+        "pronunciation": "auḍatavisāraṇai",
+        "meaning": {
+          "base_language": "pharmaceutical inquiry"
+        }
+      },
+      {
+        "id": 24,
+        "correct_answer": "ஔடதக்கூடம்",
+        "pronunciation": "auḍatakkūṭam",
+        "meaning": {
+          "base_language": "medical hall"
+        }
+      },
+      {
+        "id": 25,
+        "correct_answer": "ஔடதவிளக்கம்",
+        "pronunciation": "auḍataviḷakkam",
+        "meaning": {
+          "base_language": "medical explanation"
+        }
+      },
+      {
+        "id": 26,
+        "correct_answer": "ஔடதவிமர்சனம்",
+        "pronunciation": "auḍatavimarcaṉam",
+        "meaning": {
+          "base_language": "medical criticism"
+        }
+      },
+      {
+        "id": 27,
+        "correct_answer": "ஔடதவிநியோகம்",
+        "pronunciation": "auḍataviniyōkam",
+        "meaning": {
+          "base_language": "distribution of medicine"
+        }
+      },
+      {
+        "id": 28,
+        "correct_answer": "ஔடதசந்தை",
+        "pronunciation": "auḍatacantai",
+        "meaning": {
+          "base_language": "medical market"
+        }
+      },
+      {
+        "id": 29,
+        "correct_answer": "ஔடதநோக்கம்",
+        "pronunciation": "auḍatanōkkam",
+        "meaning": {
+          "base_language": "medical aim"
+        }
+      },
+      {
+        "id": 30,
+        "correct_answer": "ஔடதநூல்",
+        "pronunciation": "auḍatanūl",
+        "meaning": {
+          "base_language": "medical text"
+        }
+      },
+      {
+        "id": 31,
+        "correct_answer": "ஔடதவழி",
+        "pronunciation": "auḍatavaḻi",
+        "meaning": {
+          "base_language": "medical way"
+        }
+      },
+      {
+        "id": 32,
+        "correct_answer": "ஔடதநெறி",
+        "pronunciation": "auḍataṉeṟi",
+        "meaning": {
+          "base_language": "medical discipline"
+        }
+      },
+      {
+        "id": 33,
+        "correct_answer": "ஔடதபோட்டி",
+        "pronunciation": "auḍatapōṭṭi",
+        "meaning": {
+          "base_language": "medical competition"
+        }
+      },
+      {
+        "id": 34,
+        "correct_answer": "ஔடதவிழா",
+        "pronunciation": "auḍataviḻā",
+        "meaning": {
+          "base_language": "medical celebration"
+        }
+      },
+      {
+        "id": 35,
+        "correct_answer": "ஔடதபத்திரிகை",
+        "pronunciation": "auḍatapattirikai",
+        "meaning": {
+          "base_language": "medical journal"
+        }
+      },
+      {
+        "id": 36,
+        "correct_answer": "ஔடதசங்கம்",
+        "pronunciation": "auḍatacaṅkam",
+        "meaning": {
+          "base_language": "medical association"
+        }
+      },
+      {
+        "id": 37,
+        "correct_answer": "ஔடதஅறங்காவலர்",
+        "pronunciation": "auḍata aṟaṅkāvalar",
+        "meaning": {
+          "base_language": "medical trustee"
+        }
+      },
+      {
+        "id": 38,
+        "correct_answer": "ஔடதசேவை",
+        "pronunciation": "auḍatacēvai",
+        "meaning": {
+          "base_language": "medical service"
+        }
+      },
+      {
+        "id": 39,
+        "correct_answer": "ஔடதநிலையம்",
+        "pronunciation": "auḍatanilaiyam",
+        "meaning": {
+          "base_language": "medical station"
+        }
+      },
+      {
+        "id": 40,
+        "correct_answer": "ஔடதஅரங்கம்",
+        "pronunciation": "auḍata araṅkam",
+        "meaning": {
+          "base_language": "medical stage"
+        }
+      },
+      {
+        "id": 41,
+        "correct_answer": "ஔடதமுதல்வர்",
+        "pronunciation": "auḍatamutalvar",
+        "meaning": {
+          "base_language": "chief medical officer"
+        }
+      },
+      {
+        "id": 42,
+        "correct_answer": "ஔடதபயன்பாடு",
+        "pronunciation": "auḍatapayaṉpāḍu",
+        "meaning": {
+          "base_language": "medical usage"
+        }
+      },
+      {
+        "id": 43,
+        "correct_answer": "ஔடதஆலை",
+        "pronunciation": "auḍatāḷai",
+        "meaning": {
+          "base_language": "pharmaceutical factory"
+        }
+      },
+      {
+        "id": 44,
+        "correct_answer": "ஔடதபொருள்",
+        "pronunciation": "auḍataporuḷ",
+        "meaning": {
+          "base_language": "medical substance"
+        }
+      },
+      {
+        "id": 45,
+        "correct_answer": "ஔடதபணியாளர்",
+        "pronunciation": "auḍatapaṇiyāḷar",
+        "meaning": {
+          "base_language": "medical worker"
+        }
+      },
+      {
+        "id": 46,
+        "correct_answer": "ஔடதபயிற்சியாளர்",
+        "pronunciation": "auḍatapaiṟciyāḷar",
+        "meaning": {
+          "base_language": "pharmaceutical trainer"
+        }
+      },
+      {
+        "id": 47,
+        "correct_answer": "ஔடதமாணவிகள்",
+        "pronunciation": "auḍatamāṇavikaḷ",
+        "meaning": {
+          "base_language": "female medical students"
+        }
+      },
+      {
+        "id": 48,
+        "correct_answer": "ஔடதஅங்காடி",
+        "pronunciation": "auḍata aṅkāṭi",
+        "meaning": {
+          "base_language": "drug store"
+        }
+      },
+      {
+        "id": 49,
+        "correct_answer": "ஔடதசாலையாளர்",
+        "pronunciation": "auḍatasālaiyāḷar",
+        "meaning": {
+          "base_language": "pharmacy owner"
+        }
+      },
+      {
+        "id": 50,
+        "correct_answer": "ஔடதமன்றம்",
+        "pronunciation": "auḍatamaṉṟam",
+        "meaning": {
+          "base_language": "medical forum"
+        }
+      },
+      {
+        "id": 51,
+        "correct_answer": "ஔடதஅறிஞர்",
+        "pronunciation": "auḍata aṟiñar",
+        "meaning": {
+          "base_language": "medical scholar"
+        }
+      }
+    ]
+  }
+]

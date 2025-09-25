@@ -1,0 +1,410 @@
+[
+  {
+    "title": "Tamil Pure Consonant வ் (v) ",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "அவ்வம்",
+        "pronunciation": "avvam",
+        "meaning": {
+          "base_language": "that much"
+        }
+      },
+      {
+        "id": 2,
+        "correct_answer": "இவ்வம்",
+        "pronunciation": "ivvam",
+        "meaning": {
+          "base_language": "this much"
+        }
+      },
+      {
+        "id": 3,
+        "correct_answer": "எவ்வம்",
+        "pronunciation": "evvam",
+        "meaning": {
+          "base_language": "how much"
+        }
+      },
+      {
+        "id": 4,
+        "correct_answer": "அவ்விடம்",
+        "pronunciation": "avvitam",
+        "meaning": {
+          "base_language": "That placee"
+        }
+      },
+      {
+        "id": 5,
+        "correct_answer": "உவ்வல்",
+        "pronunciation": "uvval",
+        "meaning": {
+          "base_language": "joy"
+        }
+      },
+      {
+        "id": 6,
+        "correct_answer": "அவ்வை",
+        "pronunciation": "avvai",
+        "meaning": {
+          "base_language": "grandmother"
+        }
+      },
+      {
+        "id": 7,
+        "correct_answer": "இவ்வை",
+        "pronunciation": "ivvai",
+        "meaning": {
+          "base_language": "these"
+        }
+      },
+      {
+        "id": 8,
+        "correct_answer": "எவ்வை",
+        "pronunciation": "evvai",
+        "meaning": {
+          "base_language": "which ones"
+        }
+      },
+      {
+        "id": 9,
+        "correct_answer": "ஒவ்வொன்று",
+        "pronunciation": "ovvondru",
+        "meaning": {
+          "base_language": "each one"
+        }
+      },
+      {
+        "id": 10,
+        "correct_answer": "கவ்வு",
+        "pronunciation": "kavvu",
+        "meaning": {
+          "base_language": "bite"
+        }
+      },
+      {
+        "id": 11,
+        "correct_answer": "தவ்வை",
+        "pronunciation": "thavvai",
+        "meaning": {
+          "base_language": "laundress"
+        }
+      },
+      {
+        "id": 12,
+        "correct_answer": "பவ்வம்",
+        "pronunciation": "pavvam",
+        "meaning": {
+          "base_language": "sin"
+        }
+      },
+      {
+        "id": 13,
+        "correct_answer": "அவ்வாறு",
+        "pronunciation": "avvaru",
+        "meaning": {
+          "base_language": "thus"
+        }
+      },
+      {
+        "id": 14,
+        "correct_answer": "வவ்வால்",
+        "pronunciation": "vavvaal",
+        "meaning": {
+          "base_language": "bat"
+        }
+      },
+      {
+        "id": 15,
+        "correct_answer": "நவ்வு",
+        "pronunciation": "navvu",
+        "meaning": {
+          "base_language": "chew"
+        }
+      },
+      {
+        "id": 16,
+        "correct_answer": "கவ்வல்",
+        "pronunciation": "kavval",
+        "meaning": {
+          "base_language": "guard"
+        }
+      },
+      {
+        "id": 17,
+        "correct_answer": "செவ்வி",
+        "pronunciation": "chevvi",
+        "meaning": {
+          "base_language": "ear ornament"
+        }
+      },
+      {
+        "id": 18,
+        "correct_answer": "இவ்வுலகு",
+        "pronunciation": "ivvulagu",
+        "meaning": {
+          "base_language": "This world"
+        }
+      },
+      {
+        "id": 19,
+        "correct_answer": "தெவ்வம்",
+        "pronunciation": "thevvam",
+        "meaning": {
+          "base_language": "demon"
+        }
+      },
+      {
+        "id": 20,
+        "correct_answer": "குடல்சவ்வு",
+        "pronunciation": "kutalsavvu",
+        "meaning": {
+          "base_language": "Intestinal membrane"
+        }
+      },
+      {
+        "id": 21,
+        "correct_answer": "செவ்வாய்",
+        "pronunciation": "chevvaay",
+        "meaning": {
+          "base_language": "Mars/Tuesday"
+        }
+      },
+      {
+        "id": 22,
+        "correct_answer": "கவ்வி",
+        "pronunciation": "kavvi",
+        "meaning": {
+          "base_language": "tongs"
+        }
+      },
+      {
+        "id": 23,
+        "correct_answer": "அவ்வல்",
+        "pronunciation": "avval",
+        "meaning": {
+          "base_language": "husked rice"
+        }
+      },
+      {
+        "id": 24,
+        "correct_answer": "இவ்வல்",
+        "pronunciation": "ivval",
+        "meaning": {
+          "base_language": "this place"
+        }
+      },
+      {
+        "id": 25,
+        "correct_answer": "எவ்வல்",
+        "pronunciation": "evval",
+        "meaning": {
+          "base_language": "where"
+        }
+      },
+      {
+        "id": 26,
+        "correct_answer": "ஒவ்வல்",
+        "pronunciation": "ovval",
+        "meaning": {
+          "base_language": "agreement"
+        }
+      },
+      {
+        "id": 27,
+        "correct_answer": "உவ்வி",
+        "pronunciation": "uvvi",
+        "meaning": {
+          "base_language": "blow"
+        }
+      },
+      {
+        "id": 28,
+        "correct_answer": "கவ்வை",
+        "pronunciation": "kavvai",
+        "meaning": {
+          "base_language": "bifurcation"
+        }
+      },
+      {
+        "id": 29,
+        "correct_answer": "தவ்வல்",
+        "pronunciation": "thavval",
+        "meaning": {
+          "base_language": "frog"
+        }
+      },
+      {
+        "id": 30,
+        "correct_answer": "பவ்வல்",
+        "pronunciation": "pavval",
+        "meaning": {
+          "base_language": "coral"
+        }
+      },
+      {
+        "id": 31,
+        "correct_answer": "செவ்வந்தி",
+        "pronunciation": "sevvanthi",
+        "meaning": {
+          "base_language": "Amethyst"
+        }
+      },
+      {
+        "id": 32,
+        "correct_answer": "நவ்வல்",
+        "pronunciation": "navval",
+        "meaning": {
+          "base_language": "sugarcane"
+        }
+      },
+      {
+        "id": 33,
+        "correct_answer": "சவ்வரிசி",
+        "pronunciation": "savvarisi",
+        "meaning": {
+          "base_language": "Successor"
+        }
+      },
+      {
+        "id": 34,
+        "correct_answer": "ரவ்வை",
+        "pronunciation": "ravvai",
+        "meaning": {
+          "base_language": "semolina"
+        }
+      },
+      {
+        "id": 35,
+        "correct_answer": "லவ்வம்",
+        "pronunciation": "lavvam",
+        "meaning": {
+          "base_language": "salt"
+        }
+      },
+      {
+        "id": 36,
+        "correct_answer": "சவ்வு",
+        "pronunciation": "chavvu",
+        "meaning": {
+          "base_language": "membrane"
+        }
+      },
+      {
+        "id": 37,
+        "correct_answer": "கவ்வல்காரன்",
+        "pronunciation": "kavvalkaaran",
+        "meaning": {
+          "base_language": "watchman"
+        }
+      },
+      {
+        "id": 38,
+        "correct_answer": "அவ்வப்போது",
+        "pronunciation": "avvappothu",
+        "meaning": {
+          "base_language": "occasionally"
+        }
+      },
+      {
+        "id": 39,
+        "correct_answer": "இவ்வளவு",
+        "pronunciation": "ivvalavu",
+        "meaning": {
+          "base_language": "this much"
+        }
+      },
+      {
+        "id": 40,
+        "correct_answer": "அவ்வளவு",
+        "pronunciation": "avvalavu",
+        "meaning": {
+          "base_language": "that much"
+        }
+      },
+      {
+        "id": 41,
+        "correct_answer": "எவ்வளவு",
+        "pronunciation": "evvalavu",
+        "meaning": {
+          "base_language": "how much"
+        }
+      },
+      {
+        "id": 42,
+        "correct_answer": "ஒவ்வாமை",
+        "pronunciation": "ovvaamai",
+        "meaning": {
+          "base_language": "allergy"
+        }
+      },
+      {
+        "id": 43,
+        "correct_answer": "கவ்விக்கொள்",
+        "pronunciation": "kavvikkol",
+        "meaning": {
+          "base_language": "to bite and hold"
+        }
+      },
+      {
+        "id": 44,
+        "correct_answer": "செவ்வேல்",
+        "pronunciation": "chevvel",
+        "meaning": {
+          "base_language": "red spear"
+        }
+      },
+      {
+        "id": 45,
+        "correct_answer": "வவ்வால்பழம்",
+        "pronunciation": "vavvaalpazham",
+        "meaning": {
+          "base_language": "custard apple"
+        }
+      },
+      {
+        "id": 46,
+        "correct_answer": "செவ்வாழை",
+        "pronunciation": "sevvazhai",
+        "meaning": {
+          "base_language": "Red Banana"
+        }
+      },
+      {
+        "id": 47,
+        "correct_answer": "கவ்வாலி",
+        "pronunciation": "kavvaali",
+        "meaning": {
+          "base_language": "qawwali"
+        }
+      },
+      {
+        "id": 48,
+        "correct_answer": "அவ்விதம்",
+        "pronunciation": "avvidham",
+        "meaning": {
+          "base_language": "that way"
+        }
+      },
+      {
+        "id": 49,
+        "correct_answer": "இவ்விதம்",
+        "pronunciation": "ividham",
+        "meaning": {
+          "base_language": "this way"
+        }
+      },
+      {
+        "id": 50,
+        "correct_answer": "எவ்விதம்",
+        "pronunciation": "evidham",
+        "meaning": {
+          "base_language": "which way"
+        }
+      }
+    ]
+  }
+]

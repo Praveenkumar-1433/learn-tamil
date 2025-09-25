@@ -1,0 +1,310 @@
+[
+  {
+    "title": "Tamil Pure Consonant த் (th)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "அத்தை",
+        "pronunciation": "attai",
+        "meaning": { "base_language": "aunty (father's sister)" }
+      },
+      {
+        "id": 2,
+        "correct_answer": "பத்து",
+        "pronunciation": "pattu",
+        "meaning": { "base_language": "ten" }
+      },
+      {
+        "id": 3,
+        "correct_answer": "கத்தி",
+        "pronunciation": "katti",
+        "meaning": { "base_language": "knife" }
+      },
+      {
+        "id": 4,
+        "correct_answer": "மத்தி",
+        "pronunciation": "matti",
+        "meaning": { "base_language": "sardine fish" }
+      },
+      {
+        "id": 5,
+        "correct_answer": "பத்தி",
+        "pronunciation": "patti",
+        "meaning": { "base_language": "devotion" }
+      },
+      {
+        "id": 6,
+        "correct_answer": "எத்தனை",
+        "pronunciation": "ethanai",
+        "meaning": { "base_language": "how many" }
+      },
+      {
+        "id": 7,
+        "correct_answer": "சத்தம்",
+        "pronunciation": "sattam",
+        "meaning": { "base_language": "sound/noise" }
+      },
+      {
+        "id": 8,
+        "correct_answer": "கத்தரி",
+        "pronunciation": "kattari",
+        "meaning": { "base_language": "eggplant" }
+      },
+      {
+        "id": 9,
+        "correct_answer": "முத்து",
+        "pronunciation": "muttu",
+        "meaning": { "base_language": "pearl" }
+      },
+      {
+        "id": 10,
+        "correct_answer": "பத்தி",
+        "pronunciation": "patti",
+        "meaning": { "base_language": "grandmother" }
+      },
+      {
+        "id": 11,
+        "correct_answer": "நத்தை",
+        "pronunciation": "nattai",
+        "meaning": { "base_language": "snail" }
+      },
+      {
+        "id": 12,
+        "correct_answer": "வத்து",
+        "pronunciation": "vattu",
+        "meaning": { "base_language": "dried vegetable" }
+      },
+      {
+        "id": 13,
+        "correct_answer": "ஒத்தை",
+        "pronunciation": "ottai",
+        "meaning": { "base_language": "single/odd" }
+      },
+      {
+        "id": 14,
+        "correct_answer": "பத்திர",
+        "pronunciation": "pattira",
+        "meaning": { "base_language": "document/certificate" }
+      },
+      {
+        "id": 15,
+        "correct_answer": "அத்தன்",
+        "pronunciation": "attan",
+        "meaning": { "base_language": "uncle (father's brother)" }
+      },
+      {
+        "id": 16,
+        "correct_answer": "கத்துக்கொள்",
+        "pronunciation": "kattukol",
+        "meaning": { "base_language": "to learn" }
+      },
+      {
+        "id": 17,
+        "correct_answer": "சித்து",
+        "pronunciation": "sittu",
+        "meaning": { "base_language": "ready/prepared" }
+      },
+      {
+        "id": 18,
+        "correct_answer": "பித்தன்",
+        "pronunciation": "pittan",
+        "meaning": { "base_language": "mad person" }
+      },
+      {
+        "id": 19,
+        "correct_answer": "கத்தல்",
+        "pronunciation": "kattal",
+        "meaning": { "base_language": "shouting" }
+      },
+      {
+        "id": 20,
+        "correct_answer": "பத்தில்",
+        "pronunciation": "pattil",
+        "meaning": { "base_language": "in place of" }
+      },
+      {
+        "id": 21,
+        "correct_answer": "வெத்து",
+        "pronunciation": "vettu",
+        "meaning": { "base_language": "plain/simple" }
+      },
+      {
+        "id": 22,
+        "correct_answer": "தத்துவ",
+        "pronunciation": "tattuva",
+        "meaning": { "base_language": "philosophy" }
+      },
+      {
+        "id": 23,
+        "correct_answer": "சத்தியம்",
+        "pronunciation": "sattiyam",
+        "meaning": { "base_language": "truth" }
+      },
+      {
+        "id": 24,
+        "correct_answer": "கத்தோலிக்க",
+        "pronunciation": "kattolic",
+        "meaning": { "base_language": "catholic" }
+      },
+      {
+        "id": 25,
+        "correct_answer": "பத்மம்",
+        "pronunciation": "patmam",
+        "meaning": { "base_language": "lotus" }
+      },
+      {
+        "id": 26,
+        "correct_answer": "மத்தியம்",
+        "pronunciation": "mattiyam",
+        "meaning": { "base_language": "middle/center" }
+      },
+      {
+        "id": 27,
+        "correct_answer": "கத்தூர்",
+        "pronunciation": "kattur",
+        "meaning": { "base_language": "camphor" }
+      },
+      {
+        "id": 28,
+        "correct_answer": "உத்தம",
+        "pronunciation": "uttama",
+        "meaning": { "base_language": "excellent/best" }
+      },
+      {
+        "id": 29,
+        "correct_answer": "சித்திரம்",
+        "pronunciation": "sittiram",
+        "meaning": { "base_language": "picture/art" }
+      },
+      {
+        "id": 30,
+        "correct_answer": "பக்தி",
+        "pronunciation": "pakti",
+        "meaning": { "base_language": "devotion" }
+      },
+      {
+        "id": 31,
+        "correct_answer": "யுக்தி",
+        "pronunciation": "yukti",
+        "meaning": { "base_language": "logic/trick" }
+      },
+      {
+        "id": 32,
+        "correct_answer": "சக்தி",
+        "pronunciation": "sakti",
+        "meaning": { "base_language": "power/strength" }
+      },
+      {
+        "id": 33,
+        "correct_answer": "முக்தி",
+        "pronunciation": "mukti",
+        "meaning": { "base_language": "liberation" }
+      },
+      {
+        "id": 34,
+        "correct_answer": "ரத்து",
+        "pronunciation": "rattu",
+        "meaning": { "base_language": "cancel/void" }
+      },
+      {
+        "id": 35,
+        "correct_answer": "நித்தம்",
+        "pronunciation": "nittam",
+        "meaning": { "base_language": "daily" }
+      },
+      {
+        "id": 36,
+        "correct_answer": "சுத்தம்",
+        "pronunciation": "suttam",
+        "meaning": { "base_language": "clean" }
+      },
+      {
+        "id": 37,
+        "correct_answer": "கெத்து",
+        "pronunciation": "kettu",
+        "meaning": { "base_language": "style/swagger" }
+      },
+      {
+        "id": 38,
+        "correct_answer": "வித்தை",
+        "pronunciation": "vittai",
+        "meaning": { "base_language": "skill/art" }
+      },
+      {
+        "id": 39,
+        "correct_answer": "கித்தார்",
+        "pronunciation": "kittar",
+        "meaning": { "base_language": "guitar" }
+      },
+      {
+        "id": 40,
+        "correct_answer": "பித்தளை",
+        "pronunciation": "pittlai",
+        "meaning": { "base_language": "brass" }
+      },
+      {
+        "id": 41,
+        "correct_answer": "சத்துரு",
+        "pronunciation": "satturu",
+        "meaning": { "base_language": "enemy" }
+      },
+      {
+        "id": 42,
+        "correct_answer": "கத்துவ",
+        "pronunciation": "kattuva",
+        "meaning": { "base_language": "to tie/bind" }
+      },
+      {
+        "id": 43,
+        "correct_answer": "வெத்தலை",
+        "pronunciation": "vettalai",
+        "meaning": { "base_language": "betel leaf" }
+      },
+      {
+        "id": 44,
+        "correct_answer": "பத்தாம்",
+        "pronunciation": "pattam",
+        "meaning": { "base_language": "tenth" }
+      },
+      {
+        "id": 45,
+        "correct_answer": "மித்திரன்",
+        "pronunciation": "mittiran",
+        "meaning": { "base_language": "friend" }
+      },
+      {
+        "id": 46,
+        "correct_answer": "சத்கதி",
+        "pronunciation": "satkati",
+        "meaning": { "base_language": "good fate" }
+      },
+      {
+        "id": 47,
+        "correct_answer": "பத்திரிக்கை",
+        "pronunciation": "pattirikai",
+        "meaning": { "base_language": "newspaper" }
+      },
+      {
+        "id": 48,
+        "correct_answer": "அத்தியாய",
+        "pronunciation": "attiyaya",
+        "meaning": { "base_language": "chapter" }
+      },
+      {
+        "id": 49,
+        "correct_answer": "நத்தார்",
+        "pronunciation": "nattar",
+        "meaning": { "base_language": "Christian community" }
+      },
+      {
+        "id": 50,
+        "correct_answer": "கத்தல்",
+        "pronunciation": "kattal",
+        "meaning": { "base_language": "crying/shouting" }
+      }
+    ]
+  }
+]

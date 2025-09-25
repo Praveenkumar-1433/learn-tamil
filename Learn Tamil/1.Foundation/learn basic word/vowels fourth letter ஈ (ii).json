@@ -1,0 +1,317 @@
+[
+  {
+   
+    "title": "Tamil Vowel Letter ஈ (ee)",
+    "primary_language": "en-in-x-ena-local",
+    "secondary_language": "ta-in-x-tad-local",
+    "instruction": "Meaning",
+    "exercise": [
+      {
+        "id": 1,
+        "correct_answer": "ஈ",
+        "pronunciation": "ee",
+        "meaning": { "base_language": "fly (insect)" }
+      },
+      {
+        "id": 2,
+        "correct_answer": "ஈகை",
+        "pronunciation": "eekai",
+        "meaning": { "base_language": "charity" }
+      },
+      {
+        "id": 3,
+        "correct_answer": "ஈரம்",
+        "pronunciation": "eeram",
+        "meaning": { "base_language": "moisture" }
+      },
+      {
+        "id": 4,
+        "correct_answer": "ஈட்டி",
+        "pronunciation": "eetti",
+        "meaning": { "base_language": "spear" }
+      },
+      {
+        "id": 5,
+        "correct_answer": "ஈரல்",
+        "pronunciation": "eeral",
+        "meaning": { "base_language": "liver" }
+      },
+      {
+        "id": 6,
+        "correct_answer": "ஈசன்",
+        "pronunciation": "eesan",
+        "meaning": { "base_language": "god" }
+      },
+      {
+        "id": 7,
+        "correct_answer": "ஈர்ப்பு",
+        "pronunciation": "eerppu",
+        "meaning": { "base_language": "attraction" }
+      },
+      {
+        "id": 8,
+        "correct_answer": "ஈடு",
+        "pronunciation": "eedu",
+        "meaning": { "base_language": "compensation" }
+      },
+      {
+        "id": 9,
+        "correct_answer": "ஈமான்",
+        "pronunciation": "eemaan",
+        "meaning": { "base_language": "faith" }
+      },
+      {
+        "id": 10,
+        "correct_answer": "ஈரம் பூசல்",
+        "pronunciation": "eeram poosal",
+        "meaning": { "base_language": "humidification" }
+      },
+      {
+        "id": 11,
+        "correct_answer": "ஈட்டி வீரர்",
+        "pronunciation": "eetti veerar",
+        "meaning": { "base_language": "spearman" }
+      },
+      {
+        "id": 12,
+        "correct_answer": "ஈசுவரன்",
+        "pronunciation": "eesvaran",
+        "meaning": { "base_language": "lord shiva" }
+      },
+      {
+        "id": 13,
+        "correct_answer": "ஈரம் குறை",
+        "pronunciation": "eeram kurai",
+        "meaning": { "base_language": "lack of moisture" }
+      },
+      {
+        "id": 14,
+        "correct_answer": "ஈட்டம்",
+        "pronunciation": "eettam",
+        "meaning": { "base_language": "gain" }
+      },
+      {
+        "id": 15,
+        "correct_answer": "ஈகை மனம்",
+        "pronunciation": "eekai manam",
+        "meaning": { "base_language": "generous mind" }
+      },
+      {
+        "id": 16,
+        "correct_answer": "ஈடுசெய்",
+        "pronunciation": "eedusei",
+        "meaning": { "base_language": "to compensate" }
+      },
+      {
+        "id": 17,
+        "correct_answer": "ஈரம் நிறைந்த",
+        "pronunciation": "eeram nirainda",
+        "meaning": { "base_language": "moist" }
+      },
+      {
+        "id": 18,
+        "correct_answer": "ஈசர்",
+        "pronunciation": "eesar",
+        "meaning": { "base_language": "godly person" }
+      },
+      {
+        "id": 19,
+        "correct_answer": "ஈட்டுதல்",
+        "pronunciation": "eettutal",
+        "meaning": { "base_language": "earning" }
+      },
+      {
+        "id": 20,
+        "correct_answer": "ஈவுகை",
+        "pronunciation": "eevugai",
+        "meaning": { "base_language": "donation" }
+      },
+      {
+        "id": 21,
+        "correct_answer": "ஈரம் வாயு",
+        "pronunciation": "eeram vaayu",
+        "meaning": { "base_language": "humidity" }
+      },
+      {
+        "id": 22,
+        "correct_answer": "ஈமச்சடங்கு",
+        "pronunciation": "eemachadangu",
+        "meaning": { "base_language": "funeral ritual" }
+      },
+      {
+        "id": 23,
+        "correct_answer": "ஈசுபதம்",
+        "pronunciation": "eesupatham",
+        "meaning": { "base_language": "divine word" }
+      },
+      {
+        "id": 24,
+        "correct_answer": "ஈட்டுப் பொருள்",
+        "pronunciation": "eettup porul",
+        "meaning": { "base_language": "earning" }
+      },
+      {
+        "id": 25,
+        "correct_answer": "ஈசுபிரியன்",
+        "pronunciation": "eesubriyan",
+        "meaning": { "base_language": "devotee of god" }
+      },
+      {
+        "id": 26,
+        "correct_answer": "ஈடுபாடு",
+        "pronunciation": "eedupaadu",
+        "meaning": { "base_language": "participation" }
+      },
+      {
+        "id": 27,
+        "correct_answer": "ஈர்க்கை",
+        "pronunciation": "eerkai",
+        "meaning": { "base_language": "attractiveness" }
+      },
+      {
+        "id": 28,
+        "correct_answer": "ஈடு இணை",
+        "pronunciation": "eedu inai",
+        "meaning": { "base_language": "equivalent" }
+      },
+      {
+        "id": 29,
+        "correct_answer": "ஈர்க்கும் சக்தி",
+        "pronunciation": "eerkum sakthi",
+        "meaning": { "base_language": "magnetism" }
+      },
+      {
+        "id": 30,
+        "correct_answer": "ஈமம்",
+        "pronunciation": "eemam",
+        "meaning": { "base_language": "grave" }
+      },
+      {
+        "id": 31,
+        "correct_answer": "ஈயல்",
+        "pronunciation": "eeyal",
+        "meaning": { "base_language": "nature (quality)" }
+      },
+      {
+        "id": 32,
+        "correct_answer": "ஈர்ப்பு விசை",
+        "pronunciation": "eerppu visai",
+        "meaning": { "base_language": "gravitational force" }
+      },
+      {
+        "id": 33,
+        "correct_answer": "ஈகை மனசு",
+        "pronunciation": "eekai manasu",
+        "meaning": { "base_language": "charitable heart" }
+      },
+      {
+        "id": 34,
+        "correct_answer": "ஈடுசெய்தல்",
+        "pronunciation": "eeduseithal",
+        "meaning": { "base_language": "compensating" }
+      },
+      {
+        "id": 35,
+        "correct_answer": "ஈர்ப்பு விதி",
+        "pronunciation": "eerppu vidhi",
+        "meaning": { "base_language": "law of attraction" }
+      },
+      {
+        "id": 36,
+        "correct_answer": "ஈவுகாரர்",
+        "pronunciation": "eevukaarar",
+        "meaning": { "base_language": "donor" }
+      },
+      {
+        "id": 37,
+        "correct_answer": "ஈசுரன்",
+        "pronunciation": "eesuran",
+        "meaning": { "base_language": "lord" }
+      },
+      {
+        "id": 38,
+        "correct_answer": "ஈவுத்தொகை",
+        "pronunciation": "eevuthogai",
+        "meaning": { "base_language": "alms" }
+      },
+      {
+        "id": 39,
+        "correct_answer": "ஈர்த்தல்",
+        "pronunciation": "eerthal",
+        "meaning": { "base_language": "to pull" }
+      },
+      {
+        "id": 40,
+        "correct_answer": "ஈமான் நம்பிக்கை",
+        "pronunciation": "eemaan nambikkai",
+        "meaning": { "base_language": "faith in god" }
+      },
+      {
+        "id": 41,
+        "correct_answer": "ஈர்ப்பு நிலை",
+        "pronunciation": "eerppu nilai",
+        "meaning": { "base_language": "state of attraction" }
+      },
+      {
+        "id": 42,
+        "correct_answer": "ஈடுசெய்யும் பொருள்",
+        "pronunciation": "eeduseyyum porul",
+        "meaning": { "base_language": "replacement item" }
+      },
+      {
+        "id": 43,
+        "correct_answer": "ஈசுரன் ஆலயம்",
+        "pronunciation": "eesuran aalayam",
+        "meaning": { "base_language": "temple of god" }
+      },
+      {
+        "id": 44,
+        "correct_answer": "ஈமான் வாழ்க்கை",
+        "pronunciation": "eemaan vaalkkai",
+        "meaning": { "base_language": "life of faith" }
+      },
+      {
+        "id": 45,
+        "correct_answer": "ஈரத்தன்மை",
+        "pronunciation": "eeraththanmai",
+        "meaning": { "base_language": "wetness" }
+      },
+      {
+        "id": 46,
+        "correct_answer": "ஈகை செயல்",
+        "pronunciation": "eekai seyal",
+        "meaning": { "base_language": "act of giving" }
+      },
+      {
+        "id": 47,
+        "correct_answer": "ஈட்டிய வருவாய்",
+        "pronunciation": "eettiya varuvaai",
+        "meaning": { "base_language": "earned income" }
+      },
+      {
+        "id": 48,
+        "correct_answer": "ஈவுதன்மை",
+        "pronunciation": "eevuthanmai",
+        "meaning": { "base_language": "generosity" }
+      },
+      {
+        "id": 49,
+        "correct_answer": "ஈசுவின் அன்பு",
+        "pronunciation": "eesuvin anbu",
+        "meaning": { "base_language": "love of god" }
+      },
+      {
+        "id": 50,
+        "correct_answer": "ஈமச் சடங்கு",
+        "pronunciation": "eema sadangu",
+        "meaning": { "base_language": "burial ritual" }
+      },
+      {
+        "id": 51,
+        "correct_answer": "ஈர்க்கும் தன்மை",
+        "pronunciation": "eerkum thanmai",
+        "meaning": { "base_language": "magnetic property" }
+      }
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[{
+  "screen_type": "Learn and Practice with Image",
+  "screen_type_id": 17,
+  "title": "Learn Uyir Mei Letters",
+  "secondary_language": "ta-in-x-tad-local",
+  "instruction": "Listen, View and Repeat",
+  "exercise": [
+    {
+      "image_description": "ங",
+      "image_url_light": "https://example.com/images/ng_light.png",
+      "image_url_dark": "https://example.com/images/ng_dark.png"
+    },
+    {
+      "image_description": "ஙா",
+      "image_url_light": "https://example.com/images/ngaa_light.png",
+      "image_url_dark": "https://example.com/images/ngaa_dark.png"
+    },
+    {
+      "image_description": "ஙி",
+      "image_url_light": "https://example.com/images/ngi_light.png",
+      "image_url_dark": "https://example.com/images/ngi_dark.png"
+    },
+    {
+      "image_description": "ஙீ",
+      "image_url_light": "https://example.com/images/ngee_light.png",
+      "image_url_dark": "https://example.com/images/ngee_dark.png"
+    },
+    {
+      "image_description": "ஙு",
+      "image_url_light": "https://example.com/images/ngu_light.png",
+      "image_url_dark": "https://example.com/images/ngu_dark.png"
+    },
+    {
+      "image_description": "ஙூ",
+      "image_url_light": "https://example.com/images/ngoo_light.png",
+      "image_url_dark": "https://example.com/images/ngoo_dark.png"
+    },
+    {
+      "image_description": "ஙெ",
+      "image_url_light": "https://example.com/images/nge_light.png",
+      "image_url_dark": "https://example.com/images/nge_dark.png"
+    },
+    {
+      "image_description": "ஙே",
+      "image_url_light": "https://example.com/images/ngee_light.png",
+      "image_url_dark": "https://example.com/images/ngee_dark.png"
+    },
+    {
+      "image_description": "ஙை",
+      "image_url_light": "https://example.com/images/ngai_light.png",
+      "image_url_dark": "https://example.com/images/ngai_dark.png"
+    },
+    {
+      "image_description": "ஙொ",
+      "image_url_light": "https://example.com/images/ngo_light.png",
+      "image_url_dark": "https://example.com/images/ngo_dark.png"
+    },
+    {
+      "image_description": "ஙோ",
+      "image_url_light": "https://example.com/images/ngoo_long_light.png",
+      "image_url_dark": "https://example.com/images/ngoo_long_dark.png"
+    },
+    {
+      "image_description": "ஙௌ",
+      "image_url_light": "https://example.com/images/ngau_light.png",
+      "image_url_dark": "https://example.com/images/ngau_dark.png"
+    }],
+    "intro_screen_title": "Learn Uyir Mei Ezhuthukal",
+    "intro_screen": [
+      {
+        "sub_title": "Uyir Mei (உயிர் மெய் எழுத்துகள்)",
+       
+        "description":"The (Vowel + Consonant)உயிர்மெய் எழுத்துக்கள் are compound letters in Tamil formed by combining a consonant (மெய்) with a vowel (உயிர்). For example, the consonant ங்(ng) combines with vowels to form க, கா, கி, கீ, கு, கூ, கெ, கே, கை, கொ, கோ, கௌ.  "
+      },
+       {
+        "banner_img": [
+          {
+            "image_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/746/image_56_18092025124548.png",
+            "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/746/image_50_18092025124454.png"
+          },
+           {
+            "image_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/746/image_52_18092025124459.png",
+            "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/746/image_51_18092025124501.png"
+          },
+           {
+            "image_light": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/746/image_60_18092025124342.png",
+            "image_dark": "https://skillerdev.blob.core.windows.net/dev/User/9f7244a2-ff3a-4e94-b93f-f1fd448bcda1/course/803/ExerciseAssets/746/image_59_18092025124347.png"
+          }
+        ]
+      }
+  ]
+}
+]
